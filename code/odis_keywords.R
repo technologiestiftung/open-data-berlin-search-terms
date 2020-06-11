@@ -38,7 +38,7 @@ rm(json_file,list_json,searchTerms,split_searchTerms,unl_searchTerms)
 df$term <- gsub('[[:punct:] ]+',' ',df$term)
 df$term <- tolower(df$term)
 
-# Stem strings (Geman)
+# Stem strings (German)
 df$term_stem <- NA
 df$term_stem <- text_tokens(df$term, stemmer = "de")  
 df$term_stem <- as.character(df$term_stem)
