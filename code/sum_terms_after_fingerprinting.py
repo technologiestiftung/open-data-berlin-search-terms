@@ -22,8 +22,11 @@ with open("data/clean_term_phon_fingerpr.csv", 'r') as f:
             vis += visits
             keep[term] = [fid, imp, vis]
     f.close()
+    
 # save dictionary to new csv
 with open('data/summed_terms_after_fingerpr.csv', 'w') as newf:
     for term in keep.keys():
         fid, imp, vis = keep[term]
-        newf.write(f"{fid},{term},{imp},{vis}\n")
+        # add term to csv only if it has at least 2 impressions
+        if imp > 1:
+            newf.write(f"{fid},{term},{imp},{vis}\n")
