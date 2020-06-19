@@ -1,0 +1,59 @@
+import json
+
+with open("code/categories.json", "r") as read_file:
+    categories_list = json.load(read_file)
+
+
+
+    ids = {"1": "Arbeitsmarkt",
+        "2": "Bildung",
+        "3" : "Demographie",
+        "4": "Geographie und Stadtplanung",
+        "5": "Gesundheit",
+        "6": "Jugend",
+        "7": "Kunst und Kultur",
+        "8": "Öffentliche Verwaltung, Haushalt und Steuern",
+        "9": "Protokolle und Beschlüsse",
+        "10": "Sonstiges",
+        "11": "Sozialleistungen",
+        "12": "Sport und Erholung",
+        "13": "Tourismus",
+        "14": "Umwelt und Klima",
+        "15": "Ver- und Entsorgung",
+        "16": "Verbraucherschutz",
+        "17": "Verkehr",
+        "18": "Wahlen",
+        "19": "Wirtschaft",
+        "20": "Wohnen und Immobilien"
+        }
+
+    term_dict = {}
+    # load csv
+    with open("data/summed_terms_after_fingerpr.csv", 'r') as f:
+        for line in f:
+            id_, term, impressions, visits = line.strip().split(',')
+            for i, category in enumerate(categories_list.keys()):
+                print(i, term, category)
+                if term in categories_list[category]:
+                    term_dict[term] = [id_, impressions, visits, category]
+                    print("The term '" + term +  "' is assigned to the category '" + category + "'")
+                    break
+                elif i == len(categories_list.keys())-1:
+                    print("\n1 - Arbeitsmarkt , \n2 - Bildung , \n3 - Demographie, \n4 - Geographie und Stadtplanung, \n5 - Gesundheit, \n6 - Jugend, \n7 - Kunst und Kultur, \n8 - Öffentliche Verwaltung, Haushalt und Steuern, \n9 - Protokolle und Beschlüsse, \n10 - Sonstiges, \n11 - Sozialleistungen, \n12 - Sport und Erholung, \n13 - Tourismus, \n14 - Umwelt und Klima, \n15 - Ver- und Entsorgung, \n16 - Verbraucherschutz, \n17 - Verkehr, \n18 - Wahlen, \n19 - Wirtschaft, \n20 - Wohnen und Immobilien ")
+                    print("\n'" + term +  "' has no category assigned yet.")
+                    category_id = input("\nEnter category number to assign:")
+                    print("\n")
+                    category = ids[category_id] 
+                    categories_list[category].append(term)
+                    print(categories_list)
+
+            # save term with category to new csv
+            with open('data/terms_categories.csv', 'w') as newf:
+                for term in term_dict.keys():
+                    fid, imp, vis, category = term_dict[term]
+                    newf.write(f"{fid},{term},{imp},{vis},{category}\n")
+
+            # save assigned categories to json file
+            with open("code/categories.json", "w") as write_file:
+                json.dump(categories_list, write_file, indent =4)
+
