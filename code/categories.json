@@ -1,47 +1,62 @@
 {
-    "Arbeitsmarkt": [],
-    "Bildung": [],
-    "Demographie": [],
+    "Arbeitsmarkt": [
+
+    ],
+    "Bildung": [
+ 
+    ],
+    "Demographie": [
+
+    ],
     "Geographie und Stadtplanung": [
-        "friedrichshain kreuzberg",
-        "vermess at ba fk berlin de",
-        "rbs",
-        "planungsraum",
-        "ortsteil",
-        "luftbild"
+
     ],
     "Gesundheit": [
-        "corona"
+
     ],
     "Jugend": [
-        "spielplatz",
-        "kind"
+
     ],
-    "Kunst und Kultur": [],
-    "\u00d6ffentliche Verwaltung, Haushalt und Steuern": [],
-    "Protokolle und Beschl\u00fcsse": [],
+    "Kunst und Kultur": [
+
+    ],
+    "\u00d6ffentliche Verwaltung, Haushalt und Steuern": [
+
+    ],
+    "Protokolle und Beschl\u00fcsse": [
+
+    ],
     "Sonstiges": [
-        "haushalt",
-        "vornam",
-        "wms"
+
     ],
-    "Sozialleistungen": [],
-    "Sport und Erholung": [],
-    "Tourismus": [],
+    "Sozialleistungen": [
+
+    ],
+    "Sport und Erholung": [
+
+    ],
+    "Tourismus": [
+
+    ],
     "Umwelt und Klima": [
-        "grunanlag",
-        "grunanlagenbestand",
-        "erdwarm",
-        "gruenflaech"
+ 
     ],
-    "Ver- und Entsorgung": [],
-    "Verbraucherschutz": [],
+    "Ver- und Entsorgung": [
+
+    ],
+    "Verbraucherschutz": [
+
+    ],
     "Verkehr": [
-        "bvg"
+
     ],
-    "Wahlen": [],
-    "Wirtschaft": [],
+    "Wahlen": [
+       
+    ],
+    "Wirtschaft": [
+
+    ],
     "Wohnen und Immobilien": [
-        "gebaud"
+
     ]
 }

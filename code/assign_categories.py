@@ -1,10 +1,20 @@
+#### assign_categories.py
+
+""" Run this script to assign categories of the open data portal to the terms.
+Terms that have been assigned in a previous run, will be assigned automatically to the same category.
+For all other terms: Type in the ID to assign the word to the appropriate category.
+The results are saved automatically: 
+terms_categories.csv is the input .csv, but with a new column that contains the categories.
+categories.json stores your assigned words in lists
+ """
+ 
 import json
 
+# Open the json file that includes already assigned lists of terms 
 with open("code/categories.json", "r") as read_file:
     categories_list = json.load(read_file)
 
-
-
+    # set new dictonairy to connect the categories with an id
     ids = {"1": "Arbeitsmarkt",
         "2": "Bildung",
         "3" : "Demographie",
@@ -28,12 +38,12 @@ with open("code/categories.json", "r") as read_file:
         }
 
     term_dict = {}
-    # load csv
+    # load csv that includes the terms
     with open("data/summed_terms_after_fingerpr.csv", 'r') as f:
         for line in f:
             id_, term, impressions, visits = line.strip().split(',')
             for i, category in enumerate(categories_list.keys()):
-                print(i, term, category)
+                #print(i, term, category)
                 if term in categories_list[category]:
                     term_dict[term] = [id_, impressions, visits, category]
                     print("The term '" + term +  "' is assigned to the category '" + category + "'")
@@ -45,7 +55,7 @@ with open("code/categories.json", "r") as read_file:
                     print("\n")
                     category = ids[category_id] 
                     categories_list[category].append(term)
-                    print(categories_list)
+                    #print(categories_list)
 
             # save term with category to new csv
             with open('data/terms_categories.csv', 'w') as newf:
