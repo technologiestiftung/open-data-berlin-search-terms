@@ -19,6 +19,6 @@ Run *sum_terms_after_fingerprinting.py* to sum up impressions and visits of term
 
 #### Step 3:
 Run *assign_categories.py* to assign categories of the open data portal to the terms.
-Terms that have been assigned in a previous run, will be assigned automatically to the same category.
+Terms that have been assigned in a previous run, will be assigned automatically to the same category, because there are stored in *categories.json*.
 For all other terms: Type in the ID to assign the word to the appropriate category.
-The results are saved automatically in *terms_categories.csv*.
+The results are saved immediately in *terms_categories.csv*.
