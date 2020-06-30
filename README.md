@@ -1,4 +1,4 @@
-# suchbegriffe_berlin.de
+# Open Data Berlin - Search terms
 
 This repository contains scripts for processing the open dataset of search terms in the [Open Data Portal Berlin](https://daten.berlin.de).
 
