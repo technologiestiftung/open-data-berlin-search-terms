@@ -53,8 +53,11 @@ with open("code/categories.json", "r") as read_file:
                     print("\n'" + term +  "' has no category assigned yet.")
                     category_id = input("\nEnter category number to assign:")
                     print("\n")
+                    while category_id not in ids.keys():
+                        category_id = input("This is not a valid number. Please enter new number:")
                     category = ids[category_id] 
                     categories_list[category].append(term)
+                    term_dict[term] = [id_, impressions, visits, category]
                     #print(categories_list)
 
             # save term with category to new csv
