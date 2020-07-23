@@ -1,0 +1,748 @@
+"","term_stem","impressions","visits"
+"1","geodat",87,7
+"2","rbs",30,11
+"3","alkis",37,14
+"4","flurkart",33,20
+"5","adress",29,8
+"6","verkehr",15,3
+"7","bezirk",27,11
+"8","vornam",15,13
+"9","geometri",13,4
+"10","ortsteil",14,10
+"11","gtfs",14,13
+"12","ozon",10,8
+"13","dgm",12,7
+"14","parkplatz",8,3
+"15","open data",8,1
+"16","einwohn",13,6
+"17","lor",9,6
+"18","vermess at ba fk berlin de",7,3
+"19","kart",12,3
+"20","strassenbefahr",7,2
+"21","transport",7,3
+"22","fahrrad",14,12
+"23","shapefil",8,7
+"24","shap",6,3
+"25","biotop und artenschutz biotop und artenschutz",6,1
+"26","gebaud",10,7
+"27","geltungsbereich",9,5
+"28","bevolker",9,7
+"29","flurstuck",10,6
+"30","feinstaub",6,3
+"31","berlin",6,2
+"32","vbb",9,8
+"33","dop",7,5
+"34","mietendeckel",5,2
+"35","gis",5,4
+"36","bezirksamt friedrichshain kreuzberg von berlin vermess",5,1
+"37","wfs",8,2
+"38","geothermi",5,1
+"39","haltestell",7,6
+"40","einwohnerdicht",5,1
+"41","arbeitslosenquot",5,1
+"42","famfz 2017",4,2
+"43","schutzgebiet",4,1
+"44","alt friedhof wuhlgart",4,1
+"45","polizei",4,2
+"46","migrationshintergrund",4,2
+"47","weihnachtsmarkt",5,2
+"48","fahrplan",6,5
+"49","umweltatlas",7,4
+"50","grundwass",6,3
+"51","tourismus",4,3
+"52","bezirksgrenz",4,1
+"53","zahlstell",5,5
+"54","koordinat",4,1
+"55","grundwass tief fransoch buchholz",4,1
+"56","atkis",5,4
+"57","u bahn",5,3
+"58","offent",4,1
+"59","rad",4,4
+"60","co2",4,1
+"61","bezirksamt friedrichshain kreuzberg von berlin vermess dxf",4,1
+"62","park",5,4
+"63","strassenbahn",3,2
+"64","lapro",3,2
+"65","biotop",5,2
+"66","shp",3,2
+"67","stadtbezirk",3,2
+"68","solar",4,2
+"69","lini",3,1
+"70","larm",3,2
+"71","milieuschutz",3,2
+"72","radverkehr",4,4
+"73","flutkart",3,1
+"74","geometri der wahlbezirk",3,1
+"75","berlin um 1690",4,2
+"76","wohndau",4,3
+"77","bodenrichtwert",7,4
+"78","liegenschaftskatast",5,4
+"79","bevolker lor",3,1
+"80","einwohnerzahl",4,2
+"81","altersgrupp",3,1
+"82","strass 52a",5,2
+"83","grundwass tief um berlin landkart",3,1
+"84","stadtplan",3,1
+"85","station",3,3
+"86","sgb ii",4,2
+"87","verkehrsmittel",3,2
+"88","rbs bezirk",5,4
+"89","berlin hermsdorf wickhofgrab",3,1
+"90","umweltatlas wfs",3,1
+"91","strass",10,6
+"92","schul",6,6
+"93","tankstell",9,8
+"94","umsetz or transparent or liegenschaftspolit",5,2
+"95","postleitzahl",4,2
+"96","energieverbrauch",4,2
+"97","arbeitslosenquot in berlin nach bezirk",3,1
+"98","radweg",3,3
+"99","senatsvorlag",4,3
+"100","entsorg",3,1
+"101","kml",3,1
+"102","dom",3,2
+"103","kuckuckstrass 19",3,1
+"104","strategi",3,1
+"105","berlin adress",3,1
+"106","elektr",3,1
+"107","3d",4,3
+"108","luftbild",4,2
+"109","vornam neugebor berlin",3,1
+"110","grundschul",2,2
+"111","grundwassertief alt buchholz",2,1
+"112","bewohn steglitz zehlendorf",2,2
+"113","buch",4,4
+"114","berlin wasserbetrieb",2,1
+"115","bebau",2,1
+"116","kopenick muhlenfliess",2,1
+"117","plakett kauf",2,2
+"118","religion",2,1
+"119","flurkart feldmannstrass",2,1
+"120","taxi",2,2
+"121","abfall",3,2
+"122","preis",2,1
+"123","fotos",2,1
+"124","test",2,1
+"125","radfahrstreif",2,1
+"126","stadtteilmutt",2,1
+"127","bescheinigungsbehord",2,1
+"128","pankow wochenmarkt",2,1
+"129","fahrplanauskunft",2,1
+"130","parking",2,1
+"131","radfahr",4,3
+"132","grundwassermessstell",2,1
+"133","wohnblock",4,3
+"134","flurkart erlin",2,1
+"135","lidar",2,1
+"136","db inspir geojson",2,1
+"137","strass und volksf",2,1
+"138","brunn",2,2
+"139","unisex toilett",2,1
+"140","schiffsverkehr",2,1
+"141","jesid",2,1
+"142","grundwass tief",2,1
+"143","kindertagespfleg",2,1
+"144","schulweg",2,2
+"145","singl haushalt alt mensch",2,1
+"146","grundbesitz",2,1
+"147","kart vermess",2,1
+"148","verkehr gesetzesentwurf",2,1
+"149","denkmalkart",2,2
+"150","flach",2,2
+"151","zentral leistungsstell goslar ufer 15",2,1
+"152","trinkbrunn",3,2
+"153","kopenick erholungsgebiet",2,1
+"154","holzwarth",2,1
+"155","sozialstrukturatlas",3,3
+"156","energi",3,2
+"157","bezirksamt friedrichshain kreuzberg von berlin vermess at kart",2,1
+"158","parkanlag",2,1
+"159","grunflach",3,3
+"160","grundwass tief buchholz",2,1
+"161","bibliothek",2,1
+"162","kreuzberg",3,3
+"163","lageplan",4,3
+"164","grundwass tief um berlin",2,1
+"165","wass",2,1
+"166","sgb ii lor",2,1
+"167","bebauungsplan",3,3
+"168","wickhofgrab",2,1
+"169","berlin spandau",2,1
+"170","berlin lageplan",2,1
+"171","smart",2,2
+"172","blumenberg damm",2,1
+"173","lor sgb ii",2,1
+"174","aufnahmeprogramm",2,2
+"175","ernst fisch",3,2
+"176","nachhalt",2,2
+"177","bvg",3,2
+"178","ernst fisch ernst or fisch",2,1
+"179","wahl",3,2
+"180","lichtmast",2,1
+"181","wohnung",2,1
+"182","wms",2,1
+"183","parkraumbewirtschaft",2,1
+"184","rbz",3,3
+"185","kart 1 5 000",2,1
+"186","gutacht",3,2
+"187","erhaltungsgebiet",2,2
+"188","fisch",4,2
+"189","strassennetz",2,1
+"190","citi",2,1
+"191","einwohn 2018",2,1
+"192","bahn",2,2
+"193","kopenick",2,1
+"194","gewass",3,2
+"195","sauerstoff",2,1
+"196","echtzeit",2,1
+"197","vermess at berlin de",2,1
+"198","arbeitslos",2,2
+"199","gemark",3,3
+"200","suhr siedlung",2,1
+"201","stossense",3,2
+"202","jugendhilf",2,1
+"203","ladestation",2,2
+"204","rest",2,1
+"205","schuless",2,1
+"206","wahlbezirk 309",2,1
+"207","mietspiegel",2,1
+"208","lichtsignalanlag",2,1
+"209","europawahl",3,2
+"210","cité pasteur",2,1
+"211","lor planungsraum geographi",2,1
+"212","19a",1,1
+"213","verdiensterheb",2,1
+"214","katast",2,1
+"215","ubahn",4,2
+"216","toilett unisex",2,1
+"217","309",2,1
+"218","shapefil berlin",2,1
+"219","gebaudeschad",2,1
+"220","hze",2,1
+"221","siedlung otto",3,2
+"222","bevolkerungsdicht",2,2
+"223","dtk",2,1
+"224","verkehrsunfall",3,2
+"225","kindertagesstatt",2,1
+"226","miet",2,1
+"227","einschulbezirk",2,1
+"228","detailnetz",2,2
+"229","kameral monatsdat",2,2
+"230","bad",2,1
+"231","umgeb",2,1
+"232","katasteramt fluerstuck flurkart",2,1
+"233","schlagloch",2,1
+"234","tk25",2,1
+"235","einwohn planungsraum",2,1
+"236","b plan",2,2
+"237","stadbezirk",2,1
+"238","flurstuck friedrichsfeld",2,1
+"239","elektr energi",2,1
+"240","dxf k5",2,1
+"241","metro",2,1
+"242","untergrundmodell",2,1
+"243","flurkartw",2,1
+"244","baumbestand berlin",2,1
+"245","train",2,1
+"246","arbeitslosenquot arbeitslosenquot in berlin nach bezirk",2,1
+"247","arbeitslos berlin",2,1
+"248","adress kitas",2,1
+"249","wass marsch",2,2
+"250","kopenick erholingsgebiet",2,1
+"251","15 05 2018",2,1
+"252","untergrund",2,1
+"253","gebaudemodell",2,1
+"254","offent verkehrsmittel",2,1
+"255","spandau",2,1
+"256","verkehr und personenaufkomm",2,1
+"257","00805a",1,1
+"258","2018",1,1
+"259","txl",1,1
+"260","kraftrad motorrad",1,1
+"261","antrag auf erricht ein brunn",1,1
+"262","vornam 2015",1,1
+"263","qm reuterstrass",1,1
+"264","niederspann",1,1
+"265","doppelhaushalt",1,1
+"266","burgerbeteil",1,1
+"267","toilett",1,1
+"268","gisportal",1,1
+"269","straf",1,1
+"270","biotopkartier",1,1
+"271","bevolkerungsentwickl",1,1
+"272","fis",1,1
+"273","trinkwasserbrunn",1,1
+"274","geo",1,1
+"275","landstrass in berlin",1,1
+"276","pipelin",1,1
+"277","pkw or zahlstell",1,1
+"278","bornick dick str",1,1
+"279","index status",1,1
+"280","altkleid",1,1
+"281","s 1104 2018",1,1
+"282","lka",1,1
+"283","verbraucherschutz",1,1
+"284","bildungsabschluss",1,1
+"285","senatsbeschluss liegenschaftspolit",1,1
+"286","ican",1,1
+"287","sanitar",2,2
+"288","fluchtling",2,2
+"289","grenz",2,2
+"290","erhaltungssatzungsgebiet",1,1
+"291","phileas",1,1
+"292","aktiv stadt",1,1
+"293","bedarfsgemeinschaft",2,2
+"294","baugesetz",1,1
+"295","arch noah pfleg und betreu gmbh",1,1
+"296","apothek",2,2
+"297","wenig schul",1,1
+"298","222516675",1,1
+"299","ess",1,1
+"300","lizenz",1,1
+"301","kamsti",1,1
+"302","krankenstand krank or krankenstand",1,1
+"303","bundestagswahl",1,1
+"304","12247",1,1
+"305","mark",1,1
+"306","fahrrad zahldat",1,1
+"307","zuzug",1,1
+"308","lotsendien klinik",1,1
+"309","landeskommission berlin geg gewalt",1,1
+"310","glaskontain berlin pankow",1,1
+"311","betriebskostenspiegel berlin",1,1
+"312","hydrant",1,1
+"313","tu berlin",2,2
+"314","vhs",1,1
+"315","der messias von ismir kastein",1,1
+"316","katasterplan",1,1
+"317","liegenschaftsinformation",1,1
+"318","parkplatz parkplatz",2,2
+"319","dat",1,1
+"320","kino",1,1
+"321","schlossinsel",1,1
+"322","rbs altbezirk",1,1
+"323","klein wohngebiet",2,2
+"324","grundbuch",1,1
+"325","student",1,1
+"326","miv",1,1
+"327","jahresabschluss bezirk",1,1
+"328","basiskorrektur 2019",1,1
+"329","beschluss",1,1
+"330","einwohn anteil",1,1
+"331","sozialstrukturatlas 2018",1,1
+"332","landkreis",1,1
+"333","opnv",1,1
+"334","wlan",1,1
+"335","hohenkordinat",1,1
+"336","strassenreinigungsgesetz",1,1
+"337","verkehrssich",1,1
+"338","brachflach wfs",1,1
+"339","09 01 2018",1,1
+"340","vorsorgeuntersuch",1,1
+"341","kernindikator e3",1,1
+"342","artenschutz",1,1
+"343","temperatur",1,1
+"344","stellenausschreib",1,1
+"345","wfs benutz",1,1
+"346","flach bezirk",1,1
+"347","lkerung",1,1
+"348","termin strassenrein",1,1
+"349","licht",1,1
+"350","regier",1,1
+"351","altersstruktur steglitz zehlendorf",1,1
+"352","volksf",2,2
+"353","ausland bezirk",1,1
+"354","haushaltsnettoeinkomm",1,1
+"355","fordergebiet",1,1
+"356","der messias von ismir",1,1
+"357","ausbild",1,1
+"358","brunn bohr",1,1
+"359","bundesstrass in berlin",1,1
+"360","orthophotos",2,2
+"361","sgb",1,1
+"362","berlin mau",2,2
+"363","trinkbrunnenstandort",1,1
+"364","parkpl",1,1
+"365","pharmaci",1,1
+"366","leistungsstell goslar ufer 15",1,1
+"367","kommunalstatist",1,1
+"368","pankow",1,1
+"369","hotel",1,1
+"370","bevolker kommunalstatist",1,1
+"371","betriebskostenspiegel",1,1
+"372","kleinmachnow teltow",1,1
+"373","rbs 2017",1,1
+"374","wahlbezirk",2,2
+"375","block",1,1
+"376","tarifvertrag",1,1
+"377","hermsdorf wickhofgrab",1,1
+"378","orthophotos 1953",1,1
+"379","holzwarth find",1,1
+"380","holzwarth ubersetzerin in berlin",1,1
+"381","ozonwert",1,1
+"382","grundwassermessstrll",1,1
+"383","dauerzahlstell",2,2
+"384","luft",2,2
+"385","strassenbaeum",1,1
+"386","turk",1,1
+"387","einschulbereich",2,2
+"388","energiecontrolling",1,1
+"389","volkshochschul",1,1
+"390","erhaltungsverordn",1,1
+"391","ronnestrass",1,1
+"392","einzugsgebiet",1,1
+"393","siedlung",1,1
+"394","abriss",2,2
+"395","lor einwohn 2014",1,1
+"396","k 5",1,1
+"397","s 1682",1,1
+"398","gastronomi",2,2
+"399","traffik",1,1
+"400","geodat ortsteil",1,1
+"401","s fb berlinbtk",1,1
+"402","alkis eigentum",1,1
+"403","holzwarth ana in berlin",1,1
+"404","grundwassermesstell 437",1,1
+"405","mietspiegel 2019",1,1
+"406","traini",1,1
+"407","friedrichshain kreuzberg",1,1
+"408","baublock",1,1
+"409","geoportal berlin",1,1
+"410","vorsorg",1,1
+"411","bekost",1,1
+"412","bodenrichtwertatlas",1,1
+"413","kart friedrichshain",1,1
+"414","aufgrabemeld",1,1
+"415","strassenbaum",1,1
+"416","umweltgerecht",1,1
+"417","mord",1,1
+"418","or fisch",1,1
+"419","hyfrant",1,1
+"420","barrierefrei",1,1
+"421","einwohneranzahl",1,1
+"422","smartcity",1,1
+"423","schwarz",1,1
+"424","bezirksregion",1,1
+"425","berlin kart",1,1
+"426","2019",1,1
+"427","katasteramt",1,1
+"428","arbeitslosenhilf",1,1
+"429","kart von berlin",1,1
+"430","verkehr bezirk",1,1
+"431","strahlung",1,1
+"432","stadtteil",3,3
+"433","dem",1,1
+"434","rbs ortsteil",1,1
+"435","zahlstation",1,1
+"436","lor dat",1,1
+"437","kast",1,1
+"438","biotop und artenschutz",2,2
+"439","data",1,1
+"440","bildung",1,1
+"441","rbs briefwahlbezirk",2,2
+"442","berzik",2,2
+"443","oberhof weg",1,1
+"444","einwohneranteil",1,1
+"445","kitas",1,1
+"446","einwohnerinn einwohn planungsraum",1,1
+"447","uber",1,1
+"448","otto suhr",1,1
+"449","holzwarth ana",1,1
+"450","migration",1,1
+"451","zentral leistungsstell fur asylbewerb goslar ufer 15",1,1
+"452","alexanderplatz",1,1
+"453","freiwill praktikum",1,1
+"454","fnp",1,1
+"455","kleingartenanlag",1,1
+"456","altersklass",1,1
+"457","diebstahl",1,1
+"458","untergrund modell",1,1
+"459","technisch universitaet",1,1
+"460","schulbezirk",1,1
+"461","ehrenamt",1,1
+"462","grundwassermessstrll 437",1,1
+"463","liegschaftskatast",1,1
+"464","biergart",2,2
+"465","nam",2,2
+"466","population turk in berlin",1,1
+"467","grunanlagenbestand",1,1
+"468","365 euro ticket",1,1
+"469","liegenschaftspolit",1,1
+"470","grz gfz",1,1
+"471","liegenschaft",1,1
+"472","lebenszyklus",1,1
+"473","05 02 2019",1,1
+"474","s bahn",1,1
+"475","fruherkennungsuntersuch",1,1
+"476","gastro",1,1
+"477","tegel",1,1
+"478","grundschul einzugsgebiet",1,1
+"479","siemensdamm",1,1
+"480","katasteramt fluerstuck",1,1
+"481","bus",1,1
+"482","katasterkart",1,1
+"483","restaurant",1,1
+"484","jugendamt",1,1
+"485","kita",1,1
+"486","orthophotos 2004",1,1
+"487","senatsbeschluss",1,1
+"488","kraftrad",1,1
+"489","untergrunfmodell",1,1
+"490","serlin",1,1
+"491","wochenmarkt",2,2
+"492","luftqualitat",1,1
+"493","s 1551",1,1
+"494","gebaudehoh",1,1
+"495","altbezirk",1,1
+"496","building",1,1
+"497","flurkart schmargendorf",1,1
+"498","grz",1,1
+"499","tegel gmbh",1,1
+"500","europa",1,1
+"501","demographi",1,1
+"502","energieatlas",1,1
+"503","vbb mehrwertsteu",1,1
+"504","verkehrsmittelwahl",1,1
+"505","bezirksamt friedrichshain kreuzberg von berlin vermess lk5",1,1
+"506","fahrradstand",1,1
+"507","festleg",1,1
+"508","baunutzungsplan berlin west",1,1
+"509","sozial",1,1
+"510","gelandemodell",1,1
+"511","sozialindex",2,2
+"512","stationenservuc",1,1
+"513","berlin tram",1,1
+"514","atkis grun",1,1
+"515","berlin arbeitslos",1,1
+"516","krankenstand",1,1
+"517","polizeiabschnitt",1,1
+"518","tourismus 2014",1,1
+"519","grundwassermessstell 437",1,1
+"520","krankheit berlin",1,1
+"521","harriesstr",1,1
+"522","csv list vornam",1,1
+"523","berufsschul",1,1
+"524","brachflach",1,1
+"525","baum",2,2
+"526","gps",1,1
+"527","besitz",1,1
+"528","vegetation",1,1
+"529","anwohnerpark",1,1
+"530","leitungsplan",1,1
+"531","monat ist bezirk",1,1
+"532","brunn anzeig",1,1
+"533","kernindikator",1,1
+"534","einjahr",1,1
+"535","antonio amadeu",1,1
+"536","haufig vornam 2015",1,1
+"537","english",1,1
+"538","bohranzeig",1,1
+"539","jahresabschluss",1,1
+"540","aktis geholz",1,1
+"541","jahresniederschlag",1,1
+"542","friedrichshain",1,1
+"543","senatsvorlag asog",1,1
+"544","standort glaskontain berlin pankow",1,1
+"545","einwohn ortsteil",1,1
+"546","liegenschaftskart",1,1
+"547","kaiserdamm",1,1
+"548","zon",1,1
+"549","oberflachenmodell",1,1
+"550","flurkartenauszug",1,1
+"551","strassenbeleucht",1,1
+"552","ring",1,1
+"553","frau arbeitsmarkt diskriminier",1,1
+"554","radverkehrszahlstell",1,1
+"555","31 12 2008",1,1
+"556","step",1,1
+"557","sgb ii quot",1,1
+"558","geleri",1,1
+"559","haushalt",1,1
+"560","sanierungsgebiet",1,1
+"561","fest",1,1
+"562","muf",1,1
+"563","tourismus 2011",1,1
+"564","kanalisation",1,1
+"565","sozialind",1,1
+"566","zahlstell pkw or zahlstell",1,1
+"567","lor hartz",1,1
+"568","senatsvorlag sich ordnung",1,1
+"569","fahrplan bvg",1,1
+"570","sw",1,1
+"571","rbs ot",1,1
+"572","statist gebiet",1,1
+"573","rbs plz",1,1
+"574","hermsdorf grab",1,1
+"575","rbs altb",1,1
+"576","bicycl",1,1
+"577","personalkost 2019",1,1
+"578","altersarmut",1,1
+"579","solarkatast",1,1
+"580","schliess",1,1
+"581","brunn bohr anzeig",1,1
+"582","bezirksamt friedrichshain kreuzberg von berlin vermess k5",1,1
+"583","handwerk",2,2
+"584","pkw",1,1
+"585","administrativ einheit",1,1
+"586","ubernacht 2011",1,1
+"587","kart vermessun",1,1
+"588","fahrradstellplatz",1,1
+"589","einwohnerinn planungsraum",1,1
+"590","realtim",1,1
+"591","rbz bezirk",1,1
+"592","sponsoring",1,1
+"593","lor ausland",1,1
+"594","unisextoilett",1,1
+"595","kernindikator kommunalstatist",1,1
+"596","digital",1,1
+"597","dataset",1,1
+"598","idar",1,1
+"599","mitt",1,1
+"600","energiemanagement",1,1
+"601","markt",1,1
+"602","haushalt xlsx",1,1
+"603","moratorium",1,1
+"604","geographi",1,1
+"605","kita adress",1,1
+"606","einheit",1,1
+"607","baumkatast",1,1
+"608","geoportal",1,1
+"609","grfs",1,1
+"610","landesgrundbesitz",1,1
+"611","alk",1,1
+"612","tagesmutt",1,1
+"613","flurabstand",1,1
+"614","augenthaltsgesetz",1,1
+"615","festleg flach",2,2
+"616","gebaudealt",1,1
+"617","reg",1,1
+"618","adv",1,1
+"619","erhaltungssatz",1,1
+"620","stadt",1,1
+"621","bild",1,1
+"622","innovationsassistent",1,1
+"623","atlkis",1,1
+"624","alterstruktur",1,1
+"625","esg",1,1
+"626","gebiet",1,1
+"627","beherberg",1,1
+"628","haltestell s bahn",1,1
+"629","besold",1,1
+"630","index status kiez",1,1
+"631","orthophotos 2010",1,1
+"632","schwimmbod",1,1
+"633","fluss",1,1
+"634","radzahlstell",1,1
+"635","k5",2,2
+"636","rbs block",1,1
+"637","kart kreuzberg",1,1
+"638","gruenflach",1,1
+"639","charlottenberg",1,1
+"640","gemarkungsschlussel",1,1
+"641","kinderschutz",1,1
+"642","road closur",1,1
+"643","hausumring",1,1
+"644","hko",1,1
+"645","dgk",1,1
+"646","poll",1,1
+"647","tk20",1,1
+"648","basiskorrektur 2018",1,1
+"649","adress kita",2,2
+"650","krank",1,1
+"651","wochenmarkt pankow",1,1
+"652","berlinal",1,1
+"653","geburt",1,1
+"654","marrk",1,1
+"655","strassenbefahr 2015",1,1
+"656","monat ausgab bezirk",1,1
+"657","einwohn prognoseraum",1,1
+"658","miet nach strass",2,2
+"659","zensus",1,1
+"660","auto",1,1
+"661","landnutz berlin",1,1
+"662","sharing",1,1
+"663","behinder",1,1
+"664","handwerksanitar",1,1
+"665","traffic",1,1
+"666","lor wander",1,1
+"667","stromkast",1,1
+"668","landesgrundbesiz",1,1
+"669","poi",1,1
+"670","migration auf den deutsch arbeitsmarkt",1,1
+"671","totungsdelikt",2,2
+"672","feri",1,1
+"673","grundschuleinzugsbereich",1,1
+"674","bonn",1,1
+"675","bezirksamt friedrichshain kreuzberg von berlin vermess kart",1,1
+"676","wohnraum",1,1
+"677","w",1,1
+"678","ausland",1,1
+"679","bicing",1,1
+"680","landnutzug",1,1
+"681","citygml",1,1
+"682","pacht",1,1
+"683","arbeitslosenquot in berlin nach bezirk arbeitslosenquot in berlin nach bezirk",1,1
+"684","schwimmbad",1,1
+"685","kriminalitat",1,1
+"686","berlin 1 100000",1,1
+"687","elektro",1,1
+"688","list der haufig vornam",1,1
+"689","bebauungspl",1,1
+"690","bodenrichtwert tiergart",1,1
+"691","berlinpass",1,1
+"692","contain",1,1
+"693","gerausch",1,1
+"694","qm reuiterstrass",1,1
+"695","lidl",1,1
+"696","277904f0 85e6 3524 b1f2 dbea3b16c292",1,1
+"697","geo koordinat",1,1
+"698","1872",1,1
+"699","bauordn",1,1
+"700","tempolimit",2,2
+"701","hauptweg",1,1
+"702","gewass und vegetationsflach",1,1
+"703","atkis geholz",1,1
+"704","vbb fahrplandat via gtfs",1,1
+"705","wohnatlas",1,1
+"706","verkehrszahl",1,1
+"707","schilfsangersteig",1,1
+"708","bwb",1,1
+"709","wohnlag",1,1
+"710","wifi",1,1
+"711","sponsoringbericht",1,1
+"712","vekehrfall",1,1
+"713","ddb",1,1
+"714","flurkart hortensienstr",1,1
+"715","biotoptyp",1,1
+"716","volkswirtschaft gesamtrechn",1,1
+"717","monat istbezirk",1,1
+"718","road",1,1
+"719","population",1,1
+"720","identitatsdiebstahl",1,1
+"721","wfs wohnlag",1,1
+"722","teil",1,1
+"723","hertha bsc",1,1
+"724","gebaud shap",1,1
+"725","bewirt",1,1
+"726","babylots",1,1
+"727","gebaudetyp",1,1
+"728","klassifiziert strassennetz",1,1
+"729","fahrrad zahlung",1,1
+"730","badegewass",1,1
+"731","rdfahr",1,1
+"732","datensaetz",1,1
+"733","halbauerweg",1,1
+"734","strassenabschnitt",1,1
+"735","zugriffsstatist",1,1
+"736","0102181",1,1
+"737","einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2013",1,1
+"738","gfz",1,1
+"739","dashboard",1,1
+"740","einwohn 2008",1,1
+"741","stadttteil",1,1
+"742","wasserleit",1,1
+"743","rbs adress berlin 2016",1,1
+"744","landnutz",1,1
+"745","demogra",1,1
+"746","nikolaiviertel",1,1
+"747","alt",1,1

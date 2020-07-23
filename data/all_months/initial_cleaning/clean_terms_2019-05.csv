@@ -1,0 +1,842 @@
+"","term_stem","impressions","visits"
+"1","vornam",93,69
+"2","adress inspir",28,2
+"3","einwohn",37,13
+"4","lor",30,11
+"5","shp",15,4
+"6","wass",14,5
+"7","nam",16,11
+"8","strass",28,13
+"9","atkis",11,2
+"10","gtfs",20,19
+"11","planungsraum lor",10,1
+"12","liegenschaftskart",11,4
+"13","senior",10,1
+"14","luftbild",20,6
+"15","flurkart",22,12
+"16","dgm",18,7
+"17","fahrrad",13,8
+"18","europawahl",14,13
+"19","einkomm",10,6
+"20","alkis",9,6
+"21","bezirk",12,7
+"22","rbs",15,8
+"23","pump",11,9
+"24","seniorensport",7,7
+"25","flurstuck",14,8
+"26","verkehr",7,5
+"27","strassenverzeichnis",10,4
+"28","wahllokal",9,4
+"29","einwohnerinn und einwohn in berlin in lor planungsraum am",6,1
+"30","einwohnerinn und einwohn lor",6,2
+"31","adress",11,6
+"32","strassenbefahr",8,3
+"33","shapefil",7,6
+"34","wahlbezirk",8,6
+"35","2018",1,1
+"36","vbb",6,4
+"37","postleitzahl",8,5
+"38","parking",5,3
+"39","bevolker",9,7
+"40","marathon",5,1
+"41","sgb ii",5,1
+"42","geologi",6,2
+"43","schul",7,4
+"44","csv",5,1
+"45","solar",5,1
+"46","radrout",6,5
+"47","wahl",5,4
+"48","bod",4,1
+"49","mietspiegel",6,5
+"50","fluchtling",7,3
+"51","fairtrad",4,1
+"52","modular unterkunft fur fluchtling",4,2
+"53","ortsteil",7,3
+"54","beliebt vornam",4,1
+"55","larmkart",5,2
+"56","lebenswelt orientiert raum lor in berlin",4,2
+"57","haushalt",9,6
+"58","geojson",4,3
+"59","modular unterkunft",4,1
+"60","lod2",6,4
+"61","baufertigstell",5,2
+"62","hochschulpakt",4,1
+"63","verbot buch",4,4
+"64","planz",3,3
+"65","pflegedien",4,3
+"66","unfall",5,4
+"67","pfleg",3,1
+"68","reinickendorf",3,2
+"69","s 1104",4,3
+"70","orthophotos",3,1
+"71","baum",6,5
+"72","radverkehr",3,3
+"73","wcs",3,1
+"74","polizei",3,3
+"75","berlin lichtenberg",3,1
+"76","europawahl 2019",6,5
+"77","europawahl12019",3,1
+"78","pdf",3,1
+"79","erstnam",5,5
+"80","sozialstruktur",3,2
+"81","5000",3,2
+"82","gewass",3,2
+"83","kleingartenanlag",3,1
+"84","list beliebt vornam jung",3,1
+"85","standort",3,2
+"86","31 12 2018",3,1
+"87","kart 5000",3,2
+"88","eingliederungshilf",3,1
+"89","wahlbezirk europawahl",3,2
+"90","gebaudeumriss",3,1
+"91","bodenrichtwertatlas",3,1
+"92","migrationshintergrund",3,1
+"93","dop",3,2
+"94","bik",5,4
+"95","kriminalitat",3,2
+"96","wett",3,2
+"97","20 1 2009",3,1
+"98","strom",3,1
+"99","pflegeeinricht",3,1
+"100","kleid contain",3,1
+"101","altersarmut",3,1
+"102","wahlbezirk 518",3,1
+"103","flurstuckubersicht karlshorst",3,1
+"104","wahl lokal 2019",3,1
+"105","asyl",3,1
+"106","vornahm",3,1
+"107","gebaudenutz",3,1
+"108","wahl 2019",4,3
+"109","auflist der glaubig",2,2
+"110","mitt",2,2
+"111","rbs block",3,3
+"112","ubersichtskart",2,1
+"113","grundwass",2,2
+"114","kopftuch",2,1
+"115","numb of pub",2,1
+"116","landesgrenz",2,1
+"117","alt",3,3
+"118","kita",3,3
+"119","geburt",2,2
+"120","liegenschaftskart mit luftbild",2,1
+"121","nachnam",2,2
+"122","lehr beamt",2,1
+"123","gegenuberstell der gebaudenutz",2,1
+"124","2012 and and 2017",2,1
+"125","schwangerschaft abbruch",2,1
+"126","luftqualitat",3,2
+"127","park",3,3
+"128","sozialstrukturatlas",2,2
+"129","nox",2,1
+"130","vornam 2018",5,3
+"131","ost berlin",2,1
+"132","einkomm spandau",2,1
+"133","haltestellenzugang",2,1
+"134","unternehmensinsolvenz",2,1
+"135","energieverbrauchsubersicht",2,2
+"136","gebaud",4,4
+"137","europawahl12019 berlin spandau wahllokal 312",2,1
+"138","mannlich vornam ranking",2,1
+"139","tegel",2,1
+"140","txl",2,1
+"141","beschluss wiss",2,1
+"142","gelandemodell",3,3
+"143","tourismus",3,2
+"144","haltestell",2,2
+"145","radweg",4,4
+"146","grunanlag",3,3
+"147","strassenverzeichnis neukolln",2,1
+"148","kopenick",2,1
+"149","veranstalt",3,3
+"150","rad",2,2
+"151","religion",2,1
+"152","radfahr",3,3
+"153","treptow kopenick",4,2
+"154","organisation des trag der eingliederungshilf",2,1
+"155","senatsbeschluss 28 03 2019",2,1
+"156","weg",2,1
+"157","termin wichtig sozial ereignis",2,1
+"158","brunn",2,2
+"159","10115",2,1
+"160","einwohnerzahl berlin",2,1
+"161","kopftuchfrei zon",2,1
+"162","einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017",2,2
+"163","migration",2,2
+"164","wahlbezirk 505",2,1
+"165","zweckentfremd",3,3
+"166","adress gml",2,1
+"167","senfin lho",2,1
+"168","verwaltungssteuer",2,1
+"169","bicycl",2,1
+"170","pflzvv",2,1
+"171","charlottenburg",2,2
+"172","plz",3,3
+"173","lageplan",2,2
+"174","kfz kennzeich beantrag",2,1
+"175","strassenverzeichnis berlin",2,1
+"176","k5",3,3
+"177","wasserportal",2,2
+"178","schwimmbad",2,1
+"179","kart",3,2
+"180","grundwasserstand",2,1
+"181","uoc",2,1
+"182","gemark",2,2
+"183","lod1",3,3
+"184","wahllokal mitt",2,1
+"185","102 europawahl",2,1
+"186","bezirk grenz",2,1
+"187","bar",2,1
+"188","bevolkerungsdicht",2,2
+"189","eckpunkt organisation des trag der eingliederungshilf",2,1
+"190","flurstuckubersicht",2,1
+"191","senatsbeschluss nr",2,1
+"192","2016",2,2
+"193","armutsquot berlin hohenschonhaus",2,1
+"194","demographi",3,2
+"195","bebauungsplan",4,2
+"196","unterkunft",3,2
+"197","stadtumbau",2,2
+"198","einwohnerzahl",3,2
+"199","einwohn 2017",3,2
+"200","geburt nam",2,2
+"201","muse",4,3
+"202","stadtteil",4,4
+"203","kfz zulass",2,1
+"204","rettung",2,1
+"205","auto",2,1
+"206","alterstruktur",2,2
+"207","traffic",2,2
+"208","charité",2,1
+"209","schwangerschaft",3,2
+"210","verdienststruktur",2,1
+"211","vivant",2,1
+"212","pressburg",2,1
+"213","lebensmittel",2,1
+"214","verwaltungsregion",2,1
+"215","rbs adress",3,3
+"216","bau or fertigstell",2,1
+"217","anderungsbeschluss or zweckentfremdungssatz",2,1
+"218","runderlass senatsverwalt",2,1
+"219","erwerbstat",2,1
+"220","wahlschein",2,2
+"221","gemeinschaftsinitiativ",2,2
+"222","klimamodell berlin",2,1
+"223","strassenverzeichnis charlottenburg",2,1
+"224","lebensmittelhandel",2,1
+"225","gutacht social media",2,1
+"226","list der haufig vornam",2,1
+"227","bezirk shp",2,1
+"228","tvz",2,1
+"229","sportangebot",3,3
+"230","rtw",2,1
+"231","strassenverzeichnis download",2,1
+"232","schwengelpump",2,1
+"233","burgeramt",3,2
+"234","bln pflzvv",2,1
+"235","altglas",2,1
+"236","anderungsbeschluss zweckentfremdungssatz",2,1
+"237","wallokal find",2,1
+"238","wah llokal 2019",2,1
+"239","lindau alle",2,1
+"240","wahllokal find",2,1
+"241","wahllokal 2019",2,1
+"242","masterlayout",2,1
+"243","kanalisation",2,1
+"244","strassenam",2,1
+"245","neff",2,1
+"246","demographi alt",2,1
+"247","altglascontain",2,1
+"248","statdkart",1,1
+"249","petersburg str",1,1
+"250","hafig vornam bei babys",1,1
+"251","kotti",1,1
+"252","marzhan",1,1
+"253","charlottenburg europawahl",1,1
+"254","12439",1,1
+"255","airbnb",1,1
+"256","larmkart 2012",1,1
+"257","inkognito",1,1
+"258","hauspreis",1,1
+"259","kind 2018",1,1
+"260","materiell hilf nach sgb xii landespflegegeldgesetz und asylbewerberleistungsgesetz",1,1
+"261","bayreuth pegnitz",1,1
+"262","vorang",1,1
+"263","fahrzeug",1,1
+"264","baukost",1,1
+"265","wahlbezirk 2f",1,1
+"266","kreuzberg",1,1
+"267","sportplatz",1,1
+"268","gimola",1,1
+"269","wilhelmsruh wilhelmsruh",1,1
+"270","regattastrass",1,1
+"271","iii b s 2196 kaufpreis",1,1
+"272","ewr ortsteil berlin",1,1
+"273","konstanz",1,1
+"274","moabit",1,1
+"275","senatsbeschluss vom 21 oktob 2014",1,1
+"276","anwend",1,1
+"277","bodenrichtwert",1,1
+"278","bill of lading",1,1
+"279","altersstruktur",1,1
+"280","grenz ost berlin",1,1
+"281","wissensoffensiv",1,1
+"282","demographiebericht marzahn hellersdorf",1,1
+"283","preissteuer",1,1
+"284","asphalt",1,1
+"285","s bahn",2,2
+"286","larmkart rast",1,1
+"287","bohmermann",1,1
+"288","zuhlsdorf",1,1
+"289","list der haufig vronam",1,1
+"290","alt lor",1,1
+"291","herzzentrum",1,1
+"292","haushalt berlin",1,1
+"293","ergebnis europawahl 2019",1,1
+"294","jeding",1,1
+"295","bodendicht",1,1
+"296","045",1,1
+"297","nettoeinkomm 2014",1,1
+"298","offnungszeit wahllokal",1,1
+"299","tempelhof",2,2
+"300","wohnraum",1,1
+"301","muhammad",1,1
+"302","feinstaub",1,1
+"303","luftbildplan",1,1
+"304","bevolker 2018",1,1
+"305","muggelberg",1,1
+"306","s bahn bedarfsplan",1,1
+"307","fanpag",1,1
+"308","tempelhof wahllokal",2,2
+"309","vegan",1,1
+"310","kundenzentrum",1,1
+"311","auslanderfeind",1,1
+"312","weimar republ",1,1
+"313","wahlkreis 208",1,1
+"314","haus",1,1
+"315","berlin open data initiativ",1,1
+"316","einwohnerzal",1,1
+"317","ess",1,1
+"318","tourism in national park and protected areas",1,1
+"319","kurierdienstleist",1,1
+"320","berlin bezirk",1,1
+"321","europawahl 2019 ergebnis",1,1
+"322","rufnam",1,1
+"323","festpunkt",1,1
+"324","mss",1,1
+"325","radwegenetz",1,1
+"326","plr",1,1
+"327","wahlergebnis",1,1
+"328","wissenstransf",1,1
+"329","kottbuss tor",1,1
+"330","mietpreis",2,2
+"331","bundestagswahl berlin 2017",1,1
+"332","zuzug",1,1
+"333","dem dgm",1,1
+"334","dach",1,1
+"335","haushaltsgross",1,1
+"336","back",1,1
+"337","wahlergebnis 2019",1,1
+"338","berlin bevolker",1,1
+"339","lichtenberg",1,1
+"340","haushaltsplan",1,1
+"341","vi 34",1,1
+"342","landesgrundbesitz",1,1
+"343","senatsvorlag 1512",1,1
+"344","ckanapi",1,1
+"345","starssenverzeichnis",1,1
+"346","theodor brun",1,1
+"347","oberschoneweid",1,1
+"348","hrb 23047",1,1
+"349","offent or verwaltun or persona",1,1
+"350","transport",1,1
+"351","kadast plan",1,1
+"352","fahrradstation",1,1
+"353","atom feed generator",1,1
+"354","verbesser der gesamtstadt verwaltungssteuer",1,1
+"355","stadtbezirk",1,1
+"356","wahllokal tempelhof",2,2
+"357","platz",1,1
+"358","bidlung",1,1
+"359","arbeitslos nach bezirk",1,1
+"360","senatsbeschluss",1,1
+"361","lod",1,1
+"362","forst",1,1
+"363","einfuhr tourismus",1,1
+"364","strassenraum",1,1
+"365","krankenhaus moabit krankenhaus or moabit",1,1
+"366","wald",1,1
+"367","budget",1,1
+"368","wissensmanagement",1,1
+"369","krankenhausplan 1999",1,1
+"370","ewr ortsteil",1,1
+"371","wahllokal in tempelhof",1,1
+"372","benn",1,1
+"373","kart pdf",2,2
+"374","sozial ungleich in berlin",1,1
+"375","14 08 2018",1,1
+"376","schoneberg",1,1
+"377","strassennam",2,2
+"378","bevolkerungsanzahl",1,1
+"379","s 1886",2,2
+"380","gfz",1,1
+"381","luft",2,2
+"382","asog",1,1
+"383","steglitz",1,1
+"384","eigentum",1,1
+"385","zahlstell radfahr",1,1
+"386","britz",1,1
+"387","list vornam 2018",1,1
+"388","kollnisch vorstadt spindlersfeld",2,2
+"389","berlin spandau wahllokal 312",1,1
+"390","msa",1,1
+"391","ausland",1,1
+"392","wahlkreis",1,1
+"393","basis kart",1,1
+"394","gescheh",1,1
+"395","fahrradfahr in berlin",1,1
+"396","schliessung krankenhaus moabit schliessung or krankenhaus or moabit",1,1
+"397","gedenktafeln",1,1
+"398","regierunsausgab",1,1
+"399","2019",1,1
+"400","unfall im strassenverkehr",1,1
+"401","schliessung or krankenhaus or moabit",1,1
+"402","tagungsraum",1,1
+"403","sozialraumdat",1,1
+"404","museum",1,1
+"405","administrativ",1,1
+"406","wahllokal in tempelhof schoneberg",1,1
+"407","larmkart 2012 rast",1,1
+"408","sozialversicher",1,1
+"409","social event",1,1
+"410","ubahn",1,1
+"411","googl erarth",1,1
+"412","verkehrsunfall",1,1
+"413","parkplatz",3,3
+"414","einwohn migration",1,1
+"415","topographi",1,1
+"416","marin",1,1
+"417","tran",1,1
+"418","einkomm stadtteil",1,1
+"419","museeum",1,1
+"420","fremdenhass",1,1
+"421","b2",1,1
+"422","europawahl ergebnis",2,2
+"423","hartriegelstrass",1,1
+"424","atom",1,1
+"425","kart mietspiegel",1,1
+"426","flugverkehr",1,1
+"427","senatsvorlag 14 08 2019",1,1
+"428","nettoeinkomm",1,1
+"429","bvg",2,2
+"430","klimaanalysekart",1,1
+"431","hauskoordinat",2,2
+"432","kh moabit krankenhaus or moabit",1,1
+"433","senfin zeitstatist",1,1
+"434","gorlitz ufer",1,1
+"435","fest",1,1
+"436","beruf",1,1
+"437","katastr",1,1
+"438","amnend",1,1
+"439","paul schwarz promenad",1,1
+"440","miet",2,2
+"441","wilhelmsruh",1,1
+"442","bebau",2,2
+"443","emission",1,1
+"444","flurstuck in lichtenberg",1,1
+"445","standesamt",1,1
+"446","alexanderplatz",2,2
+"447","gas station",1,1
+"448","sozialvertrau",1,1
+"449","geschicht",1,1
+"450","wahlbez numm",1,1
+"451","2012 2016",1,1
+"452","gesundheitsberichterstatt berlin",1,1
+"453","regional boundary",1,1
+"454","wahlergniss hohenschonhaus",1,1
+"455","stadtbaum",1,1
+"456","log",1,1
+"457","kh moabit",1,1
+"458","wms",1,1
+"459","luftbild 19",1,1
+"460","polygon koordinat",1,1
+"461","strass sachdat",1,1
+"462","iii b s 2196",1,1
+"463","gps",1,1
+"464","maschineri",1,1
+"465","2014",1,1
+"466","zentr",1,1
+"467","grenz",1,1
+"468","stromnetz berlin",1,1
+"469","wohnlag",1,1
+"470","127",1,1
+"471","kind",1,1
+"472","k 5",1,1
+"473","tagungsort",1,1
+"474","bovelker",1,1
+"475","bauland",1,1
+"476","neukolln",2,2
+"477","incognito",1,1
+"478","beeskow",1,1
+"479","verbrech",1,1
+"480","kartengrundlag",1,1
+"481","migrationshintergrund lor planungsraum 2011",1,1
+"482","popular birth nam",1,1
+"483","altersbevolker",1,1
+"484","personal",1,1
+"485","kopftuchfrei zon kopftuch",1,1
+"486","britz neukolln",1,1
+"487","mietspiegel wohnlag",1,1
+"488","wartezeit",2,2
+"489","stadtebauforder",1,1
+"490","wfs dien",1,1
+"491","krankenhaus",1,1
+"492","einwohnerinn 2017 lor",1,1
+"493","einwohnerregist",1,1
+"494","polit extremismus",1,1
+"495","textur",1,1
+"496","kund",1,1
+"497","berlin stadtrein",1,1
+"498","rassist",2,2
+"499","schnelllauf",1,1
+"500","l",1,1
+"501","einschulungsbereich",1,1
+"502","einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum 2011",1,1
+"503","transparenz",1,1
+"504","muf",1,1
+"505","fumiko",1,1
+"506","klixstrass",1,1
+"507","sozialstrukturatlas berlin",1,1
+"508","discov smart city berlin",1,1
+"509","beamtenbesold",1,1
+"510","wohndau",2,2
+"511","larm",1,1
+"512","haufig vornam",1,1
+"513","auslanderanteil bezirk",1,1
+"514","spa",1,1
+"515","marathon marathon",1,1
+"516","pendl",1,1
+"517","koordinat s bahn station",1,1
+"518","ostberlin",1,1
+"519","einwohn 31 12 2017",1,1
+"520","einwohneranzahl",1,1
+"521","kinderarmut berlin",1,1
+"522","schragluftbild",2,2
+"523","verungluckt",1,1
+"524","baufertigstell and 2012 or or 2017",1,1
+"525","haushalt lichtenberg",1,1
+"526","rsb",1,1
+"527","digital",2,2
+"528","einwohn 31 12 2018",1,1
+"529","einwohnerinn und einwohn lor 2016",1,1
+"530","baufertigstell 2012 2017",1,1
+"531","63",1,1
+"532","gasag 1993",1,1
+"533","19 06 2001",1,1
+"534","best wohnlag",1,1
+"535","baulandentwickl",1,1
+"536","wahlbezirk britz neukolln",1,1
+"537","see",1,1
+"538","statist fahrradfahr",1,1
+"539","bad",2,2
+"540","bezirkswahlamt",1,1
+"541","wohnun",1,1
+"542","krankenhaus moabit",1,1
+"543","koordinat u bahn station",1,1
+"544","ausstell",1,1
+"545","atom feed",1,1
+"546","adress or verzeichnis",1,1
+"547","beschluss bod",1,1
+"548","baulandmodell",1,1
+"549","fisbrok",1,1
+"550","berlinonlin",1,1
+"551","wahlergbniss hohenschonhaus",1,1
+"552","alleinerzieh",1,1
+"553","berlin koordinat",1,1
+"554","stadtteilentwickl",1,1
+"555","offent liegenschaft",1,1
+"556","baufertigstell 2012 2016",1,1
+"557","tatsach nutzung",1,1
+"558","strassenf",1,1
+"559","dtk",1,1
+"560","2016 datensatz",1,1
+"561","kh moabot",1,1
+"562","verbraucherschutz",1,1
+"563","standort der offent schul",1,1
+"564","geflucht",1,1
+"565","polygon or koordinat",1,1
+"566","wahllokal 26 05",1,1
+"567","kreis",1,1
+"568","krankenhausplan or 1999",1,1
+"569","parkzon",1,1
+"570","heilprakt",1,1
+"571","alt kaulsdorf",1,1
+"572","efh",1,1
+"573","umweltzon",1,1
+"574","cppz",1,1
+"575","gebaudeumring",1,1
+"576","baumkatast",1,1
+"577","charlottenburg wahllokal",1,1
+"578","recht gewalt",1,1
+"579","detailnetz",1,1
+"580","statist radfahr",1,1
+"581","schwengel",1,1
+"582","schulsprengel",1,1
+"583","kriminal",1,1
+"584","ergebnis europawahl",1,1
+"585","lebenslag im alt",1,1
+"586","wahlkreis 28",1,1
+"587","10115 wahlbezirk",1,1
+"588","sozial ereignis",1,1
+"589","gesamtindex sozial ungleich",1,1
+"590","wohnung",2,2
+"591","qualitat",1,1
+"592","3d",2,2
+"593","adressverzeichnis",1,1
+"594","rbs 2016",1,1
+"595","lho",1,1
+"596","altersgrupp",1,1
+"597","gesetz zur ander dienstrecht und haushaltsrecht",1,1
+"598","offent and verwaltun and persona",1,1
+"599","fnp",1,1
+"600","kindergart",1,1
+"601","fis",1,1
+"602","grundwasserdat messstell 500",1,1
+"603","kart von berlin",1,1
+"604","rassist or rassist",1,1
+"605","baufertigstell or 2012 or or 2017",1,1
+"606","moor",1,1
+"607","postleitzahl shap",1,1
+"608","vornamn",1,1
+"609","gutachterausschuss",1,1
+"610","deutsch digital bibliothek",1,1
+"611","esb",1,1
+"612","restaurant",1,1
+"613","erneuerbar energi",1,1
+"614","kml",1,1
+"615","gefluchtet",1,1
+"616","einwohn 2017 lor",1,1
+"617","buro",1,1
+"618","senatsvorlag",2,2
+"619","behindert",1,1
+"620","ragdweg",1,1
+"621","gend",1,1
+"622","bien",1,1
+"623","bevolkerungsentwickl",1,1
+"624","stadtumbau west",1,1
+"625","luftmosa",1,1
+"626","demographieberich marzahn hellersdorf",1,1
+"627","kompensationsflachenkatast",1,1
+"628","haushalt pro bezirk berlin",1,1
+"629","strass oberflach",1,1
+"630","realtim luftqualitat",2,2
+"631","markt",1,1
+"632","sozialwohn",1,1
+"633","s 18 15",1,1
+"634","her",1,1
+"635","europawahl 2019 wahlergebnis or stimmbezirk or 5 or wahllokal or 312 npd",1,1
+"636","einwohn 2016",1,1
+"637","lor planungsraum",1,1
+"638","digitalisier",1,1
+"639","zugriffsstatist",1,1
+"640","social media",1,1
+"641","digital gelandemodell",1,1
+"642","flohmarkt",1,1
+"643","grunanlagenbestand",1,1
+"644","feindlich",1,1
+"645","stellung im beruf",1,1
+"646","auszug liegenschaftskatast",1,1
+"647","personal offent verwalt",1,1
+"648","gelandemodell berlin",1,1
+"649","handel",1,1
+"650","radial",1,1
+"651","real tim luftqualitat",1,1
+"652","bewohn spandau",1,1
+"653","veranstaltungskal",1,1
+"654","energieverbrauch",1,1
+"655","wohnungsmarkt",1,1
+"656","bgf",1,1
+"657","hotel",1,1
+"658","kms",1,1
+"659","strassenpark",1,1
+"660","rassismus",1,1
+"661","berlin pflegezeitvorschussverordn",1,1
+"662","verkehrsbetrieb",1,1
+"663","schwenk",1,1
+"664","wohngebiet",1,1
+"665","strassenb",1,1
+"666","geo dien",1,1
+"667","marzahn hellersdorf",1,1
+"668","enteign",1,1
+"669","kind gebor",1,1
+"670","turkisch arab vornam",1,1
+"671","bezirksregionenprofil",1,1
+"672","vornam jun",1,1
+"673","gelandehoh",1,1
+"674","energieverbaruch",1,1
+"675","tagung",1,1
+"676","nachbar",1,1
+"677","neu gebir",1,1
+"678","transparenzgesetz",1,1
+"679","koordinat der s bahn station",1,1
+"680","bevolker in berlin",1,1
+"681","marzahn",1,1
+"682","wohnpreis",1,1
+"683","einwohnerdicht",1,1
+"684","migrastuion",1,1
+"685","lor geometri",1,1
+"686","schwangerschaftsabbruch",1,1
+"687","flurkartenauszug",1,1
+"688","wahlbezirk 102 europawahl",1,1
+"689","schrag",2,2
+"690","beschaftigungsquot",1,1
+"691","afis",1,1
+"692","zahlstell",1,1
+"693","schwangerschaft berat",1,1
+"694","publizist",1,1
+"695","geschossflachenzahl",1,1
+"696","kleingart",1,1
+"697","westkreuz",1,1
+"698","mohamed",1,1
+"699","haushaltsstruktur",1,1
+"700","afs",1,1
+"701","olympiastadion",1,1
+"702","snatsbeschluss 28 03 2019",1,1
+"703","rbs 2018",1,1
+"704","grw",1,1
+"705","wahlergebnis europawahl",1,1
+"706","einwohnerinn und einwohn lor 2017",1,1
+"707","muggelturm",1,1
+"708","event",1,1
+"709","wfs",1,1
+"710","bier",1,1
+"711","obdachlos",1,1
+"712","lor 2011",1,1
+"713","radfahrerstatist",1,1
+"714","bratislava",1,1
+"715","fairtard",1,1
+"716","road",1,1
+"717","dem",1,1
+"718","stolperstein",1,1
+"719","dachform",1,1
+"720","einwohnerregist bezirk",1,1
+"721","wahllokalsuch",1,1
+"722","gis",1,1
+"723","echt zeit luftqualitat",2,2
+"724","10 06 2003",1,1
+"725","bauhaus",1,1
+"726","modular unterkunft s 1104",1,1
+"727","europawahl ergebnis 2019",1,1
+"728","tempo",1,1
+"729","gewasserkund messdat",1,1
+"730","datenbank sehenswurd",1,1
+"731","zuwend",1,1
+"732","nsg",1,1
+"733","kindernam",1,1
+"734","personal not gesund",1,1
+"735","personal ausbild",1,1
+"736","marzahn hellersdorg",1,1
+"737","bodenwert",1,1
+"738","sportangebot marzahn hellersdorf",1,1
+"739","sdd",1,1
+"740","busspur",1,1
+"741","dtm",1,1
+"742","einwohn 2018",1,1
+"743","amtsgericht berlin charlottenburg hrb 23047",1,1
+"744","bodenpolit",1,1
+"745","famileneinkomm",1,1
+"746","erwerbstat lor",1,1
+"747","sozial wohnung",1,1
+"748","wohnraumzweckentfremd",1,1
+"749","preismanagement",1,1
+"750","gasag",1,1
+"751","citi",1,1
+"752","kleidercontain",1,1
+"753","reinickendorf armutsquot",1,1
+"754","haushaltszusammensetz",1,1
+"755","uferbaum",1,1
+"756","karte5000",1,1
+"757","radverehr",1,1
+"758","senatsverwalt",1,1
+"759","badestell",1,1
+"760","kryptowahr",1,1
+"761","umweltzon berlin",1,1
+"762","ewr ortsteil 2016",1,1
+"763","bezirk liegenschaft",1,1
+"764","august viktoria alle",1,1
+"765","franz kafka",1,1
+"766","beschluss liegenschaft",2,2
+"767","kunst im offent raum",1,1
+"768","neu gebor",1,1
+"769","berlin bovelker",1,1
+"770","traine",1,1
+"771","strass 2018",1,1
+"772","mittl schulabschlus",1,1
+"773","einfamilienhaus",2,2
+"774","ladestation",1,1
+"775","pkw bezirk",1,1
+"776","verdien",1,1
+"777","tiergart",1,1
+"778","rid and bik",1,1
+"779","train",1,1
+"780","ranking der nam der neugebor 2018",1,1
+"781","postleitzahl berlin",1,1
+"782","einwohnerinn und einwohn 2017",1,1
+"783","strassenverkehr",1,1
+"784","gebaudedat",1,1
+"785","kameral",1,1
+"786","demographi fahrradfahr",1,1
+"787","bitcoin",1,1
+"788","fahrradabstellanlag",1,1
+"789","wasserqualitat",1,1
+"790","ndvi",1,1
+"791","spur",1,1
+"792","haushalt lor",1,1
+"793","badestell berlin",1,1
+"794","nef",1,1
+"795","beschluss or senatsbeschluss or wissenstransf or wissensmanagement mitteil",1,1
+"796","taxi",1,1
+"797","topografia",1,1
+"798","ergebnis eu wahl 2019",1,1
+"799","energieatlas",1,1
+"800","ckan",1,1
+"801","bik and rid",1,1
+"802","gart",1,1
+"803","1631",1,1
+"804","zuwendungsdatenbank",1,1
+"805","alkis gebaud",1,1
+"806","beethov",1,1
+"807","u bahn",1,1
+"808","wahlamt",1,1
+"809","schulstation",1,1
+"810","personal not gesundhei",1,1
+"811","gebaud alt",1,1
+"812","standort offent schul",1,1
+"813","sportangebot in marzahn hellersdorf",1,1
+"814","anlagenbaum",1,1
+"815","stimmbezirk",1,1
+"816","senatsbeschluss vom 27 03 208",1,1
+"817","ortsteil 2016",1,1
+"818","gesamtindex sozial ungleich 2017",1,1
+"819","list vornam",1,1
+"820","bus spur",1,1
+"821","fernwarm",1,1
+"822","betrieb gesundheitsforder",1,1
+"823","fischfauna 2013",1,1
+"824","max brod",1,1
+"825","strassenbaum",1,1
+"826","landnutz",1,1
+"827","auslanderanteil nach bezirk",1,1
+"828","religionszugehor",1,1
+"829","denkmalschutz",1,1
+"830","tempolimit",1,1
+"831","cedernstr",1,1
+"832","sozial vertrau",1,1
+"833","datenwab",1,1
+"834","strass zustand",1,1
+"835","bezirksgrenz",1,1
+"836","berlin ordnungsrecht asog",1,1
+"837","kga",1,1
+"838","aktenplan",1,1
+"839","pflegeeinricht rohdat",1,1
+"840","speech",1,1
+"841","grundwass grundwass",1,1

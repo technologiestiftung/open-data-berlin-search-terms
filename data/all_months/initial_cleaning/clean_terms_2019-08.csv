@@ -1,0 +1,800 @@
+"","term_stem","impressions","visits"
+"1","vermess at ba fk berlin de",44,16
+"2","lor",39,9
+"3","einwohn",28,5
+"4","kart",23,4
+"5","bvg",23,10
+"6","alkis",23,7
+"7","gebaud",17,6
+"8","flurkart",23,18
+"9","rbs",16,9
+"10","atkis",11,1
+"11","vbb",20,13
+"12","fahrrad",14,10
+"13","strass",25,8
+"14","gewass",12,3
+"15","polizei",9,4
+"16","temperatur",13,3
+"17","vornam",12,10
+"18","brandenburg",8,3
+"19","bodenrichtwert",9,3
+"20","luftbild or atom",8,1
+"21","verkehr",7,1
+"22","ausland",7,2
+"23","wass",16,5
+"24","friedrichshain kreuzberg",7,3
+"25","altlast",10,3
+"26","bezirk",11,7
+"27","gtfs",9,9
+"28","schul",12,9
+"29","standardlastprofil",6,2
+"30","larmbelast",6,1
+"31","utm",6,2
+"32","flurstuck",9,7
+"33","baum",8,6
+"34","postleitzahl",10,5
+"35","shapefil",6,5
+"36","bezirkskart spandau",6,1
+"37","atlas",6,2
+"38","tourismus",6,5
+"39","neukolln",5,3
+"40","liegenschaftskatast",5,4
+"41","krankenhaus",5,2
+"42","digital orthophotos",5,1
+"43","strat larmkart 2017",5,1
+"44","adress",6,4
+"45","gemark",9,8
+"46","planungsraum",7,4
+"47","dop or atom",5,1
+"48","katast",7,6
+"49","friedrichshain",5,4
+"50","regional selt",4,1
+"51","atz",4,1
+"52","dop",4,1
+"53","geodat",5,2
+"54","aktenplan",4,1
+"55","wohndau lor",4,2
+"56","block",6,3
+"57","senatsbeschluss",6,5
+"58","migration",5,4
+"59","haltestell",4,3
+"60","ozon",6,6
+"61","bod",5,2
+"62","shp",4,1
+"63","grundwassergleichenkart",4,1
+"64","haushaltsplan",4,3
+"65","strassenverzeichnis",4,3
+"66","3d",4,3
+"67","geltungsbereich",4,3
+"68","luftbild",5,2
+"69","energieverbrauch",3,3
+"70","licht",3,3
+"71","rbs adress",4,4
+"72","hoh",5,4
+"73","wahl",6,4
+"74","einwohnerdicht",6,4
+"75","wms",3,1
+"76","geoportal",4,3
+"77","dgm1",3,2
+"78","biodiversitat",3,1
+"79","rad",3,2
+"80","wahlergebnis",3,1
+"81","grenz",4,2
+"82","vbb berlin brandenburg fahrplan gesundbrunn templin de",3,1
+"83","fahrplan vbb brandenburg rb 63 de",3,1
+"84","frau juliet walt",3,1
+"85","friedhof",3,1
+"86","gewerbegebiet",3,1
+"87","lageplan",3,1
+"88","dgm",5,3
+"89","wohnung",6,3
+"90","pankow",3,3
+"91","personal",3,1
+"92","geologi",3,3
+"93","liegenschaft",3,3
+"94","bebau",3,1
+"95","vbb gtfs",5,2
+"96","flughaf",3,1
+"97","grundwassergleich",3,2
+"98","mischgebiet wallenrod str",3,1
+"99","radverkehr",3,3
+"100","immobilienmarkt",3,1
+"101","liegenschaftskart",3,1
+"102","alleinerzieh",3,2
+"103","denkmal",6,4
+"104","luftbild atom",3,1
+"105","nam",3,1
+"106","lep",3,1
+"107","miet",4,3
+"108","bauamt",3,2
+"109","hauskoordinat",3,3
+"110","statist block",5,2
+"111","dop 2016",3,1
+"112","schulbau",3,1
+"113","senatsbeschluss 18 06 2019",3,1
+"114","spielplatz",3,1
+"115","ladestation",3,2
+"116","kml",3,1
+"117","larm",4,3
+"118","badestell",4,3
+"119","stadtteil",4,3
+"120","ernt",2,2
+"121","transfereinkomm",2,2
+"122","fuch",2,2
+"123","flach",2,1
+"124","schul gesundheitswes brandenburg",2,1
+"125","richtlini uber die anschlussforder von sozialwohn",2,1
+"126","bodenrichtwert grunewald",2,1
+"127","migrationshintergrund",2,1
+"128","kfz",2,1
+"129","unfall",2,1
+"130","einschulbereich",3,2
+"131","grundwasserhohengleichenplan",2,1
+"132","haushaltstitel",2,1
+"133","zuwendungsbescheid",2,1
+"134","lidar",2,2
+"135","radfahr",2,2
+"136","klimashutz",2,1
+"137","rbs2016",2,1
+"138","landesmindestlohn berlin 2020",2,1
+"139","larmkartier",2,1
+"140","fahrplan de vbb berlin brandenburg de",2,1
+"141","grunflach",2,2
+"142","alkohol",2,1
+"143","gesund",2,1
+"144","flurstuck kart",2,1
+"145","verwaltungsakt",2,1
+"146","lad eroffn",2,1
+"147","ortsteil",3,3
+"148","fahrplan de",2,1
+"149","grz dahl",2,1
+"150","geh",2,1
+"151","bezirksregion",2,1
+"152","strat larmkart flugverkehr",2,1
+"153","gebaud hausnumm",2,1
+"154","gewerbegebiet eichhorst weg 80",2,1
+"155","gme",2,1
+"156","mauerweg berlin de",2,1
+"157","bahn",3,3
+"158","energi wms",2,1
+"159","taxi",2,2
+"160","gemark glaserweg 12305 berlin",2,2
+"161","bevolker",3,3
+"162","wohnungsauflos",2,1
+"163","seelisch",2,1
+"164","uvg",2,1
+"165","schutzgebiet",3,2
+"166","senior",2,1
+"167","verdien gart und landschaft bau",2,1
+"168","grundwass",3,3
+"169","kind",2,2
+"170","gis",3,3
+"171","ehem stadtbilbliothek spandau",2,1
+"172","2016",1,1
+"173","haushalt senatsverwalt fur integration arbeit und sozial",2,1
+"174","alt arbeitnehm",2,1
+"175","burogebaud",2,1
+"176","rb 63 de",2,1
+"177","bundestagswahl",2,2
+"178","wfs",2,2
+"179","sich",4,2
+"180","landesmindestlohn",2,1
+"181","bodengesellschaft",2,1
+"182","stadtbilbliothek spandau",2,1
+"183","rixdorf",2,1
+"184","dop20",2,1
+"185","digital oberflachenmodell",2,1
+"186","19",2,1
+"187","landesmindestlohn berlin ab 2020",2,1
+"188","kleingartenanlag wfs",2,1
+"189","radrout",3,2
+"190","rbs bezirk",2,1
+"191","spati",2,2
+"192","gemark kreuzberg friedrichshain",3,2
+"193","landesentwicklungsplan",2,1
+"194","fis",3,3
+"195","stadtplan spandau",2,1
+"196","vegetationsbedeck",2,1
+"197","bezirksamt pankow",2,1
+"198","glas",2,2
+"199","3d gebaudemodell",2,1
+"200","beamtenbesold",2,1
+"201","hartv iv",2,1
+"202","chorinerstrass",2,1
+"203","baumbestand berlin",2,1
+"204","organigramm",2,1
+"205","luftbild 2016 atom",2,1
+"206","larmpegel",2,1
+"207","schreib senfin 21 12 2018",2,1
+"208","kulturpolit leitlini",2,1
+"209","atom",2,1
+"210","scoot",3,3
+"211","wfs schul",2,2
+"212","einkauf",2,1
+"213","chorin strass",2,1
+"214","2019",2,1
+"215","fahrradstrass",2,1
+"216","berlin de",3,3
+"217","feiertag",2,1
+"218","verdien gart landschaftsbau",4,2
+"219","weihnachtsbaum",2,1
+"220","kleinraum glieder",2,1
+"221","08 mai",2,1
+"222","baumat",2,1
+"223","sredzkistrass",2,1
+"224","2016 atom",2,1
+"225","luftbild 2016",2,1
+"226","kaltluft",2,1
+"227","erkrank in lichtenberg",2,1
+"228","senatsbeschluss 1987",2,1
+"229","grundbuchamt",2,1
+"230","strassenlist berlin",2,1
+"231","ifg",2,1
+"232","2014 v 20 01 2015",1,1
+"233","download vbb gtfs",2,1
+"234","baumbestand berlin anlag",2,1
+"235","pkw",2,1
+"236","berlin zoom",2,1
+"237","s bahn",2,1
+"238","stromkast",3,3
+"239","gasverbrauch",2,1
+"240","hartv 4",2,1
+"241","onelin portal einburger",2,1
+"242","wett",3,2
+"243","osm",2,1
+"244","svp",2,1
+"245","liniennetz",2,1
+"246","alt hof",1,1
+"247","luftqualitat",2,2
+"248","beschluss",1,1
+"249","histor",1,1
+"250","weihnachtszirkus olympiastadion parkplatz",1,1
+"251","bezirksamt friedrichshain",1,1
+"252","eleltrotaxi",1,1
+"253","einkommensteu",1,1
+"254","voi",1,1
+"255","lief",1,1
+"256","ozonwert",2,2
+"257","strassenrein",1,1
+"258","1648",1,1
+"259","nam list",1,1
+"260","straub",1,1
+"261","gel",1,1
+"262","tegel",1,1
+"263","grundsicher",1,1
+"264","zentralitazskennziff",1,1
+"265","cran",1,1
+"266","blockchain",1,1
+"267","gentechn",1,1
+"268","2017",1,1
+"269","kultur bericht forder",1,1
+"270","toilett",1,1
+"271","reinickendorf flurkart",1,1
+"272","shp zip",1,1
+"273","ewrmigra 2",1,1
+"274","umzug bezirk",1,1
+"275","hohenlini",2,2
+"276","volksbegehr",1,1
+"277","wern von siem gymnasium regensburg",2,2
+"278","verzeichnis trinkwass brunn",1,1
+"279","co2",1,1
+"280","kartenblatt",2,2
+"281","haushalt",1,1
+"282","integration",1,1
+"283","offent dien",1,1
+"284","bedarfsanalys",1,1
+"285","psycho",1,1
+"286","wfs station",2,2
+"287","elektrotaxi",1,1
+"288","vp2030",1,1
+"289","dgm5",1,1
+"290","lokasyon",1,1
+"291","ackerwertzahl",1,1
+"292","ditz",1,1
+"293","wanderungsbilanz",1,1
+"294","burgerdienstleist",1,1
+"295","wohnung 2018",1,1
+"296","taxifahrt",1,1
+"297","gegeminasium",1,1
+"298","warmeatlas",1,1
+"299","steuerungsdien",1,1
+"300","2018",1,1
+"301","un dekad",2,2
+"302","pendl",1,1
+"303","raumnutz",1,1
+"304","bezirksregion west 5",1,1
+"305","bezrik",1,1
+"306","bsr strassenrein verzeichnis und reinigungsklass ferbitz weg",1,1
+"307","standmiet",2,2
+"308","poi",1,1
+"309","einwohnerzahl friedrichshain",1,1
+"310","amphibi amphibi or fauna or spatz or amseln",1,1
+"311","strukturdat",1,1
+"312","forschergart",2,2
+"313","staatsop",1,1
+"314","europawahl",2,2
+"315","2015",1,1
+"316","transport",1,1
+"317","bundestagswahl 2017",1,1
+"318","liegenschaftskatast druck",1,1
+"319","sozialbericht",1,1
+"320","ordnungswirdr vbb straf",1,1
+"321","berzik",1,1
+"322","hydrant neukolln",1,1
+"323","ressortubergreif",1,1
+"324","mietendeckel",1,1
+"325","radnetz",1,1
+"326","mauerweg berlin 2019",1,1
+"327","senatsvorlag",1,1
+"328","zahlung",1,1
+"329","wochenmarkt breslau platz",1,1
+"330","schankgart",1,1
+"331","personalbericht",1,1
+"332","zf arena",1,1
+"333","wohngebaud",1,1
+"334","ausfuhrungsvorschrift zur festleg von wohnungsgross",1,1
+"335","naturschutzgebiet",1,1
+"336","evaluier",1,1
+"337","doppelhaushalt 2020",1,1
+"338","objektkartenkatalog",1,1
+"339","nachtragshaushalt",1,1
+"340","kreuzberg kiez",1,1
+"341","einwohn 2018",1,1
+"342","ubernahm von bestatattungskost",1,1
+"343","relief",1,1
+"344","unt den lind",1,1
+"345","gewerbemietpreisbrems",1,1
+"346","cinéma international",1,1
+"347","wohnung wms",1,1
+"348","shap",1,1
+"349","namenssuch",1,1
+"350","sozialversicherungspflicht",1,1
+"351","wohnungsgross",2,2
+"352","anmeld",1,1
+"353","mobilitatsgesetz",1,1
+"354","anni franc harrar",1,1
+"355","street closur",1,1
+"356","voyag weihnachtszirkus 2019",1,1
+"357","kinderarmut",1,1
+"358","hilfebedurft",1,1
+"359","wahllokal",1,1
+"360","lor planungsraum",1,1
+"361","gebaud wms",1,1
+"362","stadtentwickl",1,1
+"363","alkohol verkauf",1,1
+"364","94",1,1
+"365","fis brok",1,1
+"366","katasteramt",1,1
+"367","voyag weihnachtszirkus 2019 weihnachtszirkus or olympiastadion",1,1
+"368","heinersdorf",1,1
+"369","university",1,1
+"370","grundschul",2,2
+"371","utilisation des terr",1,1
+"372","berlin brandenburg fahrplan rb 63 de",1,1
+"373","kleingartenanlag",1,1
+"374","bebauungsplan zehlendorf",1,1
+"375","wanderungssaldo",1,1
+"376","biotop",1,1
+"377","arzt",1,1
+"378","was ist ein bedarfsgerecht wohnflach",1,1
+"379","show schoneweid septembet",1,1
+"380","amphibi",1,1
+"381","haushaltsplan lichtenberg",1,1
+"382","radverkehrsanlag",1,1
+"383","ausfuhrungsvorschrift zur festleg von wohnungsgross ausfuhrungsvorschrift wohnungsgross",1,1
+"384","weihnachtszirkus olympiastadion weihnachtszirkus or olympiastadion or voyag",1,1
+"385","bedarfsgerecht wohnflach",1,1
+"386","wfs servic",1,1
+"387","gesundheitsquot",2,2
+"388","kita pankow",1,1
+"389","band 11",1,1
+"390","milieuschutzgebiet",1,1
+"391","lichterfeld",1,1
+"392","offnent brunn",1,1
+"393","angebot",1,1
+"394","merseburg strass",1,1
+"395","dop20cir",1,1
+"396","mam",1,1
+"397","fnp 2005",1,1
+"398","bodenrichtwert dahl",1,1
+"399","weihnachtszirkus",1,1
+"400","stromversorg berlin vattenfall",1,1
+"401","widmung",1,1
+"402","mauerweg berlin de mauerweg berlin de",1,1
+"403","trinkbrunn wass charlottenburg",1,1
+"404","einkomm",2,2
+"405","blocknumm",1,1
+"406","landwirtschaft",1,1
+"407","grundach",2,2
+"408","oranienburg strass",1,1
+"409","ampel",1,1
+"410","trinkbrunn charlottenburg wass",1,1
+"411","richtlini uber die anschlussforder von sozialwohn 1972",2,2
+"412","ligenschaftskatast",1,1
+"413","vermessungsamt",1,1
+"414","larmkartier gesamtlarm",1,1
+"415","27 abs wofg i v m",1,1
+"416","offn",1,1
+"417","liegenschaftskast",1,1
+"418","vermessungsriss",1,1
+"419","strassenumm",1,1
+"420","defibrillator",1,1
+"421","verwaltungsein",1,1
+"422","grundbuch",1,1
+"423","kleingartenanlag am or ang or e v",1,1
+"424","grz berlin dahl",1,1
+"425","altersteilzeit",1,1
+"426","arbeitslosenzahl",1,1
+"427","rot kreuz",1,1
+"428","taskforc",1,1
+"429","iot",1,1
+"430","immobili",1,1
+"431","weihnachtszirkus olympiastadion",1,1
+"432","radweg",2,2
+"433","bezieh von transfereinkomm",1,1
+"434","wohngeld",2,2
+"435","arbeitslosenanteil",1,1
+"436","fahrplan de vbb berlin brandenburg rb63 de",1,1
+"437","zustandstuf",1,1
+"438","lieferant",1,1
+"439","spatkauf",1,1
+"440","kontur",1,1
+"441","ressourc",1,1
+"442","bildung",1,1
+"443","digitalakt",1,1
+"444","kino international",1,1
+"445","berlin kart",1,1
+"446","grundwassertemperatur",1,1
+"447","bestatattungskost",1,1
+"448","flugzeug",1,1
+"449","lubrza lubuski",1,1
+"450","baugrundkart",1,1
+"451","geometri",1,1
+"452","radzahl",2,2
+"453","psychatr",1,1
+"454","real estat",1,1
+"455","json",1,1
+"456","digital",1,1
+"457","alk",1,1
+"458","grunanlag",1,1
+"459","sportflach",1,1
+"460","kontaktbereich",1,1
+"461","wasserstell",1,1
+"462","alt",1,1
+"463","straf",1,1
+"464","vergabemindestlohn berlin ab 2020",1,1
+"465","bwb",1,1
+"466","gebaud mit adress",1,1
+"467","b plan",1,1
+"468","flurkart druck",1,1
+"469","trinkbrunn charlottenburg",1,1
+"470","polit",1,1
+"471","bodenrichtwert 2018",1,1
+"472","freibad berlin",1,1
+"473","gewerb",1,1
+"474","hydrant",2,2
+"475","trinbrunn charlottenburg",1,1
+"476","ordnungswirdr",1,1
+"477","weihnachtszirkus olympiastadion zirkus voyag weihnachtszirkus or olympiastadion or zirkus or voyag",1,1
+"478","radverkehszahlstell",1,1
+"479","liebenau",1,1
+"480","katast flurstuck",1,1
+"481","verdien gart und landschaftsbau",2,2
+"482","geburt",2,2
+"483","walk",1,1
+"484","fahraad",1,1
+"485","wohnatlas",1,1
+"486","psycholog",1,1
+"487","alg ii",1,1
+"488","schuldenberat",1,1
+"489","hydrantenverzeichnis",1,1
+"490","ein neu augentherapi und hygi",1,1
+"491","vermogensbild",1,1
+"492","gewerbegebiet wallenrod str",1,1
+"493","parkraum",1,1
+"494","lor dat",1,1
+"495","denkmalschutz",1,1
+"496","demo",1,1
+"497","hartz 4",1,1
+"498","lichtsignalanlag",1,1
+"499","einwohnerdicht 2018",1,1
+"500","ags",1,1
+"501","akuz",1,1
+"502","fischfauna",1,1
+"503","gemeinschaftsinitiativ",1,1
+"504","flachennutzungsplan",2,2
+"505","wander",1,1
+"506","bebauungsplan hegau weg",1,1
+"507","krankenversorg",1,1
+"508","k5",1,1
+"509","gebiet",1,1
+"510","hochlastzeitfen",1,1
+"511","umweltplakett laufr",1,1
+"512","bus",1,1
+"513","wfs kleingartenanlag",1,1
+"514","geograf",1,1
+"515","onelin portal",1,1
+"516","wfs servic fahrradstand",1,1
+"517","energi",1,1
+"518","briefwahl",1,1
+"519","deez",1,1
+"520","diversity",1,1
+"521","bevolker lor",1,1
+"522","bundestagswahl 2014",1,1
+"523","einwohn 1989",1,1
+"524","hausnumm",1,1
+"525","supermarkt",1,1
+"526","prenzlau berg",1,1
+"527","bsr strassenrein verzeichnis und reinigungsklassenferbitz weg",1,1
+"528","bundestagswahl 2013",1,1
+"529","kaltluftvolumenstrom",1,1
+"530","verkehrszell",1,1
+"531","ordnungsamt",1,1
+"532","naturnkmal",1,1
+"533","ess",1,1
+"534","2019 band 11",1,1
+"535","bodenrichtwert 2019",1,1
+"536","anzahl wohnung",1,1
+"537","3777",1,1
+"538","administrativ",1,1
+"539","offnent",1,1
+"540","fahrahd",1,1
+"541","geburtenzahl",1,1
+"542","plr",1,1
+"543","kita",1,1
+"544","lautstark",1,1
+"545","karl bohnhoff nervenklein",1,1
+"546","europawahl 2014",1,1
+"547","grundschulplanungsregion",1,1
+"548","demonstration",1,1
+"549","psychkg",1,1
+"550","entsorg",1,1
+"551","groba",1,1
+"552","klageverfahr",1,1
+"553","grz berlin",1,1
+"554","trinkwass brunn",1,1
+"555","bezirk geodat",1,1
+"556","bodenrichrkert",1,1
+"557","inkubator",1,1
+"558","sauglingssterb",2,2
+"559","alt lor",1,1
+"560","radzahlstell",2,2
+"561","fahrradfahr",1,1
+"562","parkraumbewirtschaft",1,1
+"563","27 abs wofg",1,1
+"564","spielsucht",1,1
+"565","bibliothek",1,1
+"566","fair trad",1,1
+"567","roll",1,1
+"568","sanierungsgebiet",2,2
+"569","kita navigator",1,1
+"570","bevolkerungsdicht",1,1
+"571","kart spandau",1,1
+"572","agenda",1,1
+"573","wohnlagenkart",1,1
+"574","park",1,1
+"575","gkz12",1,1
+"576","botzowviertel",1,1
+"577","klimaanalysekart 2015",1,1
+"578","rind",1,1
+"579","berlin grenz",1,1
+"580","energi wmw",1,1
+"581","produkt 78809",1,1
+"582","jugendamt",1,1
+"583","block geometri",1,1
+"584","u bahn",1,1
+"585","verkehrszeich",1,1
+"586","flohmarkt",1,1
+"587","alkis gemark",1,1
+"588","wanderungsvolum",1,1
+"589","berlin 1900",1,1
+"590","einwohn postleitzahl",1,1
+"591","modell",1,1
+"592","fauna",1,1
+"593","edg",1,1
+"594","e roll",1,1
+"595","vehkehr",1,1
+"596","dreizehnt verordn",1,1
+"597","lad offn",1,1
+"598","wbs",1,1
+"599","forder bildend kunst bericht",1,1
+"600","genocid",1,1
+"601","nutzti",1,1
+"602","abgeordnetenhauswahl",1,1
+"603","boris",1,1
+"604","bodenrichtwert 01 01 2019",1,1
+"605","wfs freizeit",1,1
+"606","todursach",1,1
+"607","psychosozial",2,2
+"608","auto",1,1
+"609","dat",1,1
+"610","einkommenstatist",1,1
+"611","bezirk grenz",1,1
+"612","prufbericht",1,1
+"613","hauptstrass",1,1
+"614","sozialraumdat schoneberg",1,1
+"615","ipgart",1,1
+"616","geojson",1,1
+"617","27 abs",1,1
+"618","dach",1,1
+"619","utm statist block",1,1
+"620","start up",1,1
+"621","gemeindeschlussel",1,1
+"622","sozialbereicht",1,1
+"623","flurstucksplan",1,1
+"624","geldspielgerat",1,1
+"625","mau",1,1
+"626","breitband",1,1
+"627","schwimmbad",1,1
+"628","plz",1,1
+"629","wfs haltestell",1,1
+"630","kind kreuzberg",1,1
+"631","fallada",1,1
+"632","nahverkehr",1,1
+"633","ruhig gebiet",1,1
+"634","brot",1,1
+"635","strassenampel",1,1
+"636","bod klassifizier",1,1
+"637","wasset",1,1
+"638","kinderwag",1,1
+"639","vertrag",1,1
+"640","regional selt der bodengesellschaft",1,1
+"641","aed",1,1
+"642","gebaudehoh",1,1
+"643","bezirk geo",1,1
+"644","bvg gtfs",1,1
+"645","stadtinformation",1,1
+"646","bad",1,1
+"647","stadtmodell",1,1
+"648","anmeld demonstration",1,1
+"649","standardlastprofil buro",1,1
+"650","mauerweg",1,1
+"651","dop or or or atom",1,1
+"652","senfin 21 12 2018",1,1
+"653","lichtzeichenanlag",1,1
+"654","leihrad",1,1
+"655","vermesungsriss",1,1
+"656","wfs public transportation",1,1
+"657","logisitk",1,1
+"658","bezitk",2,2
+"659","dop 2016 atom atrom atom",1,1
+"660","rechtsamt",1,1
+"661","fbi",1,1
+"662","gesamtbetrag der einkunft",1,1
+"663","sterblich",1,1
+"664","stau",1,1
+"665","logist",1,1
+"666","event",1,1
+"667","einwohnerdicht 2018 umweltatlas",1,1
+"668","bebauungsplan",2,2
+"669","dop 2016 atom",1,1
+"670","kga am ang e v",1,1
+"671","kirchengemeind",1,1
+"672","schwimm",1,1
+"673","stadtinformationssyst",1,1
+"674","friedrichshein",1,1
+"675","smart citt",1,1
+"676","tier",1,1
+"677","ausbildungsstatt fur fachberuf des gesundheitswes im land brandenburg",1,1
+"678","aktenplan steglitz zehlendorf",1,1
+"679","2014",1,1
+"680","shopping",1,1
+"681","lod1",2,2
+"682","ladesaul",1,1
+"683","bodenwass",1,1
+"684","bundestag",1,1
+"685","328 2017",1,1
+"686","bezirksregion west 1",1,1
+"687","tow cran",1,1
+"688","job",1,1
+"689","sozialstation",1,1
+"690","temperatut",1,1
+"691","verwaltunggrenz",1,1
+"692","burogebauf",1,1
+"693","sozialstruckturatlas",1,1
+"694","abgeordnetenhauswahl 2016",1,1
+"695","accelerator",1,1
+"696","bso",1,1
+"697","senat 6 08 2019",1,1
+"698","abfall",1,1
+"699","pdf",1,1
+"700","bebauungsp",1,1
+"701","caffe",1,1
+"702","chlorid",2,2
+"703","zuwendungsdatenbank",1,1
+"704","nutzungsdauerkatalog",1,1
+"705","senatsbeschluess",1,1
+"706","1987",1,1
+"707","friedrichshaf",1,1
+"708","dop 2016 atom atrom",1,1
+"709","78809",1,1
+"710","s bahn netz",1,1
+"711","bezirksgrenz",1,1
+"712","wohnlag",1,1
+"713","zugriffsstatist",1,1
+"714","evaluier kunst",1,1
+"715","luft",1,1
+"716","alt rhof",1,1
+"717","wohndau lor planungsr",1,1
+"718","malzfabr",1,1
+"719","contain",1,1
+"720","kuh",1,1
+"721","postleit",1,1
+"722","glucksspiel",1,1
+"723","drakestrass",1,1
+"724","gross prasidentenstrass",1,1
+"725","100 grun dach",1,1
+"726","nettoeinkomm",1,1
+"727","vinyl",1,1
+"728","strassenbafahr 2014",1,1
+"729","schema",1,1
+"730","wm 2006 kost",1,1
+"731","miet lad miet",1,1
+"732","anzahl fahrradfahr",1,1
+"733","strassenbafahr 20134",1,1
+"734","1000 grun dach",1,1
+"735","3d gebaudemodell lod1",1,1
+"736","erkstrass 3",1,1
+"737","wasserwerk",1,1
+"738","mull",1,1
+"739","geheimvertrag",1,1
+"740","k5 kartenblatt",1,1
+"741","anlagebaum",1,1
+"742","shema",1,1
+"743","psychar",1,1
+"744","startup",1,1
+"745","k5 kartenblatt tiff",1,1
+"746","strassenlist",1,1
+"747","breitbandausbau",1,1
+"748","kindergart",1,1
+"749","taxifahr",1,1
+"750","landschaftschutz",1,1
+"751","lsa",1,1
+"752","feuerwehr",1,1
+"753","kopenick",1,1
+"754","wohnblock",2,2
+"755","brandenburg geo or data or shapefil or zip or shp",1,1
+"756","grundschukl",1,1
+"757","flachennutzungspla n",1,1
+"758","gemeindekennziff",1,1
+"759","tv atz",1,1
+"760","attraction",1,1
+"761","cargo",1,1
+"762","werbesaul",1,1
+"763","schwarzplan",1,1
+"764","neu mitt tempelhof",1,1
+"765","viertel",1,1
+"766","wohnungsbau",1,1
+"767","chlor",1,1
+"768","stralau",1,1
+"769","tourist destination",1,1
+"770","stralau halbinsel",1,1
+"771","kriminalitat",1,1
+"772","strassensperr",1,1
+"773","rechtshilf",1,1
+"774","grundschuleinzugsbereich",1,1
+"775","muf",1,1
+"776","smart citi",1,1
+"777","erdgasverbrauch",1,1
+"778","temperatur 2019",1,1
+"779","wirtschaftsverkehrskonzept",1,1
+"780","kaltluftbahn",1,1
+"781","postleitzahl csv",1,1
+"782","regional seltneheit",1,1
+"783","koalitionsvereinbar",1,1
+"784","2018 1104",1,1
+"785","erdgas",1,1
+"786","2018 or vom or 27 03 2018",1,1
+"787","wass marsch",1,1
+"788","zustandigkeitsfind grundbuch",1,1
+"789","wfs stationenn",1,1
+"790","stadtplan mitt",1,1
+"791","afd",1,1
+"792","behindertenparkplatz",1,1
+"793","rechtsmittel",1,1
+"794","patent",1,1
+"795","sabatikel",1,1
+"796","bar",1,1
+"797","lod2",1,1
+"798","18 06 2019",1,1
+"799","27 03 2018",1,1

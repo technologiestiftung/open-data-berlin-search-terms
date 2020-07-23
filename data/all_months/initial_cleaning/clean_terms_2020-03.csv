@@ -1,0 +1,752 @@
+"","term_stem","impressions","visits"
+"1","corona",94,74
+"2","lor",21,9
+"3","toilett",19,5
+"4","umweltatlas",15,1
+"5","bodenrichtwert",15,3
+"6","wms",14,5
+"7","einwohn",18,11
+"8","block",27,4
+"9","wohndau",14,3
+"10","geologi",12,2
+"11","gtfs",14,11
+"12","alkis",12,4
+"13","coronavirus",10,4
+"14","wohn",11,3
+"15","servic",9,1
+"16","einwohnerinn und einwohn in berlin in lor planungsraum am",9,1
+"17","bezirk",12,10
+"18","kita",8,8
+"19","einwohn lor planungsraum",8,1
+"20","einkomm",11,4
+"21","verkehrslenk",6,3
+"22","umweltzon",6,2
+"23","lor planungsraum",6,2
+"24","verkehr",8,3
+"25","grenz",7,3
+"26","vermess",6,3
+"27","geologi wms wfs",6,1
+"28","dgm",13,7
+"29","freistell",6,1
+"30","parchwitz str",5,1
+"31","mietspiegel",5,4
+"32","geodat grundwass",5,1
+"33","naturdenkmal",7,5
+"34","wass wms wfs",5,1
+"35","luftbild",8,3
+"36","ortsteil",10,3
+"37","einwohnerinn und einwohn in berlin in lor planungsraum",5,2
+"38","solaranlag",6,2
+"39","flurstuck",6,3
+"40","bahn",5,1
+"41","10553 berlin",5,1
+"42","fahrrad",7,6
+"43","tourismus",4,4
+"44","adress",6,4
+"45","einwohnerzahl",7,7
+"46","ampeln",4,1
+"47","blindang",4,1
+"48","solar",4,2
+"49","neukolln",4,3
+"50","einwohn or wohn or 2018",4,1
+"51","dom",4,2
+"52","gebaud",8,5
+"53","senatsbeschluss",12,10
+"54","breitbandversorg",4,1
+"55","berlin kanaldeckel",4,1
+"56","einwohn berlin",4,2
+"57","strassennetz",4,1
+"58","strassennamenverzeichnis",4,2
+"59","flurabstand",4,1
+"60","2014 v 20 01 2015",4,1
+"61","rbs",6,3
+"62","energieverbrauch",4,1
+"63","einwohn lor planungsraum 31 12 2018",4,1
+"64","flurkart",4,3
+"65","kfz",4,2
+"66","grundwass",5,2
+"67","bevolkerungszahl",5,2
+"68","blindang pankow",4,1
+"69","student",9,4
+"70","3106",4,1
+"71","vbb",4,3
+"72","3d",3,3
+"73","cov",3,1
+"74","berlin bezirk",3,1
+"75","luft",3,2
+"76","mein handy recyceln",3,1
+"77","wohnlagenkart",3,2
+"78","einwohn 2019",3,3
+"79","startups",3,2
+"80","krankenhaus",5,5
+"81","strassennam neu",3,2
+"82","amt fur statist",3,1
+"83","vegetation wms wfs",3,1
+"84","arbeit or behinder",3,1
+"85","strass nam",3,1
+"86","wohnbauflach",5,2
+"87","schul",3,2
+"88","baumbestand",3,1
+"89","wass",5,3
+"90","gesund",4,2
+"91","anlag",3,1
+"92","ladesaul",5,3
+"93","standort",3,1
+"94","jugendamt",3,1
+"95","strassenverzeichnis",4,3
+"96","energi",4,2
+"97","nam",3,2
+"98","shp",3,1
+"99","photovolta",3,1
+"100","notbetreu",3,2
+"101","bevolkerungsdicht",3,3
+"102","covid",3,3
+"103","wohnlag",5,2
+"104","luftbild pankow",3,1
+"105","agilis",3,1
+"106","alleinerzieh",5,3
+"107","auskunft aus dem liegenschaftskatast",3,1
+"108","grundwass flurabstand",3,1
+"109","rrechtsverordn zum coronavirus",3,1
+"110","verwaltungsgrenz",4,2
+"111","flur plan",3,1
+"112","berlin k5",3,1
+"113","einwohn in den ortsteil berlin am",3,1
+"114","covid 19",5,3
+"115","sport",5,2
+"116","lidar",4,4
+"117","shap",3,2
+"118","friedrichshain",3,1
+"119","mitt",3,3
+"120","pankow",4,2
+"121","mokib mokib modular kita baut fur berlin",3,1
+"122","webatlas",3,1
+"123","pkw fuhrerschein",3,1
+"124","restaurant",2,2
+"125","logist",2,2
+"126","offnungszeit",2,1
+"127","soforthilf",4,3
+"128","plz",3,3
+"129","aufzug",2,1
+"130","trinkwasseranalys",3,3
+"131","postleitzahl",4,4
+"132","briefkast standort",3,2
+"133","einwohnerdicht",2,2
+"134","planungsraum",4,3
+"135","lor wohndau",2,1
+"136","vornam",3,2
+"137","spandau einwohn",2,2
+"138","fhir",2,1
+"139","orto",2,1
+"140","kindertagespflegestell",2,1
+"141","qualitat gebaud",2,1
+"142","spandau",2,2
+"143","integration",2,1
+"144","monitoring sozial stadtentwickl",2,1
+"145","sehenswurd",3,2
+"146","tragfah baugrund in berlin",2,1
+"147","ehrengrabstatt",2,1
+"148","rad",2,2
+"149","kremm strass",2,1
+"150","okokonto",3,2
+"151","info",2,1
+"152","haushalt",2,2
+"153","wochenmarkt",2,1
+"154","qualitat",2,1
+"155","flurplan",2,1
+"156","wohnung",2,1
+"157","weg",2,1
+"158","baunutzungsverordn 1956",2,1
+"159","corona restaurant or corona",2,1
+"160","beuck gymnasium",2,1
+"161","luftbild beriln",2,1
+"162","wohnungsbestand",2,2
+"163","tempelhof",3,2
+"164","bordstein",2,1
+"165","trinkwass",2,2
+"166","sar cov",2,1
+"167","park",3,3
+"168","grundkart berlin",2,1
+"169","wfs",2,2
+"170","klr",2,1
+"171","stadtteil",2,1
+"172","veranstalt",2,2
+"173","einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2008",2,1
+"174","bebauungsplan",2,2
+"175","2021",2,1
+"176","infektionsschutzgesetz",2,1
+"177","teilhab",2,1
+"178","wirtschaft",2,1
+"179","afs",2,2
+"180","bezirksgrenz",2,2
+"181","histor luftbild",2,1
+"182","geburtshilf",2,1
+"183","orthophoto",2,2
+"184","mapa",2,1
+"185","wochenmarkt markt",2,1
+"186","kart",2,1
+"187","bus",2,1
+"188","preisindiz lebenshalt",2,1
+"189","alleinerzieh 2018",2,1
+"190","bibliothek",3,2
+"191","wett",2,2
+"192","zentral",2,1
+"193","grundung",3,2
+"194","open data handbuch",2,1
+"195","corina",2,2
+"196","freistell corona",2,1
+"197","lor kml",3,2
+"198","bezirksregion",2,1
+"199","notversorg",2,1
+"200","coronahilf",2,1
+"201","doppelhaushalt",2,1
+"202","kirch",2,1
+"203","parcel",2,1
+"204","gemark",2,2
+"205","bevolkerungswachstum prognos",2,1
+"206","denkmal",2,1
+"207","senatsbeschluss flachennutzungsplan",2,1
+"208","arbeitslos",6,5
+"209","alkis auskunft",2,1
+"210","plz stadtbezirk",2,1
+"211","grundwasserspiegel ubersicht",2,1
+"212","gaststatt",2,1
+"213","bimschg antrag",2,1
+"214","bebauungsplan aufstellungsbeschluss",2,1
+"215","zahlung der radfahr",2,1
+"216","grundwasserspiegel",2,1
+"217","1928",2,1
+"218","gml",2,1
+"219","tier wms wfs",2,1
+"220","arbeitslosenstatist",2,1
+"221","volksf",3,2
+"222","miet",4,3
+"223","verkeghrszahl",2,1
+"224","building",3,2
+"225","veranstat",2,1
+"226","bezirk grenz",2,1
+"227","2013",2,1
+"228","zip",3,2
+"229","lod1",2,1
+"230","klimanotlag",2,1
+"231","wohnungsaufsicht",2,1
+"232","trag",2,1
+"233","felsenbirnenweg",2,1
+"234","strassennam list",2,1
+"235","fuhrerschein",2,1
+"236","alkis nas",2,1
+"237","restaurant corona",2,1
+"238","s bahn",2,1
+"239","zip cod",3,2
+"240","kerndatensatz",3,2
+"241","las",3,3
+"242","durchfahrtshoh tunnel",2,1
+"243","wc",2,1
+"244","gra mann",2,1
+"245","regeneration",2,1
+"246","kriminalitat",3,2
+"247","tiefwerd histor kart",2,1
+"248","dgm5",4,2
+"249","notbrunn",2,1
+"250","sensor",2,1
+"251","bae sgb ii per",2,1
+"252","toilett in berlin",2,2
+"253","offent toilett in berlin",2,1
+"254","arbeitslos 2016",2,1
+"255","versammlungsbehord",2,1
+"256","klimanitlag",2,1
+"257","sport regeneration",2,1
+"258","nam 2019",2,1
+"259","christengemeinschaft",2,1
+"260","kart flur",2,1
+"261","kalteanwend",2,1
+"262","corona hilf",2,1
+"263","gemarkungsgrenz",2,1
+"264","health",2,1
+"265","senatsbeschluss wernerbad",2,1
+"266","verkehrszahl",2,2
+"267","campbell",1,1
+"268","niederbarnimstrass wohnlag",1,1
+"269","hubertusse",1,1
+"270","coronakris",1,1
+"271","wochenmarkt in rudow",1,1
+"272","liv",2,2
+"273","sozialleist",1,1
+"274","dresd",1,1
+"275","traffic accident",1,1
+"276","werkstatt",2,2
+"277","charg",1,1
+"278","odis",1,1
+"279","bussgeld",1,1
+"280","unfall",1,1
+"281","barrierearm",1,1
+"282","kohlendioxid",1,1
+"283","abimo",1,1
+"284","frontverlauf 1945",1,1
+"285","sengpg",1,1
+"286","hochschul",1,1
+"287","senatsbeschluss 1766 verwaltungsspezif beruf",1,1
+"288","baum",3,3
+"289","corona tanzstudios",1,1
+"290","charlott thorstvedt",1,1
+"291","zentrifug",1,1
+"292","2021 wissenschaft",1,1
+"293","immobilienblas",1,1
+"294","wahlbezirk",1,1
+"295","profiskal",1,1
+"296","elektr",2,2
+"297","tulpenweg",1,1
+"298","versamml",1,1
+"299","bau",1,1
+"300","digital liegenschaftskatast",1,1
+"301","treptow",1,1
+"302","freizeit",1,1
+"303","corona beschluss",1,1
+"304","allgemeinverfug",1,1
+"305","1992",1,1
+"306","bett",1,1
+"307","abgeordnetenhauswahl 1990",1,1
+"308","gewinn",1,1
+"309","einwohnerzahl berlin",1,1
+"310","wanderungssaldo",1,1
+"311","landkreis barnim",1,1
+"312","ringbahn",1,1
+"313","eigentumerquot",1,1
+"314","transparenz 44 lho",1,1
+"315","schliessung weg corona",2,2
+"316","nahariyastrass",1,1
+"317","schwengelpump im bezirk neukoln",1,1
+"318","supermarket",1,1
+"319","strassenpflast",1,1
+"320","sozialstruktur",1,1
+"321","eigentum",2,2
+"322","lichtenberg",2,2
+"323","blattschnitt",1,1
+"324","produkt",1,1
+"325","energieverbrauchsubersicht",3,3
+"326","air",1,1
+"327","ess bestell",1,1
+"328","privat pkw pro 1 000 einwohn",1,1
+"329","verordn",1,1
+"330","solaran",1,1
+"331","vermess at ba fk berlin de",1,1
+"332","licht",1,1
+"333","mietpreis",2,2
+"334","kontakt",1,1
+"335","internet",1,1
+"336","bussonderfahrstreif",1,1
+"337","pump standort berlin",1,1
+"338","oberflach",1,1
+"339","workspac",1,1
+"340","road accident",1,1
+"341","lageso",1,1
+"342","bestimm fur veranstalt",1,1
+"343","sozial",1,1
+"344","fahrradnetz",1,1
+"345","qgis",1,1
+"346","wie viel einwohn in der stadt",1,1
+"347","wand",1,1
+"348","frauenschutzplatz",1,1
+"349","baugrundkart",1,1
+"350","berlin mitt kart",1,1
+"351","briefkast",2,2
+"352","geometri",2,2
+"353","kopenick",1,1
+"354","hauskoordinat",1,1
+"355","gesundheitsamt",1,1
+"356","dmg",1,1
+"357","mesh",1,1
+"358","niederbarnimstrass",1,1
+"359","weg weisung",1,1
+"360","geometri der lor",1,1
+"361","qualitatsgebaud",1,1
+"362","bauluck",1,1
+"363","tier",1,1
+"364","verkehrsmanagementsyst",1,1
+"365","k5",1,1
+"366","wirtschaftsforder",1,1
+"367","senatsbeschluss 1766",1,1
+"368","baufertigstell",1,1
+"369","coronna massnahm",1,1
+"370","wifi",1,1
+"371","baunvo 1956",1,1
+"372","gis",2,2
+"373","mulltrenn",1,1
+"374","veranstalt corona virus",1,1
+"375","senatsvorlag berlin zob",1,1
+"376","corona virus epedemi",1,1
+"377","basis dlm",1,1
+"378","bildungseinricht",1,1
+"379","dlm",1,1
+"380","urnenwahlbezirk",1,1
+"381","pump",1,1
+"382","diat",1,1
+"383","produkt vergleichsbericht",1,1
+"384","per sgb",2,2
+"385","schild",1,1
+"386","geland",1,1
+"387","offent gebaud",1,1
+"388","klub",1,1
+"389","lor bezirk einwohn",1,1
+"390","lor bezirksregion",1,1
+"391","aufstellungsbeschluss 1 94",1,1
+"392","vom 17 03 2020",1,1
+"393","unterkunft fur jung leut",1,1
+"394","antidiskriminierungsstell",1,1
+"395","berlin kanaldeckel kanaldeckel",1,1
+"396","palais schwerin",1,1
+"397","sonnenalle",1,1
+"398","corona schliessung von geschaft",1,1
+"399","67 sgb xii",1,1
+"400","hoehenmodell",1,1
+"401","nichtwohnfunktion",1,1
+"402","behinder",1,1
+"403","vergab sporthall",1,1
+"404","beschluss",1,1
+"405","arbeitsbereich",1,1
+"406","trinkwass analys",1,1
+"407","bzr",1,1
+"408","landesamt fur gesund ausgangssperr",1,1
+"409","bauwerk",1,1
+"410","corona hilf fur klein unternehm",1,1
+"411","nachhalt tourismus",1,1
+"412","senatsbeschluss 17 03 20",1,1
+"413","communication",1,1
+"414","konturlini",1,1
+"415","haus",1,1
+"416","durchfahrtshoh",1,1
+"417","verkehrsunfall",1,1
+"418","bimschv",1,1
+"419","tiefwerd",1,1
+"420","gymnasium",1,1
+"421","pflegebedurft",1,1
+"422","grunderzentr",1,1
+"423","lebensmittel",1,1
+"424","landesamt fur gesund",1,1
+"425","strassennam",2,2
+"426","transparenz",1,1
+"427","haushalt 2020",1,1
+"428","virus corona",1,1
+"429","velo",1,1
+"430","bvg",2,2
+"431","unerwunscht schrifttum",1,1
+"432","aktuell geschaftsschliess",1,1
+"433","1766",1,1
+"434","postal cod",1,1
+"435","gesobau",1,1
+"436","arbeitslosearbeitslos 2016",1,1
+"437","kirchenkreis",1,1
+"438","hilfetrag",1,1
+"439","luftbild 1985",1,1
+"440","berlin schloss schloss",1,1
+"441","heut",1,1
+"442","dgk",1,1
+"443","kanal",1,1
+"444","retail",1,1
+"445","inspir",1,1
+"446","lichtsignal",1,1
+"447","motorisierungsrat",1,1
+"448","schliessung bar",1,1
+"449","virus corbit",1,1
+"450","heim",1,1
+"451","berlin schloss",1,1
+"452","oberflachenmodell",1,1
+"453","berlin 3d",1,1
+"454","whnlag",1,1
+"455","sanft tourismus",1,1
+"456","2017",1,1
+"457","waldbruck",1,1
+"458","berlin histor",1,1
+"459","schliessung corona",1,1
+"460","rehabilitationsklin",1,1
+"461","kind",1,1
+"462","neighborhood",1,1
+"463","startup",1,1
+"464","bevolker",2,2
+"465","covid19",1,1
+"466","studentenhaus",1,1
+"467","ander strassennam",1,1
+"468","feuerwerk",1,1
+"469","e mobility ladesaul in berlin",1,1
+"470","schulnotversorg",1,1
+"471","berlin wasserwerk",1,1
+"472","sgb ii",1,1
+"473","autos",1,1
+"474","dop",2,2
+"475","kontaktverbot",1,1
+"476","wbs",1,1
+"477","transferlesit",1,1
+"478","flur",1,1
+"479","s 1282",1,1
+"480","pardok",1,1
+"481","sgb",1,1
+"482","transferbezieh",1,1
+"483","diet",1,1
+"484","kindertagesbetreu",1,1
+"485","u bahn",2,2
+"486","einwohn wohn 2018",1,1
+"487","strassenverkehrsamt",1,1
+"488","kriminalitaetsatlas",1,1
+"489","corona aktuell geschaftsschliess",1,1
+"490","strassenbaum",2,2
+"491","einwohn lor planungraum",1,1
+"492","tiefwerd kart",1,1
+"493","senatsbeschluss feuerwerksverbot 2019",1,1
+"494","senatsbeschluss 1282",1,1
+"495","halt",1,1
+"496","toliett",1,1
+"497","durchfahrtshoh tunnel alexanderplatz",1,1
+"498","kreuzberg",1,1
+"499","verkehrszell",1,1
+"500","schwengelpump standort berlin",1,1
+"501","bar",2,2
+"502","bevolker 2019",1,1
+"503","geburtsort",1,1
+"504","17 03 20",1,1
+"505","einwohn lor planungsraum 31 12 2012",1,1
+"506","wohnbauflach hektar",1,1
+"507","list",1,1
+"508","ehrengrab",1,1
+"509","67 sgb xii hilf or in or besond or lebenslag",1,1
+"510","mariendorf",1,1
+"511","verkehrsmanagementsyst vms",1,1
+"512","handbuch",1,1
+"513","bodenrichtwert 01 01 2018 eigentumswohn willibakd alexis str in berlin kreuzberg",1,1
+"514","nebenkost",1,1
+"515","beruf",1,1
+"516","einzelhandel",1,1
+"517","einwohnerinn und einwohn in berlin in lor planungsraum 2008",1,1
+"518","naunynstrass",1,1
+"519","bae",1,1
+"520","13 03 2020",1,1
+"521","bussonderfahrstreif einspruch",1,1
+"522","einwohn pankow",2,2
+"523","passeng",1,1
+"524","naturschutzgebiet",1,1
+"525","bad",1,1
+"526","strtassennam",1,1
+"527","wassw wms wfs",1,1
+"528","lor bezirk",1,1
+"529","pflast",1,1
+"530","2020",1,1
+"531","kitaplatz",2,2
+"532","bimschv antrag",1,1
+"533","liegensch",1,1
+"534","flora wms wfs",1,1
+"535","lebensmittel einzelhandel",1,1
+"536","studier",1,1
+"537","wasserschutzgebiet",1,1
+"538","geometri ortsteil",1,1
+"539","okokontos",1,1
+"540","brunn",2,2
+"541","bodenrichtwert berlin",1,1
+"542","stromverbrauch",1,1
+"543","bussonderfahrstreif widerspruch",1,1
+"544","alt",1,1
+"545","schwengelpumpenstandort berlin",1,1
+"546","besuchszahl in offent gefordert berlin kultureinricht",1,1
+"547","hostel",1,1
+"548","pressemitteil",2,2
+"549","greiz strass",1,1
+"550","stromverbrauch 2019",1,1
+"551","abstellanlag",1,1
+"552","monitoring sozial statdentwickl",1,1
+"553","einwohn haushalt",1,1
+"554","gwz",1,1
+"555","mietenspiegel",1,1
+"556","sinkast",1,1
+"557","aktuell geschaftsschliess corona",1,1
+"558","blockteilflach",1,1
+"559","strassenablauf",1,1
+"560","lod2",1,1
+"561","maria regina martyrium",1,1
+"562","immobili",1,1
+"563","senatsbeschluss verbot silv",1,1
+"564","wohnungslosenhilf",1,1
+"565","pflanz wms wfs",1,1
+"566","willmersdorf",1,1
+"567","stop",1,1
+"568","lif quality",1,1
+"569","fahrradrout",1,1
+"570","z",1,1
+"571","verkehrsmanagementsyst vms wegweis",1,1
+"572","administration",1,1
+"573","transparenz 23 lho",1,1
+"574","dion",1,1
+"575","sinkkast",1,1
+"576","homosexual",1,1
+"577","flachennutz 1900",1,1
+"578","44 lho",1,1
+"579","transf",1,1
+"580","reha",1,1
+"581","fahrzeug",1,1
+"582","hhp",1,1
+"583","geojson",1,1
+"584","gay",1,1
+"585","senatsvorlag neubau busbahnhof",1,1
+"586","innovation",1,1
+"587","wohnungsunternehm",1,1
+"588","hydrant",2,2
+"589","strass nam set",1,1
+"590","nischenstrategi",1,1
+"591","sentasbeschluss 17 03 20",1,1
+"592","api",1,1
+"593","vornamenstatist",1,1
+"594","naunynstrass erhaltungssatz",1,1
+"595","signal",1,1
+"596","seilbahn",1,1
+"597","communication infrastructur",1,1
+"598","radfahr",2,2
+"599","kindertagepflegestell",1,1
+"600","stau",1,1
+"601","handy",1,1
+"602","einwohn rummelsburg",1,1
+"603","einwohnerdicht lor",1,1
+"604","bier",1,1
+"605","motorisierungsgrad nach statist gebiet",1,1
+"606","senatsbeschluss 1766 verwaltungsspezif or beruf",1,1
+"607","mietendeckel",1,1
+"608","bereitstell von 60 grundstuck",1,1
+"609","shap ortsteil",1,1
+"610","bergbau",1,1
+"611","berlin k5000",1,1
+"612","sozialstrukturatla",1,1
+"613","altersgrupp",1,1
+"614","open innovation",1,1
+"615","einwphn",1,1
+"616","wfs verwaltungsgrenz",1,1
+"617","geo",1,1
+"618","kindertagessttt",1,1
+"619","strass",1,1
+"620","baumbestand berlin",1,1
+"621","gebaudealt",1,1
+"622","baujahr",1,1
+"623","23 lho",1,1
+"624","wohnblock",1,1
+"625","einwohn lor planungsraum 31 12 2013",1,1
+"626","grnez",1,1
+"627","feinstaub",1,1
+"628","arbeitslosenquot",1,1
+"629","wegweis",1,1
+"630","kindertagepfleg",1,1
+"631","berlin grenz",1,1
+"632","soforthilf ii",1,1
+"633","landergrenz",1,1
+"634","but",1,1
+"635","radrout",1,1
+"636","einwohn lor planungsraum 31 12 2019",1,1
+"637","stadtteilnam",1,1
+"638","vornamenstatist 2019",1,1
+"639","baunutzungsplan",1,1
+"640","kurzparkzon",1,1
+"641","eigentumsquot",1,1
+"642","wohnungseigentumsquot",1,1
+"643","kneip",1,1
+"644","einwohnerzahl berlin 2019",1,1
+"645","wilmersdorf 1945",1,1
+"646","wandertourismus",1,1
+"647","datensatz einwohnerzahl",1,1
+"648","verkehrsflach",1,1
+"649","schwebebahn",1,1
+"650","berzirksprofil",1,1
+"651","parkzon",1,1
+"652","energieverbrauchsdat",1,1
+"653","gedenktafel",1,1
+"654","senatsbeschluss corona",1,1
+"655","senkkast",1,1
+"656","steglitz zehlendorf",1,1
+"657","motorisierungsrat nach statist bereich",1,1
+"658","sar cov cov",1,1
+"659","einwohn lor planungsraum 31 12 2017",1,1
+"660","gwr",1,1
+"661","beschluss verbot silv",1,1
+"662","adressdat",1,1
+"663","afd",1,1
+"664","sportmus",1,1
+"665","corona stillstand or in or berlikn",1,1
+"666","dollar",1,1
+"667","hauptkart",1,1
+"668","wohnbauflach ha",1,1
+"669","lebensmitteleinzelhandel",1,1
+"670","grundschuleinzugsbereich",1,1
+"671","preisindiz",1,1
+"672","gebaud und wohnungszahl",1,1
+"673","verkehr or zahlung",1,1
+"674","lebensmitteleinzelhandell",1,1
+"675","open",1,1
+"676","einwohn lor planungsraum 2019",1,1
+"677","berlin bezirk shapefil",1,1
+"678","baunvo",1,1
+"679","haushaltsgross",1,1
+"680","wfs grenz",1,1
+"681","alkis dxf",1,1
+"682","einwohn lor planungsraum 2018",1,1
+"683","sozialhilfeempfang",1,1
+"684","grw forderdat",1,1
+"685","fauna wms wfs",1,1
+"686","sgb ii planungsraum",1,1
+"687","radfhr",1,1
+"688","nahverkehr",1,1
+"689","vhs",1,1
+"690","wedding barfussstr",1,1
+"691","breitband",1,1
+"692","wms webatlas",1,1
+"693","bruttoinlandsprodukt",1,1
+"694","taxi",1,1
+"695","senatsbeschluss wernerstrass",1,1
+"696","einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2012",1,1
+"697","coron",1,1
+"698","vbb htfs",1,1
+"699","einwohn 2018",1,1
+"700","trodelmarkt",1,1
+"701","haushaltsplan",1,1
+"702","haltestell",1,1
+"703","schloss",1,1
+"704","trag bernd",1,1
+"705","verbot autor",1,1
+"706","unternehm",1,1
+"707","vertrag berlin onlin",1,1
+"708","senatsbeschluss verbot silv 2019",1,1
+"709","club",1,1
+"710","nachnam",1,1
+"711","beschluss verbot feuerwerk",1,1
+"712","grassmann",1,1
+"713","monitoring sozial sztatdentwickl",1,1
+"714","pumprn",1,1
+"715","air pollution",1,1
+"716","infektionsschutzgesetz entschad",1,1
+"717","es0304",1,1
+"718","grunanlag",1,1
+"719","osman",1,1
+"720","toilet",1,1
+"721","oberflaachenmodell",1,1
+"722","grw",1,1
+"723","dsm",1,1
+"724","epiphani",1,1
+"725","gend",1,1
+"726","gedenktafel datenbank",1,1
+"727","dop20",1,1
+"728","berzirk",1,1
+"729","4 bimschv",1,1
+"730","spielplatz",1,1
+"731","ebatlas",1,1
+"732","1900",1,1
+"733","ovid 19",1,1
+"734","citygml",1,1
+"735","buss",1,1
+"736","vornam 2019",1,1
+"737","station",1,1
+"738","verdachtsflach pankow",1,1
+"739","berlin bezirk shp",1,1
+"740","fahrplandat",1,1
+"741","bevolkerungswachstum",1,1
+"742","gtfs rt",1,1
+"743","mindestlohn",1,1
+"744","sar",1,1
+"745","corona dashboard",1,1
+"746","distric",1,1
+"747","incom",1,1
+"748","vbb gtfs",1,1
+"749","kart von berlin",1,1
+"750","marzahn",1,1
+"751","radzahldat",1,1

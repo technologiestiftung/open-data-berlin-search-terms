@@ -1,0 +1,513 @@
+"","term_stem","impressions","visits"
+"1","shp",19,4
+"2","fairtrad",17,9
+"3","energieverbrauch",17,11
+"4","csv",16,3
+"5","geometri",17,5
+"6","gebaud",11,3
+"7","geodat",13,5
+"8","vornam",18,12
+"9","alleinerzieh",10,4
+"10","block",16,4
+"11","rbs",13,6
+"12","verkehr",9,6
+"13","strass",11,4
+"14","gtfs",10,8
+"15","vbb",12,7
+"16","statist block",7,2
+"17","einkomm",8,4
+"18","rbs block",7,2
+"19","lebenswelt",7,2
+"20","verkauv erbbaubelastet grundstuck an den erbbauberechtigt",6,1
+"21","adress",14,5
+"22","alkis",8,5
+"23","nam",6,4
+"24","flurkart",12,8
+"25","grundkart",5,1
+"26","wasserbetrieb",5,2
+"27","lor",8,3
+"28","katast",5,2
+"29","energieverbrauchsubersicht",4,3
+"30","lor planungsraum",4,1
+"31","energi",4,4
+"32","1002",4,2
+"33","u bahn",4,2
+"34","kultur",7,2
+"35","api",4,1
+"36","bezirk",9,7
+"37","berlin strass",4,1
+"38","badestell",4,3
+"39","beschluss v 2018",4,1
+"40","moabit",5,4
+"41","baby",4,2
+"42","wahlkreis",4,1
+"43","nois",4,2
+"44","kopen",4,1
+"45","brandschutz",3,2
+"46","netz",3,3
+"47","wochenmarkt berlin",5,2
+"48","naturschutzrecht",3,1
+"49","fahrrad",5,5
+"50","bezirksregion von treptow kopenick",3,1
+"51","hydrant",3,1
+"52","luft",3,2
+"53","mietpreis",3,2
+"54","erbbaubelastet grundstuck",3,1
+"55","geolog bohrdat",3,1
+"56","lehr",5,3
+"57","wass",4,2
+"58","brunn",3,2
+"59","kunst",3,1
+"60","wahl",4,3
+"61","erwerbslosenzahl",3,1
+"62","einschulungsuntersuch",3,1
+"63","verkehrsaufkomm",3,1
+"64","richtwert fur stellplatzbedarf",3,1
+"65","alleinerzieh neukolln",3,2
+"66","polizei",4,4
+"67","larm",4,3
+"68","mitt",4,3
+"69","auktion",3,1
+"70","luftbild",3,2
+"71","echtzeit",3,1
+"72","pegel",3,1
+"73","geojson",3,1
+"74","berlin 1650",3,1
+"75","hochschul",3,1
+"76","veranstalt",4,3
+"77","opf",3,1
+"78","bus",2,2
+"79","gewalt",2,2
+"80","unterflurhydrant",2,1
+"81","ortsteil",4,3
+"82","wahllokal 2019 neukolln",2,1
+"83","los",2,2
+"84","miet",5,5
+"85","jugendgewalt",2,1
+"86","schul",9,8
+"87","tempelhof",4,4
+"88","einwohn",3,3
+"89","arzt lichtenberg",3,2
+"90","beschaftigt",2,1
+"91","wohnung",2,1
+"92","bvg",2,2
+"93","dezibel",3,2
+"94","auslanderanteil de",2,1
+"95","zuzug",2,2
+"96","kita",3,2
+"97","lageplan",3,2
+"98","verfahr zur ermittl des verkehrwert",2,1
+"99","grundstuck erbbauberechtigt",2,1
+"100","tempel",2,1
+"101","senatsbeschluss",4,3
+"102","geodat baum or baum",2,1
+"103","alt glienick grund",2,1
+"104","einwohnerinn und einwohn mit migrationshintergrund",2,1
+"105","oper",2,1
+"106","kind",2,2
+"107","flughaf tegel",2,1
+"108","tourismus",2,1
+"109","papi sammelstell",2,1
+"110","15 1002",3,2
+"111","wohnflach",2,2
+"112","verkauf an den erbbauberechtigt",2,1
+"113","bevolker",3,3
+"114","ermittl des verkehrswert",2,1
+"115","kart",4,2
+"116","digital gelandemodell",2,1
+"117","stellplatzverordn",2,1
+"118","tempohom",2,1
+"119","erbbaubelastet grundstuck an den erbbauberechtigt",3,2
+"120","stromnetz",2,1
+"121","lastprofil",3,2
+"122","bundestagwahl",2,1
+"123","bvv",2,2
+"124","grundstuck an den erbbauberechtigt",2,1
+"125","straka",2,1
+"126","tempolimit zionskirchstrass",2,1
+"127","abwass",3,2
+"128","einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum",2,1
+"129","flachennutzungsplan",2,2
+"130","verkehrszahl",2,1
+"131","profil",2,1
+"132","bezirk shapefil lor",2,1
+"133","verfahr zur ermittl des verkehrwert bei der verausser von erbbaubelastet grundstuck an den erbbauberechtigt",2,1
+"134","opnv",2,1
+"135","verkehrsbelast",2,1
+"136","finanzlag",2,1
+"137","sprach",2,1
+"138","handbuch",2,1
+"139","demografi",3,2
+"140","beamt",2,1
+"141","modulbau",3,2
+"142","population grid",2,1
+"143","unternehm",2,2
+"144","shapefil",2,2
+"145","rathaus kopenick",2,1
+"146","verkehrsmeng",2,1
+"147","energieverbrauch reinickendorf",2,1
+"148","offent liegenschaft reinickendorf",2,1
+"149","s bahn",2,1
+"150","hauskoordinat",2,1
+"151","district",2,1
+"152","stellplatzbedarf",2,1
+"153","stolperstein",2,1
+"154","grundschul",2,2
+"155","fahrplandat",2,1
+"156","feiertag",3,2
+"157","beschluss",4,2
+"158","bad",2,1
+"159","wahlkreis wahlergebnis",2,1
+"160","toruismus",2,1
+"161","kriminalitatsatlas",2,1
+"162","lod2",2,2
+"163","sozialstrkturatlas 2017",2,1
+"164","kriminalitat",2,1
+"165","rbs block 2017",2,1
+"166","neubau adlershof",1,1
+"167","gewerb",1,1
+"168","8 marz",1,1
+"169","alt berlin",1,1
+"170","list der haufig vornam 2010",1,1
+"171","besoldungsanpass 2019",1,1
+"172","weihnachtsbaum",1,1
+"173","kundenkart vbb",1,1
+"174","dtrom",1,1
+"175","altersverteil der bevolker in reinickendorf",1,1
+"176","fussgang",1,1
+"177","lift chair",1,1
+"178","wiedereinfuhr",1,1
+"179","graffiti",1,1
+"180","pankow",1,1
+"181","fontan",1,1
+"182","kreis und kreisfrei stadt",1,1
+"183","parkplatz",2,2
+"184","gewass",1,1
+"185","saub berlin",1,1
+"186","open data veranstalt",1,1
+"187","wohngebaud",1,1
+"188","mord",1,1
+"189","plan bahnhof friedrichstrass",1,1
+"190","wahllokal neukolln",2,2
+"191","ordnung",1,1
+"192","co2",1,1
+"193","tempolimit",1,1
+"194","dgm",2,2
+"195","regenbogenfabr",1,1
+"196","angebotsmiet",2,2
+"197","mau shp",1,1
+"198","wahlergebnis bundestagswahl 2017",1,1
+"199","brachflach",1,1
+"200","modular",1,1
+"201","postleitzahl",1,1
+"202","stadt international",1,1
+"203","friedhof",1,1
+"204","nas",1,1
+"205","freiwilligendien",1,1
+"206","mull",1,1
+"207","warm",2,2
+"208","einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum am 30 06 2018",1,1
+"209","stadtbezirk",1,1
+"210","tarif",1,1
+"211","rad",1,1
+"212","fotografi",1,1
+"213","tiergart",1,1
+"214","direktmandat abgeordnetenhaus",1,1
+"215","freie universitat",1,1
+"216","sozial wohnungsbau",1,1
+"217","2017",1,1
+"218","pfleg",1,1
+"219","volksentscheid",1,1
+"220","verk",1,1
+"221","auswahlverfahr",1,1
+"222","stadtumbau",1,1
+"223","hidrant",1,1
+"224","ausgab",1,1
+"225","hkw",1,1
+"226","unbewohnt",1,1
+"227","buchhandl",1,1
+"228","einschulbereich",2,2
+"229","erhaltungsgebiet",1,1
+"230","wedding",1,1
+"231","beschaftigt lor",1,1
+"232","umkreis",1,1
+"233","eu beauftragt",1,1
+"234","av wohn",1,1
+"235","ausgab privat haushalt",1,1
+"236","uni",1,1
+"237","energieverbrauchsubersicht bezirk gebaud",2,2
+"238","bevolkerungsentwickl",1,1
+"239","2019",1,1
+"240","rhenaniastrass",1,1
+"241","lernsoftwar",1,1
+"242","park rid",1,1
+"243","bevolker demografi",1,1
+"244","europabeauftragt",2,2
+"245","webservic",1,1
+"246","einwohn lor",1,1
+"247","geometri bezirk",1,1
+"248","blockgeometri",1,1
+"249","alt der bewohn",1,1
+"250","einwohnerzahl",2,2
+"251","stadtklima",1,1
+"252","versorg",1,1
+"253","konsum",1,1
+"254","einschul einschul",1,1
+"255","wochenmarkt berlin steglitz rathaus steglitz",1,1
+"256","freiwill",1,1
+"257","einwohnerinn und einwohn",1,1
+"258","bau",1,1
+"259","jugendamt",1,1
+"260","ortho",1,1
+"261","einschul",1,1
+"262","grundschulregion",2,2
+"263","bezirksregion dammvorstadt",1,1
+"264","wohnraum",1,1
+"265","breitband",1,1
+"266","wasserqualitat",1,1
+"267","unbebaut",1,1
+"268","list vornam 2010",1,1
+"269","wahlergebnis bundestagswahl 2017 berlin reinickendorf",1,1
+"270","luftgut",1,1
+"271","alkis such",1,1
+"272","baugenehm",1,1
+"273","zionskirchstrass",1,1
+"274","jugendhilf",1,1
+"275","zehlendorf grundschuleinzugsbereich",1,1
+"276","ntv2",1,1
+"277","wasseranalys",1,1
+"278","alt glienick grund wann wird gereinigt",1,1
+"279","berlin",1,1
+"280","wfs",1,1
+"281","consumption",1,1
+"282","grundstucksverkauf",1,1
+"283","grundstucksverkauf erbbaubelastet grundstuck an den erbbauberechtigt",1,1
+"284","einwohnerinn und einwohn mit migrationshintergrund 2014",1,1
+"285","list der haufig vornam 2018",1,1
+"286","kreuzberg",1,1
+"287","simplesearch",1,1
+"288","gentrifizier",1,1
+"289","bezirk berlin",1,1
+"290","lernprogramm",1,1
+"291","gfz pankow",1,1
+"292","tegel",1,1
+"293","buchhand",1,1
+"294","opernstift",1,1
+"295","pressemitteil",1,1
+"296","philharmon",1,1
+"297","rauch",1,1
+"298","3d model",1,1
+"299","list der",1,1
+"300","wms",1,1
+"301","licht",1,1
+"302","einwohnerinn und einwohn in den ortsteil berlin",1,1
+"303","carsharing",1,1
+"304","ungebaut",1,1
+"305","alt der bevolker in reinickendorf",1,1
+"306","hirschhof",1,1
+"307","korperkoordination",1,1
+"308","bezirk mitt",1,1
+"309","bevolker 2018",1,1
+"310","kost",1,1
+"311","bezirksregion dammvorstadt kopenick",1,1
+"312","bebauungsplan",1,1
+"313","bezirksregion kopenick",1,1
+"314","landesentwicklungsplan",1,1
+"315","bildung und teilhab",1,1
+"316","gesetz feiertag",1,1
+"317","ubahn",1,1
+"318","schadstoff",1,1
+"319","europawahl",1,1
+"320","spree",1,1
+"321","standard profil",2,2
+"322","bevolkerungsdicht mitt",1,1
+"323","ber",1,1
+"324","asyl",1,1
+"325","p r",1,1
+"326","altenpfleg",1,1
+"327","strassenzug",1,1
+"328","bauantrag",2,2
+"329","berlin bezirk",1,1
+"330","internet",1,1
+"331","amtlich hauskoordinat",1,1
+"332","verkehrsstark",2,2
+"333","zebrastreif",1,1
+"334","bahnhof friedrichstrass",1,1
+"335","traffic",1,1
+"336","fischfauna",1,1
+"337","wohngeld",1,1
+"338","modular baut",1,1
+"339","qpi",1,1
+"340","blockseit",1,1
+"341","grundschul adress",1,1
+"342","immobili",1,1
+"343","jugend lichtenberg",1,1
+"344","bezirksregion shapefil",1,1
+"345","wbl",1,1
+"346","wahlergebnis bundestagswahl 2017 reinickendorf",1,1
+"347","alt der bevolker in reinickendorf alt",1,1
+"348","unsich",1,1
+"349","lichtenberg",1,1
+"350","alkgis",1,1
+"351","wie viel einwohn",1,1
+"352","selbstmord",1,1
+"353","entwasser",1,1
+"354","geometir",1,1
+"355","volksentscheid flughaf berlin tegel",1,1
+"356","profiskal handbuch",1,1
+"357","arbeitslosengeld ii",1,1
+"358","such",1,1
+"359","2018",1,1
+"360","vegetation",1,1
+"361","freibad",1,1
+"362","pollution",1,1
+"363","offent gebaud reinickendorf",1,1
+"364","orthofotografi",1,1
+"365","statist",1,1
+"366","unbenutzt",1,1
+"367","kitas",1,1
+"368","flurstuck information",1,1
+"369","bildung und teilhab antrag",1,1
+"370","fep",1,1
+"371","hohenschonhaus",1,1
+"372","kultureinricht",1,1
+"373","hangar tempelhof feld",1,1
+"374","einwohnerinn und einwohnerin berlin in lor planungsraum am 31 12 2016",1,1
+"375","wett",1,1
+"376","korperkoordination korperkoordination",1,1
+"377","humboldt universitat",1,1
+"378","fisch",2,2
+"379","kanal",1,1
+"380","lor bezirk",1,1
+"381","papiersammelstell",1,1
+"382","verein",1,1
+"383","mietpreisspiegel",1,1
+"384","acusitc",1,1
+"385","kulturhaushalt",1,1
+"386","auslanderanteil",1,1
+"387","solar",1,1
+"388","last profil",2,2
+"389","fitness",1,1
+"390","spanisch",1,1
+"391","fluchtling",2,2
+"392","2016",1,1
+"393","koordinat",1,1
+"394","grundschuleinzugsgebiet",1,1
+"395","11 april 2017",1,1
+"396","kart wasserstadt",1,1
+"397","tempelhof feld",1,1
+"398","kaufkraft",1,1
+"399","wbk",1,1
+"400","last",1,1
+"401","babynam",1,1
+"402","volksentscheid berlin tegel",1,1
+"403","hauskoordinat csv",1,1
+"404","gtsf",1,1
+"405","luftgutemessnetz",1,1
+"406","strass berlin",1,1
+"407","dom",1,1
+"408","senior",1,1
+"409","bevlker",1,1
+"410","wohnblock",1,1
+"411","verbeamt",1,1
+"412","alkis berlin",1,1
+"413","sozialstatist",2,2
+"414","berlin 1920",1,1
+"415","3d",1,1
+"416","berlin til",1,1
+"417","lidar",1,1
+"418","muggelheim damm",1,1
+"419","sbahn",1,1
+"420","sozialwohn",1,1
+"421","zufried",1,1
+"422","digitalisier",1,1
+"423","geotechn",1,1
+"424","einwohnerinn und einwohnerin berlin lor am 31 12 2016",1,1
+"425","migrationshintergrund",1,1
+"426","standard",1,1
+"427","schulbezirk",1,1
+"428","universitat",1,1
+"429","modul",1,1
+"430","wasserpegel",1,1
+"431","baublock",1,1
+"432","bewegungsforder",1,1
+"433","datensatz veranstalt",1,1
+"434","berlin 1930",1,1
+"435","landesetwicklungsplan",1,1
+"436","strassenverzeichnis mit postleitzahl",1,1
+"437","gorki",1,1
+"438","sozial",1,1
+"439","list der haufig vornam 2017",2,2
+"440","tempelhof statist",1,1
+"441","bevolker 2017",1,1
+"442","luftbild 1953",1,1
+"443","wander",1,1
+"444","bewegungsforder and kita",1,1
+"445","ziel",1,1
+"446","schulregion",1,1
+"447","liegenschaftsplan adickesstrass",1,1
+"448","lep hr",1,1
+"449","bewert der wohn und lebensqualitat",1,1
+"450","vornam 2018",1,1
+"451","grundschu",1,1
+"452","haus der kultur der welt",1,1
+"453","kindergart",1,1
+"454","papi or sammelstell",1,1
+"455","12559 berlin",1,1
+"456","list der haufig vornam",1,1
+"457","preis",1,1
+"458","unbedwohnt",1,1
+"459","migration berlin",1,1
+"460","berlin lichterfel",1,1
+"461","verkehrsstarkenkart",1,1
+"462","einkommensteu",1,1
+"463","digital farbig orthophotos 2014 dop20rgb",1,1
+"464","dreharbeit",1,1
+"465","kreideweg buckow",1,1
+"466","character 0",1,1
+"467","stellenausschreib",1,1
+"468","unterkunft",1,1
+"469","profiskal",1,1
+"470","ordnungsamt",1,1
+"471","einwohnerzahl 2018",1,1
+"472","streetart",1,1
+"473","gnadengesuch",1,1
+"474","unbegleitet fluchtling",1,1
+"475","grid",1,1
+"476","list der haufig vornam 2012",1,1
+"477","possendorf",1,1
+"478","wms infotag",1,1
+"479","ewr ortsteil",1,1
+"480","beschluss 2018 finanz",1,1
+"481","projektdatenbank",1,1
+"482","jugendgericht",1,1
+"483","b plan",1,1
+"484","aus und einfuhr aussenhandel",1,1
+"485","verkehr kopenick",1,1
+"486","berlin zoom",1,1
+"487","wahl 2016",1,1
+"488","weltfrauentag",1,1
+"489","altglascontain",1,1
+"490","abwarm",1,1
+"491","berlin 1940",1,1
+"492","ausland einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017",1,1
+"493","mauerweg",1,1
+"494","1956",1,1
+"495","block 2017",1,1
+"496","haushaltseinkomm",1,1
+"497","bahn",1,1
+"498","untergrundnetz",1,1
+"499","einwohnerzahl 2017",1,1
+"500","berlin zoom farbausgab",1,1
+"501","wohn und lebensqualitat",1,1
+"502","einwohn berlin lor am 31 12 2016",1,1
+"503","luftgutemessnetzt",1,1
+"504","lastspitz",1,1
+"505","liniennetz",1,1
+"506","mileuschutzgebiet",1,1
+"507","telegram",1,1
+"508","geometri der wahlbezirk",1,1
+"509","mark",1,1
+"510","bnvo",1,1
+"511","verkehrsdat",1,1
+"512","grossiedl",1,1
