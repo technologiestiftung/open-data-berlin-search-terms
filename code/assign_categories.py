@@ -39,13 +39,13 @@ with open("code/categories.json", "r") as read_file:
 
     term_dict = {}
     # load csv that includes the terms
-    with open("data/summed_terms_after_fingerpr.csv", 'r') as f:
+    with open("data/all_months/KNN_Step2/final_ab5.csv", 'r') as f:
         for line in f:
-            id_, term, impressions, visits = line.strip().split(',')
+            id_, term, impressions, visits, mon = line.strip().split(',')
             for i, category in enumerate(categories_list.keys()):
                 #print(i, term, category)
                 if term in categories_list[category]:
-                    term_dict[term] = [id_, impressions, visits, category]
+                    term_dict[term,mon] = [id_, term, impressions, visits, category, mon]
                     print("The term '" + term +  "' is assigned to the category '" + category + "'")
                     break
                 elif i == len(categories_list.keys())-1:
@@ -57,14 +57,15 @@ with open("code/categories.json", "r") as read_file:
                         category_id = input("This is not a valid number. Please enter new number:")
                     category = ids[category_id] 
                     categories_list[category].append(term)
-                    term_dict[term] = [id_, impressions, visits, category]
+                    term_dict[term] = [id_, impressions, visits, category, mon]
                     #print(categories_list)
 
             # save term with category to new csv
-            with open('data/terms_categories.csv', 'w') as newf:
-                for term in term_dict.keys():
-                    fid, imp, vis, category = term_dict[term]
-                    newf.write(f"{fid},{term},{imp},{vis},{category}\n")
+            with open('data/all_months/categorized.csv', 'w') as newf:
+                for term_mon in term_dict.keys():
+                    fid, term, imp, vis, category, mon = term_dict[term_mon]
+                    newf.write(f"{fid};{term};{imp};{vis};{category};{mon}\n")
+            newf.close()
 
             # save assigned categories to json file
             with open("code/categories.json", "w") as write_file:
