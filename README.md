@@ -15,8 +15,8 @@ Run the *odis_keywords.r* script with the original dataset as input data. The sc
 
 Combine data from diffrent months if needed and add month attribute with *merge_all_months.py*. We also filtered the data to terms with impressions of at least 5.
 
-#### KNN/Neighbour-Analysis:
-Use [this web application](https://lab.technologiestiftung-berlin.de/projects/csv-string-optimization/de/) from Technologiestiftung Berlin for usage of KNN/Neighbour-Analysis on results, to find more similiar but not equal terms, for example because of typos.
+#### KNN/ Neighbour-Analysis:
+Use [this web application](https://lab.technologiestiftung-berlin.de/projects/csv-string-optimization/de/) from Technologiestiftung Berlin for usage of KNN/ Neighbour-Analysis on results, to find more similiar but not equal terms, for example because of typos.
 Run *1_sum_term_keep_months.py* to sum up impressions and visits of terms.
 
 #### Assign categories of to terms:
@@ -26,4 +26,4 @@ For all other terms: Type in the ID to assign the word to the appropriate catego
 The results are saved immediately in *2_categorized.csv*.
 
 #### Prepare for analysis:
-Use Python-Script 3a,3b,3c to generate diffrent information on occurence of searchterms by months and categories.
+Use Python-Script 3a, 3b, 3c to generate diffrent information on occurence of searchterms by months and categories.
