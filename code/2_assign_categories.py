@@ -11,7 +11,7 @@ categories.json stores your assigned words in lists
 import json
 
 # Open the json file that includes already assigned lists of terms 
-with open("code/categories_LS.json", "r") as read_file:
+with open("code/categories.json", "r") as read_file:
     categories_list = json.load(read_file)
 
     # set new dictonairy to connect the categories with an id
@@ -61,13 +61,13 @@ with open("code/categories_LS.json", "r") as read_file:
                     #print(categories_list)
 
             # save term with category to new csv
-            with open('data/all_months/KNN_Step1/categorized.csv', 'w') as newf:
+            with open('data/all_months/processed_al5/2_categorized.csv', 'w') as newf:
                 for term_mon in term_dict.keys():
                     fid, term, imp, vis, category, mon = term_dict[term_mon]
                     newf.write(f"{fid};{term};{imp};{vis};{category};{mon}\n")
             newf.close()
 
             # save assigned categories to json file
-            with open("code/categories_LS.json", "w") as write_file:
+            with open("code/categories.json", "w") as write_file:
                 json.dump(categories_list, write_file, indent =4)
 
