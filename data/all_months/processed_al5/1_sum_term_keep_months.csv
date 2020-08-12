@@ -1,0 +1,931 @@
+388,lastprofil,5,4,2019-02
+119,verkauv erbbaubelastet grundstuck an den erbbauberechtigt,9,3,2019-02
+25,grundkart,5,1,2019-02
+26,wasserbetrieb,5,2,2019-02
+28,katast,5,2,2019-02
+40,moabit,5,4,2019-02
+47,wochenmarkt berlin,5,2,2019-02
+49,fahrrad,5,5,2019-02
+56,lehr,5,3,2019-02
+84,miet,5,5,2019-02
+23,nam,6,4,2019-02
+16,statist block,7,2,2019-02
+18,rbs block,7,2,2019-02
+19,lebenswelt,7,2,2019-02
+34,kultur,7,2,2019-02
+17,einkomm,8,4,2019-02
+22,alkis,8,5,2019-02
+27,lor,8,3,2019-02
+12,verkehr,9,6,2019-02
+36,bezirk,9,7,2019-02
+86,schul,9,8,2019-02
+9,alleinerzieh,10,4,2019-02
+14,gtfs,10,8,2019-02
+6,gebaud,11,3,2019-02
+13,strass,11,4,2019-02
+15,vbb,12,7,2019-02
+24,flurkart,12,8,2019-02
+7,geodat,13,5,2019-02
+11,rbs,13,6,2019-02
+21,adress,14,5,2019-02
+4,csv,16,3,2019-02
+10,block,16,4,2019-02
+2,fairtrad,17,9,2019-02
+3,energieverbrauch,17,11,2019-02
+5,geometri,17,5,2019-02
+8,vornam,18,12,2019-02
+1,shp,19,4,2019-02
+141,subway,6,3,2019-03
+156,einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017,7,3,2019-03
+166,fisbrok,7,6,2019-03
+34,lor ausland,5,1,2019-03
+42,stadtteil,5,5,2019-03
+45,gebaud,5,2,2019-03
+53,berlinpass,5,3,2019-03
+54,denkmal,5,3,2019-03
+56,kita,5,4,2019-03
+58,park,5,4,2019-03
+60,baum,5,5,2019-03
+90,bebauungssplan,5,3,2019-03
+91,plz,5,2,2019-03
+26,shp,6,2,2019-03
+28,zaa,6,1,2019-03
+29,ortsteil,6,3,2019-03
+30,gemeinschaft mit korperschaftsstatus,6,1,2019-03
+31,fahrrad,6,4,2019-03
+35,webatlas,6,4,2019-03
+36,wms,6,5,2019-03
+22,wasserbetrieb,7,1,2019-03
+24,wfs,7,2,2019-03
+37,haushalt,7,3,2019-03
+44,u bahn,7,5,2019-03
+46,migrationshintergrund,7,6,2019-03
+18,2017,8,2,2019-03
+19,flachennutzungsplan,8,3,2019-03
+20,einwohnerinn und einwohn in den ortsteil berlin,8,1,2019-03
+21,lor planungsraum,8,2,2019-03
+39,alkis,8,5,2019-03
+11,einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2011,9,1,2019-03
+15,wahl,9,4,2019-03
+25,adress,9,3,2019-03
+33,luftbild,9,5,2019-03
+47,bodenrichtwert,9,6,2019-03
+10,wohndau,10,3,2019-03
+16,bvg,10,9,2019-03
+12,vbb,11,8,2019-03
+23,block,11,4,2019-03
+32,rbs block,11,7,2019-03
+7,geometri,12,5,2019-03
+8,einkomm,13,9,2019-03
+13,strass,13,6,2019-03
+17,energieverbrauch,14,9,2019-03
+27,schul,14,11,2019-03
+14,flurkart,16,8,2019-03
+4,bevolker,19,4,2019-03
+9,energi,21,7,2019-03
+3,einwohn,22,11,2019-03
+6,vornam,22,15,2019-03
+5,bezirk,26,18,2019-03
+1,lor,36,9,2019-03
+2,rbs,37,17,2019-03
+118,immobili,5,4,2019-04
+230,accommodation,5,2,2019-04
+445,charité,6,5,2019-04
+72,list der haufig vornam 2018,17,13,2019-04
+73,umweltatlas,7,3,2019-04
+104,mobilitat,7,4,2019-04
+34,wms,5,3,2019-04
+36,gebaud,5,2,2019-04
+38,shp,5,2,2019-04
+39,flach,5,2,2019-04
+40,feinstaub,5,2,2019-04
+41,alkis gebaud,5,2,2019-04
+43,flughaf,5,2,2019-04
+45,inspir,5,2,2019-04
+49,s bahn,5,3,2019-04
+63,grundschul reinickendorf,5,2,2019-04
+66,grunflach,5,3,2019-04
+81,haufig vornam 2018,5,2,2019-04
+92,bsr,5,3,2019-04
+93,schul,5,4,2019-04
+154,park,5,5,2019-04
+26,topograf,6,1,2019-04
+29,energieverbrauch,6,4,2019-04
+30,hotel,6,4,2019-04
+33,bvg,6,6,2019-04
+37,polizei,6,5,2019-04
+55,luftbild,6,3,2019-04
+57,dgm,6,4,2019-04
+58,gtfs,6,4,2019-04
+84,einkomm,6,5,2019-04
+100,einschulbereich,6,4,2019-04
+24,lor kart,7,2,2019-04
+32,unterkunft,7,2,2019-04
+35,strassenverzeichnis,7,5,2019-04
+53,grenz,7,3,2019-04
+95,flurstuck,7,4,2019-04
+115,rbs block,7,4,2019-04
+22,einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum,8,1,2019-04
+25,verwaltungsvorschrift,8,7,2019-04
+27,energi,8,5,2019-04
+42,radfahr,8,4,2019-04
+46,fahrrad,8,7,2019-04
+78,miet,8,7,2019-04
+12,lichtenberg,9,3,2019-04
+16,einwohn berlin in lor planungsraum,9,1,2019-04
+21,poll,9,5,2019-04
+108,lor planungsraum,9,5,2019-04
+9,shap,10,3,2019-04
+20,sport,10,2,2019-04
+23,wohnlag,10,4,2019-04
+31,hauskoordinat,10,4,2019-04
+5,bod,11,1,2019-04
+6,vbb,11,6,2019-04
+7,api,11,4,2019-04
+19,europawahl,11,6,2019-04
+28,flachennutz,11,3,2019-04
+14,arbeitslos,12,4,2019-04
+18,rbs,12,8,2019-04
+4,geometri,13,4,2019-04
+8,bezirk,13,7,2019-04
+15,lor,13,10,2019-04
+44,senatsbeschluss,13,11,2019-04
+3,strass,14,7,2019-04
+11,einwohn,14,5,2019-04
+13,alkis,14,8,2019-04
+17,flurkart,14,9,2019-04
+10,planungsraum,17,6,2019-04
+2,vornam,21,11,2019-04
+1,ortsteil,29,12,2019-04
+162,einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017,8,3,2019-05
+238,wahllokal 2019,7,3,2019-05
+77,europawahl 2019,9,6,2019-05
+106,vornam,96,70,2019-05
+38,parking,5,3,2019-05
+40,marathon,5,1,2019-05
+41,sgb ii,5,1,2019-05
+44,csv,5,1,2019-05
+45,solar,5,1,2019-05
+47,wahl,5,4,2019-05
+55,larmkart,5,2,2019-05
+61,baufertigstell,5,2,2019-05
+66,unfall,5,4,2019-05
+79,erstnam,5,5,2019-05
+94,bik,5,4,2019-05
+130,vornam 2018,5,3,2019-05
+30,einwohnerinn und einwohn,6,2,2019-05
+36,vbb,6,4,2019-05
+42,geologi,6,2,2019-05
+46,radrout,6,5,2019-05
+49,mietspiegel,6,5,2019-05
+60,lod2,6,4,2019-05
+71,baum,6,5,2019-05
+24,seniorensport,7,7,2019-05
+26,verkehr,7,5,2019-05
+33,shapefil,7,6,2019-05
+43,schul,7,4,2019-05
+50,fluchtling,7,3,2019-05
+53,ortsteil,7,3,2019-05
+32,strassenbefahr,8,3,2019-05
+34,wahlbezirk,8,6,2019-05
+37,postleitzahl,8,5,2019-05
+20,alkis,9,6,2019-05
+28,wahllokal,9,4,2019-05
+39,bevolker,9,7,2019-05
+57,haushalt,9,6,2019-05
+11,planungsraum lor,10,1,2019-05
+13,senior,10,1,2019-05
+19,einkomm,10,6,2019-05
+27,strassenverzeichnis,10,4,2019-05
+9,atkis,11,2,2019-05
+12,liegenschaftskatast,11,4,2019-05
+23,pump,11,9,2019-05
+31,adress,11,6,2019-05
+21,bezirk,12,7,2019-05
+17,fahrrad,13,8,2019-05
+6,wass,14,5,2019-05
+18,europawahl,14,13,2019-05
+25,flurstuck,14,8,2019-05
+5,shp,15,4,2019-05
+22,rbs,15,8,2019-05
+7,nam,16,11,2019-05
+16,dgm,18,7,2019-05
+10,gtfs,20,19,2019-05
+14,luftbild,20,6,2019-05
+15,flurkart,22,12,2019-05
+2,adress inspir,28,2,2019-05
+8,strass,28,13,2019-05
+4,lor,30,11,2019-05
+3,einwohn,37,13,2019-05
+213,mietendeckel,16,12,2019-06
+96,grunanlag,18,14,2019-06
+29,moabit west,5,1,2019-06
+30,kita,5,4,2019-06
+32,statist block,5,1,2019-06
+34,digital orthophotos,5,1,2019-06
+36,opnv,5,3,2019-06
+39,trinkbrunn,5,3,2019-06
+41,tourismus nachhalt,5,1,2019-06
+55,bsr,5,3,2019-06
+56,gebaud,5,4,2019-06
+63,nam,5,3,2019-06
+71,grunflach,5,4,2019-06
+26,bevolker,6,2,2019-06
+31,kart,6,4,2019-06
+35,haltestell,6,6,2019-06
+37,bvg,6,3,2019-06
+51,verkehr,6,4,2019-06
+60,rad,6,4,2019-06
+64,wohnung,6,2,2019-06
+69,denkmal,6,5,2019-06
+22,shp,7,3,2019-06
+23,block,7,1,2019-06
+27,gtfs,7,7,2019-06
+28,postleitzahl,7,2,2019-06
+38,alkis,7,4,2019-06
+43,rbs,7,7,2019-06
+46,lor shp,7,4,2019-06
+19,strassenbefahr,8,1,2019-06
+33,fahrrad,8,6,2019-06
+40,einwohn,8,5,2019-06
+42,flurstuck,8,4,2019-06
+77,rbs adress,8,5,2019-06
+49,digital farbig orthophoto 2018 dop20rgb,9,7,2019-06
+73,senatsbeschluss,9,9,2019-06
+16,dgm,10,4,2019-06
+24,vbb,10,6,2019-06
+11,gewass,12,5,2019-06
+8,lor einwohn,13,1,2019-06
+12,dop20rgb,13,2,2019-06
+21,ozon,13,7,2019-06
+15,arbeitslos,14,8,2019-06
+6,migrationshintergrund,15,4,2019-06
+10,geometri,15,5,2019-06
+14,flurkart,15,12,2019-06
+25,miet,15,10,2019-06
+9,bezirk,16,10,2019-06
+18,vornam,16,12,2019-06
+5,wass,17,6,2019-06
+20,ortsteil,17,5,2019-06
+7,strass,26,8,2019-06
+4,grunanlagenbestand,28,18,2019-06
+3,wms,34,3,2019-06
+1,lor,58,8,2019-06
+2,wfs,59,6,2019-06
+157,bezirksamt friedrichshain kreuzberg von berlin vermess,11,3,2019-07
+237,stadtbezirk,5,3,2019-07
+243,flurkart,38,22,2019-07
+34,mietendeckel,5,2,2019-07
+35,gis,5,4,2019-07
+38,geothermi,5,1,2019-07
+40,einwohnerdicht,5,1,2019-07
+41,arbeitslosenquot,5,1,2019-07
+47,weihnachtsmarkt,5,2,2019-07
+53,zahlstell,5,5,2019-07
+56,atkis,5,4,2019-07
+57,u bahn,5,3,2019-07
+62,park,5,4,2019-07
+65,biotop,5,2,2019-07
+78,liegenschaftskart,5,4,2019-07
+82,strass 52a,5,2,2019-07
+88,rbs bezirk,5,4,2019-07
+94,umsetz or transparent or liegenschaftspolit,5,2,2019-07
+24,shap,6,3,2019-07
+25,biotop und artenschutz biotop und artenschutz,6,1,2019-07
+30,feinstaub,6,3,2019-07
+31,berlin,6,2,2019-07
+48,fahrplan,6,5,2019-07
+50,grundwass,6,3,2019-07
+92,schul,6,6,2019-07
+18,vermess at ba fk berlin de,7,3,2019-07
+20,strassenbefahr,7,2,2019-07
+21,transport,7,3,2019-07
+33,dop,7,5,2019-07
+39,haltestell,7,6,2019-07
+49,umweltatlas,7,4,2019-07
+77,bodenrichtwert,7,4,2019-07
+14,parkplatz,8,3,2019-07
+15,open data,8,1,2019-07
+23,shapefil,8,7,2019-07
+37,wfs,8,2,2019-07
+17,lor,9,6,2019-07
+27,geltungsbereich,9,5,2019-07
+28,bevolker,9,7,2019-07
+32,vbb,9,8,2019-07
+93,tankstell,9,8,2019-07
+12,ozon,10,8,2019-07
+26,gebaud,10,7,2019-07
+29,flurstuck,10,6,2019-07
+91,strass,10,6,2019-07
+13,dgm,12,7,2019-07
+19,kart,12,3,2019-07
+9,geometri,13,4,2019-07
+16,einwohn,13,6,2019-07
+10,ortsteil,14,10,2019-07
+11,gtfs,14,13,2019-07
+22,fahrrad,14,12,2019-07
+6,verkehr,15,3,2019-07
+8,vornam,15,13,2019-07
+7,bezirk,27,11,2019-07
+5,adress,29,8,2019-07
+2,rbs,30,11,2019-07
+3,alkis,37,14,2019-07
+1,geodat,87,7,2019-07
+167,verdien gart landschaftsbau,8,5,2019-08
+658,bezirk,13,9,2019-08
+101,liegenschaftskart,8,5,2019-08
+39,neukolln,5,3,2019-08
+41,krankenhaus,5,2,2019-08
+42,digital orthophotos,5,1,2019-08
+43,strat larmkart 2017,5,1,2019-08
+47,dop or atom,5,1,2019-08
+49,friedrichshain,5,4,2019-08
+53,geodat,5,2,2019-08
+58,migration,5,4,2019-08
+61,bod,5,2,2019-08
+68,luftbild,5,2,2019-08
+72,hoh,5,4,2019-08
+88,dgm,5,3,2019-08
+95,vbb gtfs,5,2,2019-08
+110,statist block,5,2,2019-08
+29,standardlastprofil,6,2,2019-08
+30,larmbelast,6,1,2019-08
+31,utm,6,2,2019-08
+35,shapefil,6,5,2019-08
+36,bezirkskart spandau,6,1,2019-08
+37,atlas,6,2,2019-08
+38,tourismus,6,5,2019-08
+44,adress,6,4,2019-08
+56,block,6,3,2019-08
+57,senatsbeschluss,6,5,2019-08
+60,ozon,6,6,2019-08
+73,wahl,6,4,2019-08
+74,einwohnerdicht,6,4,2019-08
+89,wohnung,6,3,2019-08
+103,denkmal,6,4,2019-08
+21,verkehr,7,1,2019-08
+22,ausland,7,2,2019-08
+24,friedrichshain kreuzberg,7,3,2019-08
+46,planungsraum,7,4,2019-08
+48,katast,7,6,2019-08
+18,brandenburg,8,3,2019-08
+20,luftbild or atom,8,1,2019-08
+33,baum,8,6,2019-08
+15,polizei,9,4,2019-08
+19,bodenrichtwert,9,3,2019-08
+27,gtfs,9,9,2019-08
+32,flurstuck,9,7,2019-08
+45,gemark,9,8,2019-08
+25,altlast,10,3,2019-08
+34,postleitzahl,10,5,2019-08
+10,atkis,11,1,2019-08
+14,gewass,12,3,2019-08
+17,vornam,12,10,2019-08
+28,schul,12,9,2019-08
+16,temperatur,13,3,2019-08
+12,fahrrad,14,10,2019-08
+9,rbs,16,9,2019-08
+23,wass,16,5,2019-08
+7,gebaud,17,6,2019-08
+11,vbb,20,13,2019-08
+4,kart,23,4,2019-08
+5,bvg,23,10,2019-08
+6,alkis,23,7,2019-08
+8,flurkart,23,18,2019-08
+13,strass,25,8,2019-08
+3,einwohn,28,5,2019-08
+2,lor,39,9,2019-08
+1,vermess at ba fk berlin de,44,16,2019-08
+178,postleitzahl,7,4,2019-09
+187,trinkbrunn im bezirk,7,5,2019-09
+37,kml,5,2,2019-09
+39,verkehr wms,5,1,2019-09
+40,sudwestkorso,5,1,2019-09
+42,religion,5,2,2019-09
+44,wikipedia,5,1,2019-09
+45,dgm,5,5,2019-09
+49,sozialstrukturatlas,5,2,2019-09
+58,katast,5,2,2019-09
+66,kita,5,5,2019-09
+75,oberflachenmodell,5,4,2019-09
+88,dop,5,3,2019-09
+90,planungsraum,5,2,2019-09
+98,gemark,5,5,2019-09
+115,radfahr,5,4,2019-09
+210,hydrant,5,3,2019-09
+31,strassennam,6,2,2019-09
+36,bezirk mitt,6,2,2019-09
+46,plz,6,2,2019-09
+55,block,6,2,2019-09
+56,geburt,6,2,2019-09
+59,baumbestand,6,3,2019-09
+62,bibliothek,6,3,2019-09
+65,strassennetz,6,2,2019-09
+79,senatsbeschluss,6,6,2019-09
+18,neukolln,7,4,2019-09
+19,klima,7,4,2019-09
+22,strom,7,3,2019-09
+23,wohnatlas,7,1,2019-09
+24,wass,7,4,2019-09
+28,gewass,7,2,2019-09
+30,adress,7,5,2019-09
+32,park,7,6,2019-09
+33,tourismus,7,5,2019-09
+35,strassenverzeichnis,7,6,2019-09
+50,bodenrichtwert,7,3,2019-09
+63,bezirk,7,6,2019-09
+16,wahl,8,2,2019-09
+43,vornam,8,5,2019-09
+14,ortsteil,9,4,2019-09
+15,einwohnerinn und einwohn in berlin in lor planungsraum wohndau ausland wohndau,9,2,2019-09
+21,fahrrad,9,9,2019-09
+26,rbs,9,6,2019-09
+38,baum,9,7,2019-09
+20,shapefil,10,5,2019-09
+27,polizei,10,5,2019-09
+29,gtfs,10,9,2019-09
+41,lod2,10,8,2019-09
+48,flurstuck,10,9,2019-09
+10,zugriff,12,1,2019-09
+17,feuerwehr,12,5,2019-09
+34,schul,12,9,2019-09
+9,energi,13,1,2019-09
+11,krankenhaus,13,5,2019-09
+13,vbb,14,9,2019-09
+25,bvg,14,8,2019-09
+12,lor,16,10,2019-09
+6,radrout,18,9,2019-09
+8,trinkbrunn,18,16,2019-09
+5,vermess at ba fk berlin de,19,11,2019-09
+7,flurkart,25,21,2019-09
+3,verkehr,27,6,2019-09
+4,alkis,36,20,2019-09
+2,strass,41,12,2019-09
+1,wfs,131,13,2019-09
+150,friedrichshain kreuzberg,13,4,2019-10
+210,wohnungsmiet,6,2,2019-10
+29,echtzeit,5,3,2019-10
+31,arbeitslosenanteil,5,2,2019-10
+33,beschaftigt,5,1,2019-10
+34,temperatur,5,1,2019-10
+37,pankow,5,2,2019-10
+39,rbs,5,5,2019-10
+50,bezirksgrenz,5,4,2019-10
+53,bebauungssplan,5,2,2019-10
+74,parkraumbewirtschaft,5,3,2019-10
+75,strass,5,3,2019-10
+82,personalmanagementbericht,5,2,2019-10
+100,haltestell,5,4,2019-10
+173,senatsbeschluss,5,4,2019-10
+23,block,6,1,2019-10
+24,strassenbefahr 2014,6,2,2019-10
+26,gewass,6,1,2019-10
+27,flachennutz,6,1,2019-10
+36,bodenrichtwert,6,3,2019-10
+38,naturschutz,6,2,2019-10
+41,diversity,6,3,2019-10
+51,grunflach,6,3,2019-10
+99,baum,6,5,2019-10
+20,bod,7,3,2019-10
+21,einwohn in den ortsteil,7,5,2019-10
+28,weihnachtsmarkt,7,5,2019-10
+35,sozial,7,3,2019-10
+42,arbeitslos,7,3,2019-10
+45,shapefil,7,6,2019-10
+54,miet,7,5,2019-10
+57,larm,7,3,2019-10
+65,flurstuck,7,7,2019-10
+19,mietentwickl berlin,8,1,2019-10
+22,postleitzahl,8,5,2019-10
+14,adress,9,3,2019-10
+9,einkomm,10,3,2019-10
+11,luft,10,6,2019-10
+13,vbb,10,8,2019-10
+32,gtfs,10,10,2019-10
+25,einwohn,11,7,2019-10
+6,umweltatlas,12,2,2019-10
+15,flurkart,12,10,2019-10
+30,berlin mau,12,8,2019-10
+18,gemark,13,9,2019-10
+16,fahrrad,14,12,2019-10
+10,verkehr,15,7,2019-10
+12,volkshochschul,16,5,2019-10
+3,wfs,20,2,2019-10
+8,alkis,20,13,2019-10
+4,gebaud,22,15,2019-10
+5,bezirk,22,9,2019-10
+7,lor,22,11,2019-10
+2,wass,24,5,2019-10
+1,vornam,29,17,2019-10
+278,dynam index 2019,5,2,2019-11
+589,weihnachtsmarkt,16,9,2019-11
+625,planungsraum,15,6,2019-11
+39,vermess at ba fk berlin de,5,5,2019-11
+40,geltungsbereich,5,1,2019-11
+41,berlin wasserbetrieb,5,1,2019-11
+42,wast,5,2,2019-11
+45,ostbahnhof wunsdorf waldstadt,5,1,2019-11
+46,sozialatlas,5,1,2019-11
+48,marzahn hellersdorf,5,3,2019-11
+50,verlauf der berlin mau,5,1,2019-11
+51,planungsraum einwohn,5,1,2019-11
+52,gewerb,5,2,2019-11
+56,mietendeckel,5,3,2019-11
+59,grunflach,5,3,2019-11
+67,wass,5,2,2019-11
+71,baumbestand,5,3,2019-11
+76,neukolln,5,2,2019-11
+84,spandau,5,4,2019-11
+94,kita,5,5,2019-11
+27,kindergart,6,3,2019-11
+31,wifi,6,4,2019-11
+32,einkomm,6,2,2019-11
+33,alt,6,3,2019-11
+36,mitt,6,2,2019-11
+37,mobilitat,6,6,2019-11
+44,senatsbeschluss,6,3,2019-11
+49,fahrradstand,6,4,2019-11
+53,wahl,6,2,2019-11
+85,schul,6,6,2019-11
+23,2009,7,1,2019-11
+26,europawahl,7,4,2019-11
+30,einwohn,7,6,2019-11
+35,2017,7,3,2019-11
+47,kart,7,2,2019-11
+62,flurkart,7,6,2019-11
+68,platz,7,3,2019-11
+127,lod1,7,5,2019-11
+17,versiegel,8,2,2019-11
+19,katast,8,4,2019-11
+20,shapefil,8,7,2019-11
+25,arbeitslos,8,2,2019-11
+14,wohn,10,3,2019-11
+38,gemark,10,9,2019-11
+18,nam,11,7,2019-11
+22,ortsteil,11,6,2019-11
+43,miet,11,8,2019-11
+28,gtfs,12,11,2019-11
+34,vbb,12,10,2019-11
+54,baum,12,10,2019-11
+8,json,13,3,2019-11
+9,einwohnerinn,13,1,2019-11
+21,fahrrad,13,10,2019-11
+6,wms,15,8,2019-11
+4,bod wms,17,3,2019-11
+13,bezirk,17,12,2019-11
+24,bezirksgrenz,17,7,2019-11
+5,lor,18,7,2019-11
+12,strass,18,7,2019-11
+16,rbs,19,9,2019-11
+7,luftbild,20,5,2019-11
+2,vornam,21,16,2019-11
+3,alkis,25,15,2019-11
+11,adress,25,8,2019-11
+1,verkehr,32,9,2019-11
+421,bezirksgrenz,5,5,2019-12
+87,breitband,12,2,2019-12
+131,lichterfeld histor kart,9,3,2019-12
+30,bod,5,3,2019-12
+33,gml,5,1,2019-12
+34,flurkart,5,2,2019-12
+36,dgm,5,4,2019-12
+37,wohnlag,5,3,2019-12
+40,senatsbeschluss,5,5,2019-12
+43,pfleg,5,2,2019-12
+53,feuerwehr,5,2,2019-12
+167,radfahr,5,3,2019-12
+28,nam,6,4,2019-12
+44,einwohn,6,5,2019-12
+47,kriminalitat,6,5,2019-12
+51,vornam,6,5,2019-12
+78,haushalt,6,4,2019-12
+21,umwelt,7,4,2019-12
+25,vbb,7,7,2019-12
+42,einkomm,7,5,2019-12
+50,postleitzahl,7,4,2019-12
+117,park,7,6,2019-12
+16,umweltzon,8,3,2019-12
+17,gutachterausschuss,8,1,2019-12
+18,wms,8,2,2019-12
+20,standort,8,1,2019-12
+23,alt,8,3,2019-12
+24,parkraum,8,5,2019-12
+38,ortsteil,8,5,2019-12
+11,xml,9,1,2019-12
+26,einwohnerzahl,9,3,2019-12
+39,alkis,9,5,2019-12
+45,schul,9,6,2019-12
+9,bodenrichtwert,10,2,2019-12
+10,ausland,10,1,2019-12
+29,shapefil,10,5,2019-12
+62,miet,10,8,2019-12
+8,shp,11,2,2019-12
+14,afs,11,4,2019-12
+31,strass,11,5,2019-12
+13,luftbild,12,4,2019-12
+19,rbs,12,7,2019-12
+32,baum,12,6,2019-12
+15,gtfs,13,12,2019-12
+22,fahrrad,13,11,2019-12
+7,toilett,14,8,2019-12
+6,verkehr,15,7,2019-12
+35,bezirk,15,8,2019-12
+5,gebaud,19,7,2019-12
+4,strom,25,4,2019-12
+3,vermess at ba fk berlin de,26,6,2019-12
+2,lor,44,36,2019-12
+1,amt fur statist,80,4,2019-12
+146,orthophoto,6,3,2020-01
+161,josef orlopp strass,5,3,2020-01
+249,fahrradstand,6,2,2020-01
+30,rbs,5,4,2020-01
+33,gesund,5,1,2020-01
+34,einwohnerzahl von gesamtberlin,5,1,2020-01
+35,dop,5,2,2020-01
+36,lastgang,5,1,2020-01
+37,hydrant,5,3,2020-01
+57,besucherzahl,5,3,2020-01
+63,europawahl,5,5,2020-01
+65,radweg,5,4,2020-01
+76,statisch gebiet,5,3,2020-01
+96,s bahn,5,4,2020-01
+219,flurstuck,5,4,2020-01
+21,energieverbrauch,6,2,2020-01
+22,einwohnerinn und einwohn in berlin in lor planungsraum wohnlag wohndau herkunft ausland migrationshintergrund,6,4,2020-01
+26,einwohn nach wohndau,16,8,2020-01
+27,wohnlag,6,3,2020-01
+62,kriminalitat,6,5,2020-01
+75,park,6,4,2020-01
+78,miet,6,5,2020-01
+18,todesursach,7,1,2020-01
+19,isu5,7,1,2020-01
+25,energi,7,3,2020-01
+32,geburt,7,3,2020-01
+13,pankow,8,5,2020-01
+14,shp,8,1,2020-01
+15,polizei,8,5,2020-01
+16,lor,8,5,2020-01
+23,einwohnerzahl,8,5,2020-01
+31,fahrrad,8,7,2020-01
+48,luftbild,8,4,2020-01
+17,adress,9,3,2020-01
+66,schul,9,6,2020-01
+11,finanz,10,2,2020-01
+29,bezirk,10,6,2020-01
+7,basis dlm,11,1,2020-01
+20,einkomm,11,7,2020-01
+8,bundestagswahl,12,3,2020-01
+28,vbb,12,10,2020-01
+10,nam,13,7,2020-01
+24,gebaud,13,8,2020-01
+6,planungsraum,14,1,2020-01
+12,alkis,15,7,2020-01
+3,einwohnerinn und einwohn in berlin in lor planungsraum,18,3,2020-01
+5,bahn,19,6,2020-01
+4,vornam,33,24,2020-01
+2,verkehr,34,15,2020-01
+1,gtfs,41,35,2020-01
+231,mietspiegel,11,4,2020-02
+254,adlershof,5,5,2020-02
+281,einwohn,11,6,2020-02
+38,vermess at ba fk berlin de,5,4,2020-02
+39,rbs,5,3,2020-02
+40,shp,5,2,2020-02
+41,2019,5,2,2020-02
+42,einwohn nach wohndau,5,2,2020-02
+43,polizei,5,3,2020-02
+44,gebaud,5,2,2020-02
+45,alkis berlin,5,1,2020-02
+47,breitband,5,3,2020-02
+57,wohndau,5,2,2020-02
+64,strassenbefahr,5,2,2020-02
+75,opnv,5,2,2020-02
+83,kriminalitat,5,3,2020-02
+90,wass,5,3,2020-02
+95,plz,5,2,2020-02
+100,haf,5,2,2020-02
+131,bebauungssplan,5,3,2020-02
+241,stolperstein,5,4,2020-02
+31,geodat luftbild,6,1,2020-02
+32,wohnlagenzuordn,6,2,2020-02
+34,lebenswelt,6,1,2020-02
+46,standort,6,2,2020-02
+49,geburt,6,5,2020-02
+56,stadtplan,6,4,2020-02
+62,haltestell,6,4,2020-02
+69,mindestlohn,6,5,2020-02
+78,steglitz zehlendorf,6,5,2020-02
+29,reinickendorf,7,4,2020-02
+35,bericht,7,2,2020-02
+48,fahrplan,7,3,2020-02
+81,alkis,7,6,2020-02
+22,friedrichshain kreuzberg,8,5,2020-02
+23,einwohnerinn und einwohn in berlin in lor planungsraum wohnlag wohndau herkunft ausland migrationshintergrund,8,3,2020-02
+27,grunflach,8,3,2020-02
+53,steglitz,8,6,2020-02
+18,ausland einwohnerinn,9,2,2020-02
+33,bodenrichtwert,9,3,2020-02
+36,neukolln,9,4,2020-02
+37,toilett,9,5,2020-02
+16,einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum,10,1,2020-02
+20,adress,10,7,2020-02
+11,einwohnerinn und einwohn in den ortsteil berlin,12,2,2020-02
+13,dop,12,5,2020-02
+14,vbb,12,10,2020-02
+15,ortsteil,12,5,2020-02
+26,einkomm,12,4,2020-02
+17,lor,13,9,2020-02
+25,strass,13,6,2020-02
+9,berlin,14,3,2020-02
+5,kita,15,10,2020-02
+19,grw,15,6,2020-02
+21,park,15,8,2020-02
+28,bezirk,15,11,2020-02
+4,mitt,17,5,2020-02
+8,fahrrad,18,9,2020-02
+3,verkehr,19,6,2020-02
+10,haushalt,20,2,2020-02
+1,lichtenberg,21,8,2020-02
+6,vornam,22,15,2020-02
+7,nam,23,8,2020-02
+12,block,24,6,2020-02
+2,gtfs,26,23,2020-02
+155,flur plan,5,2,2020-03
+195,corona,96,76,2020-03
+30,parchwitz str,5,1,2020-03
+31,mietspiegel,5,4,2020-03
+32,geodat grundwass,5,1,2020-03
+34,wass wms wfs,5,1,2020-03
+37,einwohnerinn und einwohn in berlin in lor planungsraum,14,3,2020-03
+40,bahn,5,1,2020-03
+41,10553 berlin,5,1,2020-03
+66,grundwass,5,2,2020-03
+67,bevolkerungszahl,5,2,2020-03
+80,krankenhaus,5,5,2020-03
+86,wohnbauflach,5,2,2020-03
+89,wass,5,3,2020-03
+92,ladesaul,5,3,2020-03
+103,wohnlag,5,2,2020-03
+106,alleinerzieh,5,3,2020-03
+114,covid 19,5,3,2020-03
+115,sport,5,2,2020-03
+21,verkehrslenk,6,3,2020-03
+22,umweltzon,6,2,2020-03
+23,lor planungsraum,6,2,2020-03
+26,vermess,6,3,2020-03
+27,geologi wms wfs,6,1,2020-03
+29,freistell,6,1,2020-03
+38,solaranlag,6,2,2020-03
+39,flurstuck,6,3,2020-03
+44,adress,6,4,2020-03
+61,rbs,6,3,2020-03
+208,arbeitslos,6,5,2020-03
+25,grenz,7,3,2020-03
+33,naturdenkmal,7,5,2020-03
+42,fahrrad,7,6,2020-03
+45,einwohnerzahl,7,7,2020-03
+18,kita,8,8,2020-03
+19,einwohn lor planungsraum,8,1,2020-03
+24,verkehr,8,3,2020-03
+35,luftbild,8,3,2020-03
+52,gebaud,8,5,2020-03
+15,servic,9,1,2020-03
+69,student,9,4,2020-03
+13,coronavirus,10,4,2020-03
+36,ortsteil,10,3,2020-03
+14,wohn,11,3,2020-03
+20,einkomm,11,4,2020-03
+10,geologi,12,2,2020-03
+12,alkis,12,4,2020-03
+17,bezirk,12,10,2020-03
+53,senatsbeschluss,12,10,2020-03
+28,dgm,13,7,2020-03
+6,wms,14,5,2020-03
+9,wohndau,14,3,2020-03
+11,gtfs,14,11,2020-03
+4,umweltatlas,15,1,2020-03
+5,bodenrichtwert,15,3,2020-03
+7,einwohn,18,11,2020-03
+3,toilett,19,5,2020-03
+2,lor,21,9,2020-03
+8,block,27,4,2020-03
+238,orthophoto,13,5,2020-04
+246,hamburg bahnhof orthofoto,5,2,2020-04
+434,mindestlohn,5,3,2020-04
+34,geodat,5,3,2020-04
+37,crim,5,3,2020-04
+39,kita,5,4,2020-04
+42,gehweg,5,2,2020-04
+44,beschaftigt,5,2,2020-04
+45,immobili,5,3,2020-04
+47,toilett,5,4,2020-04
+53,block,5,2,2020-04
+57,miet,5,5,2020-04
+59,stadtplan,5,2,2020-04
+66,tourismus,5,5,2020-04
+168,park,5,4,2020-04
+25,histor kart,6,1,2020-04
+26,einwohnerinn und einwohn in berlin in lor planungsraum,6,3,2020-04
+28,list,6,1,2020-04
+29,liegenschaftskatast,6,2,2020-04
+30,api,6,2,2020-04
+56,einkomm,6,5,2020-04
+75,strass,6,4,2020-04
+96,gemark,6,4,2020-04
+19,alt,7,4,2020-04
+22,wms,7,3,2020-04
+23,breitband,7,3,2020-04
+24,denkmallist,7,2,2020-04
+38,aktuell einwohnerzahl,7,4,2020-04
+40,opnv,7,6,2020-04
+46,haushalt,7,4,2020-04
+81,senatsbeschluss,7,6,2020-04
+16,shp,8,2,2020-04
+17,flach,8,1,2020-04
+20,adress,8,4,2020-04
+31,bvg,8,5,2020-04
+32,hoh,8,4,2020-04
+35,einwohnerzahl,8,7,2020-04
+70,baum,9,9,2020-04
+33,grundwass,10,3,2020-04
+9,gesund,11,3,2020-04
+10,larmkart,11,1,2020-04
+12,bodenrichtwert,11,4,2020-04
+13,gtfs,11,10,2020-04
+36,krankenhaus,11,8,2020-04
+8,einwohn,13,7,2020-04
+21,ortsteil,13,9,2020-04
+7,fahrrad,14,9,2020-04
+14,gebaud,14,6,2020-04
+11,luftbild,15,3,2020-04
+27,bezirk,15,10,2020-04
+18,alkis,16,2,2020-04
+4,lor,23,10,2020-04
+2,verkehr,24,8,2020-04
+6,rbs,24,5,2020-04
+5,schul,25,11,2020-04
+3,kart,30,4,2020-04
+1,corona,35,26,2020-04
+129,grunanlagenbestand,34,25,2020-05
+150,orthophoto,7,4,2020-05
+252,gebaud,18,4,2020-05
+486,grunanlag,28,16,2020-05
+100,statisch gebiet,7,2,2020-05
+90,carsharing,8,6,2020-05
+41,kart,5,3,2020-05
+42,locker bei kneip,5,2,2020-05
+43,wald,5,2,2020-05
+44,lor planungsraum am 31 12 2008,5,1,2020-05
+45,soforthilf ii,5,2,2020-05
+46,breitband,5,3,2020-05
+62,kita,5,4,2020-05
+63,altlast,5,2,2020-05
+78,larm,5,5,2020-05
+92,sport,5,4,2020-05
+105,grundschul,5,3,2020-05
+231,postleitzahl,5,5,2020-05
+34,pankow,6,3,2020-05
+36,brandenburg,6,1,2020-05
+37,grundstuck,6,1,2020-05
+39,entsorg,6,1,2020-05
+40,ba fk berlin de,6,1,2020-05
+52,berlin mau,6,3,2020-05
+56,nam,6,4,2020-05
+59,api,6,4,2020-05
+70,verbraucherpreis,6,5,2020-05
+88,stadtteil,6,6,2020-05
+153,strass,6,4,2020-05
+28,sozialstruktur,7,1,2020-05
+29,brunn,7,5,2020-05
+30,wfs,7,1,2020-05
+31,emission,7,1,2020-05
+32,gtfs,7,7,2020-05
+35,alkis,7,6,2020-05
+23,grun,8,2,2020-05
+33,ladesaul,8,5,2020-05
+38,berlin de,8,2,2020-05
+47,trodelmarkt,8,7,2020-05
+57,flurkart,8,3,2020-05
+19,verkehr,9,3,2020-05
+27,vbb,10,8,2020-05
+12,erdwarm,11,1,2020-05
+13,bvg,11,6,2020-05
+18,luftbild,11,4,2020-05
+25,fahrrad,11,10,2020-05
+16,wms,12,3,2020-05
+20,baum,12,6,2020-05
+21,land,12,4,2020-05
+24,bezirk,12,7,2020-05
+26,einwohn,12,7,2020-05
+15,vornam,13,12,2020-05
+8,kind,17,3,2020-05
+5,planungsraum,18,3,2020-05
+2,vermess at ba fk berlin de,20,9,2020-05
+4,rbs,21,3,2020-05
+11,corona,21,17,2020-05
+17,grunflach,21,11,2020-05
+22,schul,21,9,2020-05
+14,haushalt,23,10,2020-05
+10,ortsteil,28,8,2020-05
+6,spielplatz,29,14,2020-05
+1,friedrichshain kreuzberg,71,27,2020-05

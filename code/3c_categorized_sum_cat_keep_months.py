@@ -5,7 +5,7 @@ list_of_months = ['2019-02','2019-03','2019-04','2019-05','2019-06', '2019-07','
 
 for tmp_month in list_of_months:
 # load csv
-    with open("data/all_months/categorized.csv", 'r') as f:
+    with open("data/all_months/processed_al5/2_categorized.csv", 'r') as f:
         # skip header
         for i, line in enumerate(f):
             if i == 0:
@@ -29,7 +29,7 @@ for tmp_month in list_of_months:
         f.close()
         
         # save dictionary to new csv
-        with open('data/all_months/summed_cat_by_month.csv', 'a') as newf:
+        with open('data/all_months/processed_al5/3c_categorized_sum_cat_keep_months.csv', 'a') as newf:
             for cat in keep.keys():
                 fid, imp, vis, mon = keep[cat]
                 newf.write(f"{fid};{cat};{imp};{vis};{mon}\n")

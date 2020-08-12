@@ -11,7 +11,7 @@ categories.json stores your assigned words in lists
 import json
 
 # Open the json file that includes already assigned lists of terms 
-with open("code/categories.json", "r") as read_file:
+with open("code/categories_LS.json", "r") as read_file:
     categories_list = json.load(read_file)
 
     # set new dictonairy to connect the categories with an id
@@ -39,7 +39,7 @@ with open("code/categories.json", "r") as read_file:
 
     term_dict = {}
     # load csv that includes the terms
-    with open("data/all_months/KNN_Step2/final_ab5.csv", 'r') as f:
+    with open("data/all_months/KNN_Step1/summed_by_months.csv", 'r') as f:
         for line in f:
             id_, term, impressions, visits, mon = line.strip().split(',')
             for i, category in enumerate(categories_list.keys()):
@@ -57,17 +57,17 @@ with open("code/categories.json", "r") as read_file:
                         category_id = input("This is not a valid number. Please enter new number:")
                     category = ids[category_id] 
                     categories_list[category].append(term)
-                    term_dict[term] = [id_, impressions, visits, category, mon]
+                    term_dict[term,mon] = [id_, term, impressions, visits, category, mon]
                     #print(categories_list)
 
             # save term with category to new csv
-            with open('data/all_months/categorized.csv', 'w') as newf:
+            with open('data/all_months/KNN_Step1/categorized.csv', 'w') as newf:
                 for term_mon in term_dict.keys():
                     fid, term, imp, vis, category, mon = term_dict[term_mon]
                     newf.write(f"{fid};{term};{imp};{vis};{category};{mon}\n")
             newf.close()
 
             # save assigned categories to json file
-            with open("code/categories.json", "w") as write_file:
+            with open("code/categories_LS.json", "w") as write_file:
                 json.dump(categories_list, write_file, indent =4)
 

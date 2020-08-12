@@ -24,7 +24,8 @@
         "gutacht",
         "lohn",
         "stellenausschreib",
-        "verdien gart landschaftsbau"
+        "verdien gart landschaftsbau",
+        "arbeitslosenanteil"
     ],
     "Bildung": [
         "schul",
@@ -170,7 +171,17 @@
         "geburt",
         "wohnatlas",
         "einwohn berlin in lor planungsraum",
-        "senior"
+        "senior",
+        "einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017",
+        "einwohnerinn und einwohn in den ortsteil berlin",
+        "einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2011",
+        "list der haufig vornam 2018",
+        "einwohnerinn und einwohn in berlin in lor planungsraum wohndau ausland wohndau",
+        "planungsraum einwohn",
+        "einwohnerinn",
+        "statisch gebiet",
+        "ausland einwohnerinn",
+        "bevolkerungszahl"
     ],
     "Geographie und Stadtplanung": [
         "planungsraum",
@@ -501,7 +512,8 @@
         "digital farbig orthophoto 2018",
         "dop20rgb",
         "luftbild atom",
-        "bezirksamt friedrichshain kreuzberg von berlin vermess"
+        "bezirksamt friedrichshain kreuzberg von berlin vermess",
+        "planungsraum lor"
     ],
     "Gesundheit": [
         "corona",
@@ -584,7 +596,8 @@
         "event",
         "fest",
         "denkmalkart",
-        "naturdenkmal"
+        "naturdenkmal",
+        "denkmallist"
     ],
     "\u00d6ffentliche Verwaltung, Haushalt und Steuern": [
         "verwaltungsgrenz",
@@ -950,7 +963,11 @@
         "poll",
         "servic",
         "xml",
-        "zugriff"
+        "zugriff",
+        "fisbrok",
+        "digital farbig orthophoto 2018 dop20rgb",
+        "luftbild or atom",
+        "wast"
     ],
     "Sozialleistungen": [
         "soforthilf ii",

@@ -1,7 +1,7 @@
 # create dictionary that collects all unique terms
 keep = {}
 # load csv
-with open("data/all_months/categorized.csv", 'r') as f:
+with open("data/all_months/processed_al5/2_categorized.csv", 'r') as f:
     # skip header
     for i, line in enumerate(f):
         if i == 0:
@@ -24,7 +24,7 @@ with open("data/all_months/categorized.csv", 'r') as f:
     f.close()
     
 # save dictionary to new csv
-with open('data/all_months/summed_cat.csv', 'w') as newf:
+with open('data/all_months/processed_al5/3b_categorized_sum_cat.csv', 'w') as newf:
     for term in keep.keys():
         fid, imp, vis, cat = keep[term]
         newf.write(f"{imp};{vis};{cat}\n")

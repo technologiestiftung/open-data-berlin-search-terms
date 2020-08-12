@@ -5,7 +5,7 @@ list_of_months = ['2019-02','2019-03','2019-04','2019-05','2019-06', '2019-07','
 
 for tmp_month in list_of_months:
 # load csv
-    with open("data/all_months/KNN_Step2/set2.csv", 'r') as f:
+    with open("data/all_months/proceesed_al5/clean_terms_al5_knn.csv", 'r') as f:
         # skip header
         for i, line in enumerate(f):
             if i == 0:
@@ -32,11 +32,11 @@ for tmp_month in list_of_months:
         f.close()
         
         # save dictionary to new csv
-        with open('data/all_months/KNN_Step2/summed.csv', 'a') as newf:
+        with open('data/all_months/processed_al5/1_sum_term_keep_months.csv', 'a') as newf:
             for term in keep.keys():
                 fid, imp, vis, mon = keep[term]
                 # add term to csv only if it has at least 2 impressions
-                if imp > 1:
+                if imp > 4:
                     newf.write(f"{fid},{term},{imp},{vis},{mon}\n")
             f.close()
         keep = {}
