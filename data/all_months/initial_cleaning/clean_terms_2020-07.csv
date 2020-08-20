@@ -1,0 +1,666 @@
+"","term_stem","impressions","visits"
+"1","friedrichshain kreuzberg",43,15
+"2","alkis",46,13
+"3","vermess at ba fk berlin de",26,14
+"4","luftbild",26,7
+"5","einschulbereich",20,7
+"6","corona",18,12
+"7","planungsraum",17,1
+"8","kart",22,3
+"9","fahrrad",17,5
+"10","einkomm",27,10
+"11","strass",28,7
+"12","verkehr",18,5
+"13","gtfs",15,8
+"14","bvg",16,3
+"15","bezirk",17,9
+"16","lor",19,9
+"17","wfs",11,1
+"18","prognos",11,1
+"19","radweg",12,9
+"20","pankow",10,3
+"21","adress",10,3
+"22","einwohn",17,3
+"23","2019",1,1
+"24","energieverbrauch",8,2
+"25","radrout",8,7
+"26","flurstuck",9,2
+"27","dtk25",8,1
+"28","schul",10,6
+"29","rast",7,1
+"30","ubersichtskart",7,1
+"31","kita",8,6
+"32","wass",6,4
+"33","ortsteil",9,5
+"34","energi",7,3
+"35","block",11,4
+"36","sport",6,1
+"37","3d dat",10,4
+"38","vornam",12,4
+"39","covid",6,3
+"40","klimatolog kenndat",6,1
+"41","baum",12,8
+"42","wfs dat",5,1
+"43","s bahn",12,3
+"44","solar",5,3
+"45","fisbrok",5,1
+"46","kreuzberg",5,2
+"47","solaranlag",6,2
+"48","hauskoordinat",5,2
+"49","bautrag bezirk",5,1
+"50","luft",5,5
+"51","standort",5,2
+"52","vorkaufsrecht",5,1
+"53","parkraum",6,4
+"54","alt geschlecht",5,1
+"55","2020",1,1
+"56","bodenrichtwert",5,2
+"57","dtk",7,2
+"58","stellenbewert",5,1
+"59","tischtennisplatt",5,1
+"60","bevolker",7,3
+"61","gebaud",8,5
+"62","tegel",6,3
+"63","berlin 1850",4,1
+"64","friedrichshain kreuzberg einkauf",4,1
+"65","nam",4,1
+"66","fernwarm",4,1
+"67","lichtenberg",4,1
+"68","3d",8,6
+"69","wald",4,2
+"70","liegenschaftskatast",4,2
+"71","gesund",4,1
+"72","park",7,6
+"73","senatsbeschluss",7,5
+"74","teltowkanal",4,1
+"75","plz",6,4
+"76","tempelhof",4,4
+"77","postleitzahl",5,3
+"78","konigsweg teltowkanal",4,1
+"79","wohnlag",4,1
+"80","einwohn ortsteil berlin",4,1
+"81","bezirksgrenz",4,2
+"82","kriminalitat",4,3
+"83","wahlkart berlin",4,1
+"84","flurstucksgrenz",5,2
+"85","ausland",4,1
+"86","censimento",4,1
+"87","21 07 2020",6,2
+"88","cauerstrass",4,1
+"89","citygml",4,2
+"90","war",3,3
+"91","population",5,4
+"92","restaurant",4,3
+"93","demographi",3,1
+"94","spandau",4,3
+"95","prenzlau berg",3,2
+"96","rennefeld",3,1
+"97","gleisanlag",3,1
+"98","wochenticket vbb",3,1
+"99","berlin",4,2
+"100","staatlich bautraeg",3,1
+"101","katastrophenschutz",3,1
+"102","neukolln",3,2
+"103","altersstruktur",4,2
+"104","verein",3,1
+"105","apothek",4,2
+"106","pfleg",3,1
+"107","spielplatz",3,2
+"108","polizei",4,2
+"109","steurung transferleist",3,1
+"110","vbb",3,3
+"111","dgm",5,3
+"112","uferkonzept kopenick",3,1
+"113","rbs",3,2
+"114","kleingart",3,1
+"115","miet",4,2
+"116","fest",4,2
+"117","silv",3,1
+"118","bik",3,1
+"119","katast",4,4
+"120","barrierefrei",3,1
+"121","restaurantbesuch",5,2
+"122","unterhaltungsausgab",3,2
+"123","fahrverbot",3,1
+"124","oberflachenmodell",3,1
+"125","gelandemodell",3,2
+"126","strassenverzeichnis",3,1
+"127","ecosia",3,1
+"128","pump",4,4
+"129","barri",3,1
+"130","polizei abschnitt",3,1
+"131","zuwendungsdatenbank",3,1
+"132","rollstuhl",3,1
+"133","histor luftbild",3,1
+"134","demographic",3,2
+"135","schnellerstrass",3,1
+"136","einwohn migration",3,1
+"137","einwohn 2019",5,2
+"138","statist",3,1
+"139","detailnetz berlin",3,1
+"140","statist bezirk",3,1
+"141","karri",3,1
+"142","alt geschlecht zensus or bezirk",3,1
+"143","address",3,1
+"144","glascontain",3,1
+"145","tarifbereich",3,1
+"146","datav",3,1
+"147","bevolker bezirk",3,1
+"148","alkis berlin",3,1
+"149","kitalist",3,1
+"150","bevolkerungsdicht",3,1
+"151","einwohnerinn und einwohn nach wohnlag",3,1
+"152","sib",3,1
+"153","allgemein bildung",3,1
+"154","breitbandversorg drahtlos technologi",3,1
+"155","weltoffen berlin",3,1
+"156","strassenrein berlin",3,1
+"157","tourist",3,1
+"158","postleitzahl bezirk",3,1
+"159","geography mitt",2,2
+"160","flurkart",3,3
+"161","stadtteilgrenz",2,1
+"162","waldsass strass",2,1
+"163","ehrenamt",3,2
+"164","baupreisindex",2,1
+"165","beflieg",2,1
+"166","strassenverzeichnis mit hausnumm",2,2
+"167","senatsvorlag",4,3
+"168","wohnung",3,3
+"169","trinkbrunn",2,2
+"170","stadtviertel",2,1
+"171","stadtplan immobili analis",2,1
+"172","wett",2,1
+"173","friedrichshain kreuzberg bevolker",2,1
+"174","senior",2,1
+"175","berlinpass",2,1
+"176","geistigegesund",2,1
+"177","plan",2,1
+"178","badestell",3,3
+"179","grundschul",3,3
+"180","prami",2,1
+"181","diesel fahrverbot",2,1
+"182","kost",2,1
+"183","model",2,1
+"184","gtfs api",2,1
+"185","strassenrein kost",2,1
+"186","haushalt",3,2
+"187","lebenserwart in kladow",2,1
+"188","haltestell",3,2
+"189","covid 19",2,1
+"190","opendatav",2,2
+"191","einwohnerzahl",3,2
+"192","konigsweg",2,1
+"193","baualt",2,1
+"194","strassenreinigungsgebuhr",2,1
+"195","familienzentr kind und jugendfreizeiteinricht",2,1
+"196","energienetz",3,2
+"197","lor kart",2,1
+"198","stadtplan immobilienstatist",2,1
+"199","versamml",3,2
+"200","grunflach",3,3
+"201","bautrag berlin",2,1
+"202","reststoff",2,1
+"203","koloniestrass",2,1
+"204","strassennetz",2,1
+"205","kopernikusstrass kopernikusstrass or zerstor",2,1
+"206","bautrag land berlin",2,1
+"207","wms",2,1
+"208","hilf zur erzieh",3,2
+"209","geojson",2,1
+"210","zoning kort",2,1
+"211","wohnungsneubau",2,1
+"212","erhaltungsgebiet",2,1
+"213","parkraumbewirtschaft",2,2
+"214","digital detox",2,1
+"215","lor 2019",2,1
+"216","traffic count",2,1
+"217","baustell",2,1
+"218","shapefil",2,2
+"219","haushaltseinkomm",2,2
+"220","aktiv zentr",2,1
+"221","grenzmarkier",2,1
+"222","hochstausstatt",2,1
+"223","lor bezirksnumm",2,1
+"224","modell",2,2
+"225","knjprodestrass",2,1
+"226","stadtteil",3,3
+"227","war debris",2,1
+"228","gastronomi",2,1
+"229","bier",2,1
+"230","portallogin jsp",2,1
+"231","lor bezirk",2,1
+"232","biomass",2,1
+"233","neubau",3,2
+"234","strassenabschnitt",3,2
+"235","tischtennisplattr",2,1
+"236","restaurant mit sonnenterass",2,1
+"237","auto",2,1
+"238","soforthilf",2,1
+"239","lankwitz",2,1
+"240","vereoin",2,1
+"241","friedrichshain kreuzberg haushaltseinkomm",2,1
+"242","zuordnung der bezirk zu den postleitzahl",3,2
+"243","stadtmodell",2,1
+"244","bezirksgrenz berlin",2,1
+"245","jutebog strass",2,1
+"246","bagni",2,1
+"247","tischtennis",2,1
+"248","gehwegbreit",2,1
+"249","einwohn berlin gesamt",2,1
+"250","bevolkerungsentwickl",2,1
+"251","klimatolog",2,1
+"252","tourismus deutschland",2,1
+"253","stuerung transferleist",2,1
+"254","schnell strass",2,1
+"255","climat",2,1
+"256","tvo",2,1
+"257","viertel",2,2
+"258","uferkonzept",2,1
+"259","building",2,1
+"260","sportforum",2,1
+"261","lankwitz wirschaftsdat",2,1
+"262","alexand marcus",2,1
+"263","baukostenindex",2,1
+"264","kraftfahrzeug",2,1
+"265","wms baum",2,1
+"266","neubau potenzial",2,1
+"267","aktuell luftqualitatsindex",2,1
+"268","aor",2,1
+"269","ewr201512 matrix",2,1
+"270","tltowkanal",2,1
+"271","altglas",2,1
+"272","wat",2,1
+"273","geograph granularitat",2,1
+"274","geographical granularity",2,1
+"275","lopr",2,1
+"276","3ddaten",2,2
+"277","geodat",1,1
+"278","haushalt mit kind",1,1
+"279","bral",2,2
+"280","weg",1,1
+"281","berlin gtfs dat chang",1,1
+"282","nam and",1,1
+"283","gesetz",1,1
+"284","privat equity",1,1
+"285","zugriff",1,1
+"286","verkehrsbelast",1,1
+"287","lidar",1,1
+"288","schulabschluss 2019",1,1
+"289","altersstruktur reinickendorf",1,1
+"290","blitz",1,1
+"291","bausanier",1,1
+"292","steglitz",1,1
+"293","demenzerkrank",1,1
+"294","3dd",1,1
+"295","sud korea",1,1
+"296","apothek standort",1,1
+"297","capital area",1,1
+"298","waff",1,1
+"299","parkplatz",1,1
+"300","konig wusterhaus",1,1
+"301","beschluss",2,2
+"302","einkomm alt",2,2
+"303","deutschalnd",1,1
+"304","employ branding",1,1
+"305","offlin tourismus",1,1
+"306","autoverkauf",1,1
+"307","wohndau",1,1
+"308","verspat",1,1
+"309","hartz 4",1,1
+"310","haltestellenzugang",1,1
+"311","pv",1,1
+"312","tourismus mallorca",1,1
+"313","umweltzon berlin",1,1
+"314","map",1,1
+"315","parkraummanagement",1,1
+"316","naturdenkmal",1,1
+"317","alkohol",1,1
+"318","kart 3 11 2",1,1
+"319","spandau kladow",1,1
+"320","zensus",1,1
+"321","raumung",1,1
+"322","handwerk",1,1
+"323","edeka",1,1
+"324","opnv",1,1
+"325","verkehrsdat",1,1
+"326","04 06",1,1
+"327","digital oberflachenmodell",1,1
+"328","namenslist steglitz zehlendorf",1,1
+"329","verkehrsaufkomm",1,1
+"330","solarpot",1,1
+"331","infrastruktur",1,1
+"332","baumbestand",1,1
+"333","schmidstrass",1,1
+"334","mein berlin",1,1
+"335","blockseit",1,1
+"336","sgb ix",1,1
+"337","ausgab",1,1
+"338","zeilfeld",1,1
+"339","see",1,1
+"340","ki",1,1
+"341","munch geothermal",1,1
+"342","bevolkerungsprgnos",1,1
+"343","kopenick",1,1
+"344","1998",1,1
+"345","fazit zuwend",1,1
+"346","parkautomat",1,1
+"347","sir",1,1
+"348","immobilienstatist",1,1
+"349","munch",1,1
+"350","hund",2,2
+"351","schulabschluss",2,2
+"352","sporthall",1,1
+"353","schwimmbad",2,2
+"354","friedhof",1,1
+"355","sozialraumindex",1,1
+"356","dop",2,2
+"357","gross hamburg strass",1,1
+"358","incom",1,1
+"359","verordn zur bereitstell von allgemein zugang datenbestand open data",1,1
+"360","geistig gesundd",1,1
+"361","modular",1,1
+"362","open data konzept",1,1
+"363","bahnhof",1,1
+"364","sozial index",1,1
+"365","abfall",2,2
+"366","mindestabstand",1,1
+"367","wfs stadtbezirk",1,1
+"368","1659",1,1
+"369","kniprodestrass",1,1
+"370","reststoffverarbeit",1,1
+"371","kopernikusstrass or zerstor",1,1
+"372","uberwach",1,1
+"373","umweltzon",1,1
+"374","wohnungslos",1,1
+"375","histor kart steglitz",1,1
+"376","bismarckstr",1,1
+"377","blockmodell",1,1
+"378","vattenfall",1,1
+"379","flachennutzungsplan berlin hermsdorf",1,1
+"380","smart city",2,2
+"381","baulast",1,1
+"382","fried",1,1
+"383","lod",2,2
+"384","baunutzungsverordn",2,2
+"385","bezirksgrenz steglitz",1,1
+"386","u bahn",1,1
+"387","ortho",1,1
+"388","weltoff berlin",1,1
+"389","k5",1,1
+"390","entscheidungstrag",1,1
+"391","grz",1,1
+"392","abschluss",1,1
+"393","haushaltsplan 2020",1,1
+"394","grz berlin",1,1
+"395","landwirtschaft",1,1
+"396","sprengelkiez",1,1
+"397","13587 werderstrass",1,1
+"398","kaffeedrom",1,1
+"399","bvg vertrag",1,1
+"400","doppelhaushalt",1,1
+"401","3d dat 3d",1,1
+"402","radfahr",2,2
+"403","spandau kart",1,1
+"404","standard of living",1,1
+"405","anlag",1,1
+"406","built up",1,1
+"407","larm",1,1
+"408","3d d",2,2
+"409","jugend deutschland",1,1
+"410","social",1,1
+"411","strom",2,2
+"412","bibliothek",1,1
+"413","wahlbezirk",1,1
+"414","altersgrupp",1,1
+"415","bauamt gewerb",1,1
+"416","akis ext",1,1
+"417","spielplatzversorg",1,1
+"418","cad dat",1,1
+"419","strassenschad",1,1
+"420","grfz berlin",1,1
+"421","altersstruktur planungsraum",1,1
+"422","entscheidungstrag off bereich",2,2
+"423","leitlini",1,1
+"424","konigsweg kohlhasenbruck",1,1
+"425","doppelhaushalt 2020",1,1
+"426","reststoff bearbeit",1,1
+"427","altersstruktur or lor",1,1
+"428","shap",1,1
+"429","lod2",1,1
+"430","stadtplan 1850",1,1
+"431","hohenlini",1,1
+"432","1945",1,1
+"433","bezirkstabell covid",1,1
+"434","eingliederungshilf",1,1
+"435","89",1,1
+"436","verkh",1,1
+"437","gfz berlin",1,1
+"438","mapsolution",1,1
+"439","mietpreis",3,3
+"440","planungsraum pankow",1,1
+"441","reguleringsplan",1,1
+"442","turnhall",2,2
+"443","friedrichshain",1,1
+"444","energy",1,1
+"445","713",1,1
+"446","6",2,2
+"447","bezirk lor bevolker",1,1
+"448","tourismus",2,2
+"449","demenz",1,1
+"450","rbs od",1,1
+"451","drought",1,1
+"452","bevolker alt",1,1
+"453","rad",1,1
+"454","alk",1,1
+"455","gemark",1,1
+"456","baunutzungsverordn 19",1,1
+"457","dwg",1,1
+"458","gehalt",1,1
+"459","einkomm nach bezirk",1,1
+"460","toilet",1,1
+"461","demonstration",1,1
+"462","markt",1,1
+"463","schuld",1,1
+"464","formal obligation",1,1
+"465","em0207",1,1
+"466","berlin txl",1,1
+"467","potenzial",1,1
+"468","pflegeheim",1,1
+"469","tk",1,1
+"470","einwohn nach altersgrupp",1,1
+"471","stadtebau",2,2
+"472","robotization",1,1
+"473","faxnumm",1,1
+"474","urbantech",1,1
+"475","forder",1,1
+"476","einwohn ortsteil berlin 2019",1,1
+"477","open datav",1,1
+"478","brachflach",1,1
+"479","rosenstrass",1,1
+"480","strassenmus",1,1
+"481","markisch",1,1
+"482","ba beschluss",1,1
+"483","geistig gesund",1,1
+"484","lor einwohn",1,1
+"485","stadtebau denkmalschutz",1,1
+"486","alt geschelcht",1,1
+"487","sw ausgab",1,1
+"488","caf mit sonnenterass",1,1
+"489","bezirk shap",1,1
+"490","einwohnermigrationplanungsraum",1,1
+"491","terrain",1,1
+"492","zaa adress",1,1
+"493","kriminal",1,1
+"494","administrativ glieder",1,1
+"495","gebrauchtwag",1,1
+"496","demografi",1,1
+"497","brunn",1,1
+"498","grundschuel",1,1
+"499","altersverteil",1,1
+"500","felix rennefeld",1,1
+"501","kindertag",2,2
+"502","bzirk shap",1,1
+"503","bussonderfahrstreif",1,1
+"504","windkraft",1,1
+"505","gross strass",1,1
+"506","seniorenbegegn",1,1
+"507","luftbild 1954",1,1
+"508","einwohn alt",1,1
+"509","schuldnerberat",1,1
+"510","lor shap",1,1
+"511","stromanbiet",1,1
+"512","kindergart",1,1
+"513","planung",1,1
+"514","friedrichshain kreuzberg kaufkraft",2,2
+"515","geometri bezirk",1,1
+"516","flurstuck pankow",1,1
+"517","hochschul",1,1
+"518","spandau kindergart",1,1
+"519","ortofot",1,1
+"520","bevolkerungsentwickl berlin",1,1
+"521","grz berlin lichtenrad",1,1
+"522","bau",1,1
+"523","parkuhr",2,2
+"524","lox2",1,1
+"525","lor geometri",1,1
+"526","apothek strass",1,1
+"527","laserdat",1,1
+"528","shp bezirk",1,1
+"529","baunutzungsverordn grfz",1,1
+"530","forderkuliss",1,1
+"531","migrationshintergrund",1,1
+"532","einwohn altersgrupp",1,1
+"533","bebaut",1,1
+"534","haushaalt",1,1
+"535","verkh kart",1,1
+"536","topograf",1,1
+"537","biomull",1,1
+"538","naamenslist steglitz zehlendorf",1,1
+"539","social indicator",1,1
+"540","postleistzahl",1,1
+"541","ubahn station",1,1
+"542","einwohn migration planungsraum",1,1
+"543","friedrichshain kreuzberg tourismus",1,1
+"544","abgeordnet",1,1
+"545","flughaf",1,1
+"546","tif",1,1
+"547","verkehrsvertrag",1,1
+"548","school",1,1
+"549","lohn",1,1
+"550","trodelmarkt",1,1
+"551","baumpat",1,1
+"552","gedenktafeln",1,1
+"553","stellenwirtschaft",1,1
+"554","dankesprami",1,1
+"555","radverkehrsnetz",1,1
+"556","bak",1,1
+"557","einwohnerinn und einwohn in den ortsteil berlin",1,1
+"558","einschul",2,2
+"559","berlin um 1890",1,1
+"560","tk25",1,1
+"561","tourism",1,1
+"562","papiercontain",1,1
+"563","alt lietzow",1,1
+"564","einwohn ortsteil berli",1,1
+"565","ausgleichsflach",1,1
+"566","geistig gesundd tegel",1,1
+"567","topo",1,1
+"568","crim",1,1
+"569","altersgrupp einwohnerzahl",1,1
+"570","gebracuhtwag",1,1
+"571","air quality",1,1
+"572","2018",1,1
+"573","hasenheid",1,1
+"574","bad",1,1
+"575","bezirksglieder",1,1
+"576","bicycl",1,1
+"577","gebaudemodell",1,1
+"578","fis",1,1
+"579","vegetari",1,1
+"580","3daten",1,1
+"581","bruttoinlandsprodukt",1,1
+"582","verdien",1,1
+"583","household incom",1,1
+"584","deutschalnd alt",1,1
+"585","wohnlag list",1,1
+"586","smartcity",1,1
+"587","biotonn",1,1
+"588","hze",1,1
+"589","hensch",1,1
+"590","schiefelbein",1,1
+"591","ewr w",1,1
+"592","stadtplan",1,1
+"593","resident berlin",1,1
+"594","mehldornpfad 512524 berlin",1,1
+"595","3d gebaudemodell",1,1
+"596","schwengelpump",1,1
+"597","tag abend nacht index",1,1
+"598","sagebockweg reinigungsklass",1,1
+"599","alkoholtot",1,1
+"600","urban tech",1,1
+"601","coworking",1,1
+"602","allgemein bildung 2019",1,1
+"603","tempelhof schwarzplan",1,1
+"604","nachbarschaft",1,1
+"605","unterbezirk",1,1
+"606","eigenart",1,1
+"607","thf",1,1
+"608","bip",1,1
+"609","kreuzung frankfurt alle",1,1
+"610","landesgrenz",1,1
+"611","grun",1,1
+"612","friedrichshain kreuzberg lebensmittel",1,1
+"613","east",1,1
+"614","bar",1,1
+"615","fleischerei",1,1
+"616","alk flurstuck",1,1
+"617","bezirkskart",1,1
+"618","mull",1,1
+"619","much",1,1
+"620","therm",1,1
+"621","suchbegriff",1,1
+"622","schott",1,1
+"623","volksf",1,1
+"624","childr cent",1,1
+"625","bezirk einwohn",1,1
+"626","1910",1,1
+"627","klamatolog kenndat",1,1
+"628","hirschgart",1,1
+"629","tempelhof feld",1,1
+"630","zugriffsstatist",1,1
+"631","bewolker",1,1
+"632","corona risikogebiet",1,1
+"633","fish",1,1
+"634","masterplan",1,1
+"635","lod0",1,1
+"636","resident",1,1
+"637","ubergeordnet strassennetz",1,1
+"638","eckdat allgemeinbild schul",1,1
+"639","verspatun",1,1
+"640","neubaupotenzial",1,1
+"641","eckdat allgemeinbild schul 2020",1,1
+"642","altglascontain",1,1
+"643","bvg verkehrsvertrag",1,1
+"644","lor planung",1,1
+"645","genehmigungsbed",1,1
+"646","liniennetz",1,1
+"647","off stell",1,1
+"648","wander",1,1
+"649","offent einricht",1,1
+"650","bk",1,1
+"651","wohnungsneubau franzos or buchholz",1,1
+"652","lod1",1,1
+"653","linienfarb",1,1
+"654","marienfeld",1,1
+"655","netzwerkstreik",1,1
+"656","fuhrungszeugnis",1,1
+"657","bauantrag",1,1
+"658","jutebogerstrass",1,1
+"659","verkehrsmeng",1,1
+"660","bahngleis",1,1
+"661","lqi",1,1
+"662","poverty",1,1
+"663","dom",1,1
+"664","wohnungsbestand",1,1
+"665","kfz",1,1
