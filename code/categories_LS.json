@@ -181,7 +181,11 @@
         "einwohnerinn",
         "statisch gebiet",
         "ausland einwohnerinn",
-        "bevolkerungszahl"
+        "bevolkerungszahl",
+        "herkunft",
+        "c statist gebiet",
+        "alt geschlecht",
+        "einwohn 2019"
     ],
     "Geographie und Stadtplanung": [
         "planungsraum",
@@ -513,7 +517,11 @@
         "dop20rgb",
         "luftbild atom",
         "bezirksamt friedrichshain kreuzberg von berlin vermess",
-        "planungsraum lor"
+        "planungsraum lor",
+        "c lor bezirksnumm",
+        "wfs dat",
+        "tegel",
+        "ubersichtskart"
     ],
     "Gesundheit": [
         "corona",
@@ -554,7 +562,8 @@
         "charit\u00e9",
         "covid 19",
         "todesursach",
-        "coronavirus"
+        "coronavirus",
+        "c offent gesundheitsdien"
     ],
     "Jugend": [
         "kind",
@@ -967,7 +976,17 @@
         "fisbrok",
         "digital farbig orthophoto 2018 dop20rgb",
         "luftbild or atom",
-        "wast"
+        "wast",
+        "mensch",
+        "c mietenwog bln",
+        "bautrag bezirk",
+        "stellenbewert",
+        "21 07 2020",
+        "rast",
+        "dtk",
+        "dtk25",
+        "3d dat",
+        "prognos"
     ],
     "Sozialleistungen": [
         "soforthilf ii",
@@ -1013,7 +1032,9 @@
         "waldgartenprojekt neukolln britz",
         "weihnachtsmarkt",
         "marathon",
-        "seniorensport"
+        "seniorensport",
+        "tischtennisplatt",
+        "restaurantbesuch"
     ],
     "Tourismus": [
         "hotel",
@@ -1091,7 +1112,9 @@
         "klima",
         "umweltatlas",
         "versiegel",
-        "larmkart"
+        "larmkart",
+        "c berlin gewass",
+        "klimatolog kenndat"
     ],
     "Ver- und Entsorgung": [
         "entsorg",
@@ -1164,7 +1187,8 @@
         "datenschutz",
         "gewalt geg frau",
         "verbrech",
-        "kriminal"
+        "kriminal",
+        "vorkaufsrecht"
     ],
     "Verkehr": [
         "bvg",

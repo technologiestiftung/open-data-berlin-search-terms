@@ -929,3 +929,131 @@
 10,ortsteil,28,8,2020-05
 6,spielplatz,29,14,2020-05
 1,friedrichshain kreuzberg,71,27,2020-05
+33,wms,5,3,2020-06
+35,katast,5,1,2020-06
+37,grunflach,5,3,2020-06
+38,c berlin gewass,5,1,2020-06
+39,wasserbetrieb,5,2,2020-06
+40,herkunft,5,2,2020-06
+43,arbeit,5,3,2020-06
+46,schul,5,4,2020-06
+49,alt,5,3,2020-06
+50,einschul,5,4,2020-06
+52,3d,5,5,2020-06
+56,mietendeckel,5,2,2020-06
+66,abfall,5,3,2020-06
+67,c statist gebiet,5,2,2020-06
+68,strassennam,5,5,2020-06
+79,postleitzahl,5,3,2020-06
+83,warm,5,2,2020-06
+86,luftbild,5,4,2020-06
+29,c offent gesundheitsdien,6,1,2020-06
+30,spandau,6,1,2020-06
+36,flachennutz,6,3,2020-06
+51,mensch,6,2,2020-06
+57,c lor bezirksnumm,6,2,2020-06
+21,adress,7,1,2020-06
+22,kita,7,5,2020-06
+23,strassenbefahr,7,1,2020-06
+24,fahrrad,7,4,2020-06
+25,grundwass,7,2,2020-06
+26,radrout,7,6,2020-06
+53,c mietenwog bln,7,2,2020-06
+113,miet,7,6,2020-06
+13,baumbestand,8,7,2020-06
+20,unfall,8,5,2020-06
+31,corona,8,8,2020-06
+41,flurkart,8,4,2020-06
+11,einwohn,9,6,2020-06
+12,vbb,9,6,2020-06
+15,bezirk,9,4,2020-06
+28,spielplatz,9,6,2020-06
+34,baum,9,8,2020-06
+17,lor,10,8,2020-06
+18,arbeitslos,10,3,2020-06
+8,pfleg,11,2,2020-06
+10,kriminalitat,11,9,2020-06
+27,gtfs,11,10,2020-06
+58,park,11,8,2020-06
+14,rbs,13,7,2020-06
+19,einkomm,13,9,2020-06
+6,wfs,14,3,2020-06
+9,trinkbrunn,14,13,2020-06
+16,ortsteil,14,6,2020-06
+5,grundwassergleich,15,3,2020-06
+7,alkis,16,5,2020-06
+3,verkehr,19,7,2020-06
+4,strass,33,10,2020-06
+2,friedrichshain kreuzberg,36,26,2020-06
+1,vermess at ba fk berlin de,41,23,2020-06
+42,wfs dat,5,1,2020-07
+44,solar,5,3,2020-07
+45,fisbrok,5,1,2020-07
+46,kreuzberg,5,2,2020-07
+48,hauskoordinat,5,2,2020-07
+49,bautrag bezirk,5,1,2020-07
+50,luft,5,5,2020-07
+51,standort,5,2,2020-07
+52,vorkaufsrecht,5,1,2020-07
+54,alt geschlecht,5,1,2020-07
+56,bodenrichtwert,5,2,2020-07
+58,stellenbewert,5,1,2020-07
+59,tischtennisplatt,5,1,2020-07
+77,postleitzahl,5,3,2020-07
+84,flurstucksgrenz,5,2,2020-07
+91,population,5,4,2020-07
+111,dgm,5,3,2020-07
+121,restaurantbesuch,5,2,2020-07
+137,einwohn 2019,5,2,2020-07
+32,wass,6,4,2020-07
+36,sport,6,1,2020-07
+39,covid,6,3,2020-07
+40,klimatolog kenndat,6,1,2020-07
+47,solaranlag,6,2,2020-07
+53,parkraum,6,4,2020-07
+62,tegel,6,3,2020-07
+75,plz,6,4,2020-07
+87,21 07 2020,6,2,2020-07
+29,rast,7,1,2020-07
+30,ubersichtskart,7,1,2020-07
+34,energi,7,3,2020-07
+57,dtk,7,2,2020-07
+60,bevolker,7,3,2020-07
+72,park,7,6,2020-07
+73,senatsbeschluss,7,5,2020-07
+24,energieverbrauch,8,2,2020-07
+25,radrout,8,7,2020-07
+27,dtk25,8,1,2020-07
+31,kita,8,6,2020-07
+61,gebaud,8,5,2020-07
+68,3d,8,6,2020-07
+26,flurstuck,9,2,2020-07
+33,ortsteil,9,5,2020-07
+20,pankow,10,3,2020-07
+21,adress,10,3,2020-07
+28,schul,10,6,2020-07
+37,3d dat,10,4,2020-07
+17,wfs,11,1,2020-07
+18,prognos,11,1,2020-07
+35,block,11,4,2020-07
+19,radweg,12,9,2020-07
+38,vornam,12,4,2020-07
+41,baum,12,8,2020-07
+43,s bahn,12,3,2020-07
+13,gtfs,15,8,2020-07
+14,bvg,16,3,2020-07
+7,planungsraum,17,1,2020-07
+9,fahrrad,17,5,2020-07
+15,bezirk,17,9,2020-07
+22,einwohn,17,3,2020-07
+6,corona,18,12,2020-07
+12,verkehr,18,5,2020-07
+16,lor,19,9,2020-07
+5,einschulbereich,20,7,2020-07
+8,kart,22,3,2020-07
+3,vermess at ba fk berlin de,26,14,2020-07
+4,luftbild,26,7,2020-07
+10,einkomm,27,10,2020-07
+11,strass,28,7,2020-07
+1,friedrichshain kreuzberg,43,15,2020-07
+2,alkis,46,13,2020-07

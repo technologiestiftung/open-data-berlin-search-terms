@@ -1,11 +1,11 @@
 # create dictionary that collects all unique terms
 keep = {}
 
-list_of_months = ['2019-02','2019-03','2019-04','2019-05','2019-06', '2019-07','2019-08','2019-09','2019-10','2019-11','2019-12','2020-01','2020-02','2020-03','2020-04','2020-05']
+list_of_months = ['2020-06','2020-07']
 
 for tmp_month in list_of_months:
 # load csv
-    with open("data/all_months/proceesed_al5/clean_terms_al5_knn.csv", 'r') as f:
+    with open("data/clean_terms_all2_5.csv", 'r') as f:
         # skip header
         for i, line in enumerate(f):
             if i == 0:

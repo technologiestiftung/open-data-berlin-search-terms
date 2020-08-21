@@ -39,7 +39,7 @@ with open("code/categories.json", "r") as read_file:
 
     term_dict = {}
     # load csv that includes the terms
-    with open("data/all_months/KNN_Step1/summed_by_months.csv", 'r') as f:
+    with open("data/all_months/processed_al5/1_sum_term_keep_months.csv", 'r') as f:
         for line in f:
             id_, term, impressions, visits, mon = line.strip().split(',')
             for i, category in enumerate(categories_list.keys()):
