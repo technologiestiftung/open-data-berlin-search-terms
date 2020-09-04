@@ -7,7 +7,7 @@ with open("code/categories.json", "r") as read_file:
 
     term_dict = {}
     # load csv that includes the terms
-    with open("data/test_2020-05/comparison_categories_2020-05.csv", 'r') as f:
+    with open("data/comparison_categories.csv", 'r') as f:
         for line in f:
             id_, term, cat, diff = line.strip().split(';')
             for i, category in enumerate(categories_list.keys()):
@@ -18,7 +18,7 @@ with open("code/categories.json", "r") as read_file:
             
 
     # save assigned categories to json file
-    with open("data/test_2020-05/categories_2020-05.json", "w") as write_file:
+    with open("code/categories_new.json", "w") as write_file:
         json.dump(categories_list, write_file, indent =4)
 
 

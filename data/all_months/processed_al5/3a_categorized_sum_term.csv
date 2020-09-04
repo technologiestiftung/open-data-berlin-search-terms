@@ -8,7 +8,7 @@
 56;lehr;5;3;Bildung
 84;miet;74;59;Wohnen und Immobilien
 23;nam;86;48;Demographie
-16;statist block;17;5;Sonstiges
+16;statist block;17;5;Demographie
 18;rbs block;25;13;Geographie und Stadtplanung
 19;lebenswelt;13;3;Geographie und Stadtplanung
 34;kultur;7;2;Kunst und Kultur
@@ -28,7 +28,7 @@
 11;rbs;249;118;Geographie und Stadtplanung
 21;adress;160;64;Geographie und Stadtplanung
 4;csv;21;4;Sonstiges
-10;block;119;31;Sonstiges
+10;block;119;31;Geographie und Stadtplanung
 2;fairtrad;17;9;Verbraucherschutz
 3;energieverbrauch;51;28;Ver- und Entsorgung
 5;geometri;70;23;Sonstiges
@@ -36,7 +36,7 @@
 1;shp;84;22;Sonstiges
 141;subway;6;3;Verkehr
 156;einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017;15;6;Demographie
-166;fisbrok;12;7;Sonstiges
+166;fisbrok;12;7;Geographie und Stadtplanung
 34;lor ausland;5;1;Geographie und Stadtplanung
 42;stadtteil;11;11;Geographie und Stadtplanung
 53;berlinpass;5;3;Sport und Erholung
@@ -77,7 +77,7 @@
 39;flach;13;3;Sonstiges
 40;feinstaub;11;5;Umwelt und Klima
 41;alkis gebaud;5;2;Geographie und Stadtplanung
-43;flughaf;5;2;Geographie und Stadtplanung
+43;flughaf;5;2;Verkehr
 45;inspir;5;2;Sonstiges
 49;s bahn;22;10;Verkehr
 63;grundschul reinickendorf;5;2;Bildung
@@ -86,7 +86,7 @@
 92;bsr;10;6;Ver- und Entsorgung
 26;topograf;6;1;Geographie und Stadtplanung
 30;hotel;6;4;Tourismus
-37;polizei;38;22;Geographie und Stadtplanung
+37;polizei;38;22;Öffentliche Verwaltung, Haushalt und Steuern
 57;dgm;79;44;Geographie und Stadtplanung
 100;einschulbereich;26;11;Bildung
 24;lor kart;7;2;Geographie und Stadtplanung
@@ -100,7 +100,7 @@
 12;lichtenberg;30;11;Geographie und Stadtplanung
 16;einwohn berlin in lor planungsraum;9;1;Demographie
 21;poll;9;5;Sonstiges
-9;shap;16;6;Sonstiges
+9;shap;16;6;Geographie und Stadtplanung
 20;sport;26;9;Sport und Erholung
 23;wohnlag;26;12;Wohnen und Immobilien
 31;hauskoordinat;15;6;Geographie und Stadtplanung
@@ -129,7 +129,7 @@
 49;mietspiegel;22;13;Wohnen und Immobilien
 60;lod2;16;12;Sonstiges
 24;seniorensport;7;7;Sport und Erholung
-33;shapefil;56;41;Sonstiges
+33;shapefil;56;41;Geographie und Stadtplanung
 50;fluchtling;7;3;Demographie
 32;strassenbefahr;35;9;Geographie und Stadtplanung
 34;wahlbezirk;8;6;Wahlen
@@ -155,7 +155,7 @@
 64;wohnung;12;5;Wohnen und Immobilien
 46;lor shp;7;4;Geographie und Stadtplanung
 77;rbs adress;8;5;Geographie und Stadtplanung
-49;digital farbig orthophoto 2018 dop20rgb;9;7;Sonstiges
+49;digital farbig orthophoto 2018 dop20rgb;9;7;Geographie und Stadtplanung
 11;gewass;37;11;Umwelt und Klima
 8;lor einwohn;13;1;Geographie und Stadtplanung
 12;dop20rgb;13;2;Geographie und Stadtplanung
@@ -173,7 +173,7 @@
 78;liegenschaftskart;13;9;Geographie und Stadtplanung
 82;strass 52a;5;2;Geographie und Stadtplanung
 88;rbs bezirk;5;4;Geographie und Stadtplanung
-94;umsetz or transparent or liegenschaftspolit;5;2;Protokolle und Beschlüsse
+94;umsetz or transparent or liegenschaftspolit;5;2;Sonstiges
 25;biotop und artenschutz biotop und artenschutz;6;1;Umwelt und Klima
 31;berlin;20;5;Geographie und Stadtplanung
 48;fahrplan;13;8;Verkehr
@@ -182,14 +182,14 @@
 21;transport;7;3;Verkehr
 33;dop;29;15;Sonstiges
 14;parkplatz;8;3;Verkehr
-15;open data;8;1;Sonstiges
+15;open data;8;1;Öffentliche Verwaltung, Haushalt und Steuern
 27;geltungsbereich;14;6;Sonstiges
-93;tankstell;9;8;Wirtschaft
+93;tankstell;9;8;Verkehr
 167;verdien gart landschaftsbau;8;5;Arbeitsmarkt
 39;neukolln;26;13;Geographie und Stadtplanung
 41;krankenhaus;34;20;Gesundheit
 43;strat larmkart 2017;5;1;Umwelt und Klima
-47;dop or atom;5;1;Sonstiges
+47;dop or atom;5;1;Geographie und Stadtplanung
 49;friedrichshain;5;4;Geographie und Stadtplanung
 58;migration;5;4;Demographie
 72;hoh;13;8;Sonstiges
@@ -197,18 +197,18 @@
 29;standardlastprofil;6;2;Ver- und Entsorgung
 30;larmbelast;6;1;Umwelt und Klima
 31;utm;6;2;Sonstiges
-36;bezirkskart spandau;6;1;Öffentliche Verwaltung, Haushalt und Steuern
-37;atlas;6;2;Sonstiges
+36;bezirkskart spandau;6;1;Geographie und Stadtplanung
+37;atlas;6;2;Geographie und Stadtplanung
 38;tourismus;18;15;Tourismus
 22;ausland;17;3;Sonstiges
 24;friedrichshain kreuzberg;178;80;Geographie und Stadtplanung
 18;brandenburg;14;4;Geographie und Stadtplanung
-20;luftbild or atom;8;1;Sonstiges
+20;luftbild or atom;8;1;Geographie und Stadtplanung
 45;gemark;43;35;Sonstiges
 25;altlast;15;5;Ver- und Entsorgung
 16;temperatur;18;4;Umwelt und Klima
 187;trinkbrunn im bezirk;7;5;Geographie und Stadtplanung
-37;kml;5;2;Sonstiges
+37;kml;5;2;Geographie und Stadtplanung
 39;verkehr wms;5;1;Verkehr
 40;sudwestkorso;5;1;Geographie und Stadtplanung
 42;religion;5;2;Kunst und Kultur
@@ -224,10 +224,10 @@
 65;strassennetz;6;2;Verkehr
 19;klima;7;4;Umwelt und Klima
 22;strom;32;7;Ver- und Entsorgung
-23;wohnatlas;7;1;Demographie
+23;wohnatlas;7;1;Wohnen und Immobilien
 15;einwohnerinn und einwohn in berlin in lor planungsraum wohndau ausland wohndau;9;2;Demographie
 10;zugriff;12;1;Sonstiges
-17;feuerwehr;17;7;Verbraucherschutz
+17;feuerwehr;17;7;Öffentliche Verwaltung, Haushalt und Steuern
 210;wohnungsmiet;6;2;Wohnen und Immobilien
 29;echtzeit;5;3;Sonstiges
 31;arbeitslosenanteil;5;2;Arbeitsmarkt
@@ -249,7 +249,7 @@
 278;dynam index 2019;5;2;Demographie
 41;berlin wasserbetrieb;5;1;Ver- und Entsorgung
 42;wast;5;2;Sonstiges
-45;ostbahnhof wunsdorf waldstadt;5;1;Geographie und Stadtplanung
+45;ostbahnhof wunsdorf waldstadt;5;1;Sonstiges
 46;sozialatlas;5;1;Demographie
 48;marzahn hellersdorf;5;3;Geographie und Stadtplanung
 50;verlauf der berlin mau;5;1;Geographie und Stadtplanung
@@ -257,13 +257,13 @@
 52;gewerb;5;2;Wirtschaft
 84;spandau;11;5;Geographie und Stadtplanung
 27;kindergart;6;3;Bildung
-31;wifi;6;4;Sonstiges
+31;wifi;6;4;Ver- und Entsorgung
 33;alt;26;13;Demographie
-36;mitt;23;7;Geographie und Stadtplanung
+36;mitt;23;7;Sonstiges
 49;fahrradstand;12;6;Verkehr
 23;2009;7;1;Sonstiges
 68;platz;7;3;Geographie und Stadtplanung
-127;lod1;7;5;Sonstiges
+127;lod1;7;5;Geographie und Stadtplanung
 17;versiegel;8;2;Umwelt und Klima
 14;wohn;21;6;Wohnen und Immobilien
 8;json;13;3;Sonstiges
@@ -271,19 +271,19 @@
 4;bod wms;17;3;Geographie und Stadtplanung
 87;breitband;29;11;Wirtschaft
 131;lichterfeld histor kart;9;3;Geographie und Stadtplanung
-33;gml;5;1;Sonstiges
+33;gml;5;1;Geographie und Stadtplanung
 43;pfleg;16;4;Gesundheit
 47;kriminalitat;28;22;Öffentliche Verwaltung, Haushalt und Steuern
 21;umwelt;7;4;Umwelt und Klima
 16;umweltzon;14;5;Verkehr
-17;gutachterausschuss;8;1;Öffentliche Verwaltung, Haushalt und Steuern
+17;gutachterausschuss;8;1;Wohnen und Immobilien
 20;standort;19;5;Geographie und Stadtplanung
 24;parkraum;14;9;Verkehr
 11;xml;9;1;Sonstiges
 26;einwohnerzahl;32;22;Demographie
 14;afs;11;4;Sonstiges
 7;toilett;47;22;Gesundheit
-1;amt fur statist;80;4;Öffentliche Verwaltung, Haushalt und Steuern
+1;amt fur statist;80;4;Sonstiges
 146;orthophoto;26;12;Geographie und Stadtplanung
 161;josef orlopp strass;5;3;Geographie und Stadtplanung
 33;gesund;16;4;Gesundheit
@@ -296,7 +296,7 @@
 26;einwohn nach wohndau;21;10;Demographie
 18;todesursach;7;1;Gesundheit
 19;isu5;7;1;Sonstiges
-11;finanz;10;2;Sonstiges
+11;finanz;10;2;Öffentliche Verwaltung, Haushalt und Steuern
 7;basis dlm;11;1;Geographie und Stadtplanung
 8;bundestagswahl;12;3;Wahlen
 3;einwohnerinn und einwohn in berlin in lor planungsraum;38;9;Demographie
@@ -315,7 +315,7 @@
 35;bericht;7;2;Öffentliche Verwaltung, Haushalt und Steuern
 53;steglitz;8;6;Geographie und Stadtplanung
 18;ausland einwohnerinn;9;2;Demographie
-19;grw;15;6;Sonstiges
+19;grw;15;6;Wirtschaft
 155;flur plan;5;2;Geographie und Stadtplanung
 195;corona;178;139;Gesundheit
 30;parchwitz str;5;1;Geographie und Stadtplanung
@@ -379,7 +379,7 @@
 42;wfs dat;5;1;Geographie und Stadtplanung
 46;kreuzberg;5;2;Geographie und Stadtplanung
 49;bautrag bezirk;5;1;Sonstiges
-52;vorkaufsrecht;5;1;Verbraucherschutz
+52;vorkaufsrecht;5;1;Wohnen und Immobilien
 54;alt geschlecht;5;1;Demographie
 58;stellenbewert;5;1;Sonstiges
 59;tischtennisplatt;5;1;Sport und Erholung
@@ -395,5 +395,5 @@
 30;ubersichtskart;7;1;Geographie und Stadtplanung
 57;dtk;7;2;Sonstiges
 27;dtk25;8;1;Sonstiges
-37;3d dat;10;4;Sonstiges
+37;3d dat;10;4;Geographie und Stadtplanung
 18;prognos;11;1;Sonstiges

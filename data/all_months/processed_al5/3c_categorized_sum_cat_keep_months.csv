@@ -1,21 +1,21 @@
 119;Wohnen und Immobilien;25;11;2019-02
-25;Geographie und Stadtplanung;104;49;2019-02
+25;Geographie und Stadtplanung;120;53;2019-02
 26;Ver- und Entsorgung;22;13;2019-02
 47;Sport und Erholung;5;2;2019-02
 49;Verkehr;26;18;2019-02
 56;Bildung;14;11;2019-02
-23;Demographie;42;24;2019-02
-16;Sonstiges;98;31;2019-02
+23;Demographie;49;26;2019-02
 34;Kunst und Kultur;7;2;2019-02
+14;Sonstiges;75;25;2019-02
 2;Verbraucherschutz;17;9;2019-02
 141;Verkehr;40;29;2019-03
 156;Demographie;107;50;2019-03
-166;Sonstiges;75;32;2019-03
-34;Geographie und Stadtplanung;217;106;2019-03
+166;Geographie und Stadtplanung;235;116;2019-03
 45;Wohnen und Immobilien;24;11;2019-03
 53;Sport und Erholung;5;3;2019-03
 54;Kunst und Kultur;5;3;2019-03
 56;Jugend;5;4;2019-03
+26;Sonstiges;57;22;2019-03
 22;Ver- und Entsorgung;42;17;2019-03
 37;Öffentliche Verwaltung, Haushalt und Steuern;7;3;2019-03
 15;Wahlen;9;4;2019-03
@@ -25,12 +25,12 @@
 445;Gesundheit;6;5;2019-04
 72;Demographie;80;38;2019-04
 73;Umwelt und Klima;12;5;2019-04
-104;Verkehr;45;30;2019-04
-34;Sonstiges;80;30;2019-04
-41;Geographie und Stadtplanung;244;125;2019-04
+104;Verkehr;50;32;2019-04
+34;Sonstiges;70;27;2019-04
+41;Geographie und Stadtplanung;243;121;2019-04
 63;Bildung;16;10;2019-04
 92;Ver- und Entsorgung;19;12;2019-04
-25;Öffentliche Verwaltung, Haushalt und Steuern;8;7;2019-04
+37;Öffentliche Verwaltung, Haushalt und Steuern;14;12;2019-04
 20;Sport und Erholung;10;2;2019-04
 19;Wahlen;11;6;2019-04
 14;Arbeitsmarkt;12;4;2019-04
@@ -39,70 +39,69 @@
 238;Wahlen;52;36;2019-05
 38;Verkehr;42;29;2019-05
 40;Sport und Erholung;12;8;2019-05
-41;Sonstiges;63;39;2019-05
+41;Sonstiges;56;33;2019-05
 45;Ver- und Entsorgung;5;1;2019-05
 55;Umwelt und Klima;25;9;2019-05
 61;Wohnen und Immobilien;11;7;2019-05
-71;Geographie und Stadtplanung;289;122;2019-05
+71;Geographie und Stadtplanung;296;128;2019-05
 43;Bildung;7;4;2019-05
 57;Öffentliche Verwaltung, Haushalt und Steuern;9;6;2019-05
 213;Wohnen und Immobilien;42;28;2019-06
-96;Geographie und Stadtplanung;292;122;2019-06
+96;Geographie und Stadtplanung;308;130;2019-06
 30;Jugend;5;4;2019-06
-32;Sonstiges;143;33;2019-06
+32;Demographie;55;27;2019-06
 36;Verkehr;47;32;2019-06
 41;Tourismus;5;1;2019-06
 55;Ver- und Entsorgung;5;3;2019-06
-63;Demographie;50;26;2019-06
 69;Kunst und Kultur;6;5;2019-06
+22;Sonstiges;122;24;2019-06
 73;Protokolle und Beschlüsse;9;9;2019-06
 11;Umwelt und Klima;42;18;2019-06
 15;Arbeitsmarkt;14;8;2019-06
-157;Geographie und Stadtplanung;294;139;2019-07
+157;Geographie und Stadtplanung;308;149;2019-07
 34;Wohnen und Immobilien;22;13;2019-07
 38;Ver- und Entsorgung;5;1;2019-07
 40;Demographie;42;27;2019-07
 41;Arbeitsmarkt;5;1;2019-07
 47;Sport und Erholung;5;2;2019-07
-53;Verkehr;76;48;2019-07
+53;Verkehr;85;56;2019-07
 65;Umwelt und Klima;40;21;2019-07
-94;Protokolle und Beschlüsse;5;2;2019-07
-24;Sonstiges;160;47;2019-07
+94;Sonstiges;143;38;2019-07
 92;Bildung;6;6;2019-07
-93;Wirtschaft;9;8;2019-07
+15;Öffentliche Verwaltung, Haushalt und Steuern;8;1;2019-07
 167;Arbeitsmarkt;8;5;2019-08
-658;Geographie und Stadtplanung;321;141;2019-08
+658;Geographie und Stadtplanung;349;150;2019-08
 41;Gesundheit;5;2;2019-08
 43;Umwelt und Klima;58;19;2019-08
-47;Sonstiges;82;43;2019-08
-58;Demographie;51;23;2019-08
+53;Sonstiges;46;29;2019-08
+58;Demographie;56;25;2019-08
 95;Verkehr;69;36;2019-08
 29;Ver- und Entsorgung;16;5;2019-08
-36;Öffentliche Verwaltung, Haushalt und Steuern;6;1;2019-08
 38;Tourismus;6;5;2019-08
 57;Protokolle und Beschlüsse;6;5;2019-08
 73;Wahlen;6;4;2019-08
 89;Wohnen und Immobilien;32;12;2019-08
 103;Kunst und Kultur;6;4;2019-08
+15;Öffentliche Verwaltung, Haushalt und Steuern;9;4;2019-08
 28;Bildung;12;9;2019-08
-178;Geographie und Stadtplanung;300;180;2019-09
-37;Sonstiges;199;49;2019-09
+178;Geographie und Stadtplanung;311;184;2019-09
 39;Verkehr;98;48;2019-09
 42;Kunst und Kultur;11;5;2019-09
-49;Demographie;35;12;2019-09
+44;Sonstiges;178;40;2019-09
+49;Demographie;28;11;2019-09
 66;Jugend;5;5;2019-09
 210;Ver- und Entsorgung;25;7;2019-09
 79;Protokolle und Beschlüsse;6;6;2019-09
 19;Umwelt und Klima;21;10;2019-09
+23;Wohnen und Immobilien;14;4;2019-09
 33;Tourismus;7;5;2019-09
-50;Wohnen und Immobilien;7;3;2019-09
 16;Wahlen;8;2;2019-09
-17;Verbraucherschutz;12;5;2019-09
+27;Öffentliche Verwaltung, Haushalt und Steuern;22;10;2019-09
 34;Bildung;12;9;2019-09
 11;Gesundheit;13;5;2019-09
-150;Geographie und Stadtplanung;179;100;2019-10
+150;Geographie und Stadtplanung;192;107;2019-10
 210;Wohnen und Immobilien;49;26;2019-10
-29;Sonstiges;88;43;2019-10
+29;Sonstiges;75;36;2019-10
 31;Arbeitsmarkt;17;6;2019-10
 34;Umwelt und Klima;63;17;2019-10
 82;Öffentliche Verwaltung, Haushalt und Steuern;5;2;2019-10
@@ -113,9 +112,9 @@
 12;Bildung;16;5;2019-10
 278;Demographie;79;39;2019-11
 589;Sport und Erholung;16;9;2019-11
-625;Geographie und Stadtplanung;289;134;2019-11
-40;Sonstiges;95;54;2019-11
-41;Ver- und Entsorgung;5;1;2019-11
+625;Geographie und Stadtplanung;293;143;2019-11
+40;Sonstiges;85;41;2019-11
+41;Ver- und Entsorgung;11;5;2019-11
 52;Wirtschaft;5;2;2019-11
 56;Wohnen und Immobilien;26;14;2019-11
 67;Umwelt und Klima;13;4;2019-11
@@ -125,264 +124,57 @@
 44;Protokolle und Beschlüsse;6;3;2019-11
 53;Wahlen;13;6;2019-11
 25;Arbeitsmarkt;8;2;2019-11
-421;Geographie und Stadtplanung;195;107;2019-12
+421;Geographie und Stadtplanung;210;113;2019-12
 87;Wirtschaft;12;2;2019-12
-30;Sonstiges;82;31;2019-12
-37;Wohnen und Immobilien;44;20;2019-12
+30;Sonstiges;147;29;2019-12
+37;Wohnen und Immobilien;52;21;2019-12
 40;Protokolle und Beschlüsse;5;5;2019-12
 43;Gesundheit;19;10;2019-12
-53;Verbraucherschutz;5;2;2019-12
+53;Öffentliche Verwaltung, Haushalt und Steuern;17;11;2019-12
 167;Verkehr;56;36;2019-12
 28;Demographie;42;25;2019-12
-47;Öffentliche Verwaltung, Haushalt und Steuern;100;14;2019-12
 21;Umwelt und Klima;7;4;2019-12
 45;Bildung;9;6;2019-12
 4;Ver- und Entsorgung;25;4;2019-12
-146;Geographie und Stadtplanung;118;55;2020-01
+146;Geographie und Stadtplanung;110;50;2020-01
 249;Verkehr;89;48;2020-01
 33;Gesundheit;12;2;2020-01
 34;Demographie;122;65;2020-01
-35;Sonstiges;81;45;2020-01
+35;Sonstiges;71;43;2020-01
 37;Ver- und Entsorgung;18;8;2020-01
 63;Wahlen;17;8;2020-01
 27;Wohnen und Immobilien;25;16;2020-01
-62;Öffentliche Verwaltung, Haushalt und Steuern;6;5;2020-01
+62;Öffentliche Verwaltung, Haushalt und Steuern;24;12;2020-01
 66;Bildung;9;6;2020-01
 231;Wohnen und Immobilien;36;13;2020-02
-254;Geographie und Stadtplanung;247;126;2020-02
+254;Geographie und Stadtplanung;249;124;2020-02
 281;Demographie;118;48;2020-02
-40;Sonstiges;92;46;2020-02
-47;Wirtschaft;5;3;2020-02
+40;Sonstiges;70;39;2020-02
+43;Öffentliche Verwaltung, Haushalt und Steuern;37;10;2020-02
+47;Wirtschaft;20;9;2020-02
 75;Verkehr;67;34;2020-02
-83;Öffentliche Verwaltung, Haushalt und Steuern;32;7;2020-02
 90;Umwelt und Klima;5;3;2020-02
 241;Kunst und Kultur;5;4;2020-02
 69;Arbeitsmarkt;6;5;2020-02
 37;Gesundheit;9;5;2020-02
 5;Jugend;15;10;2020-02
-155;Geographie und Stadtplanung;138;60;2020-03
+155;Geographie und Stadtplanung;165;64;2020-03
 195;Gesundheit;135;93;2020-03
 31;Wohnen und Immobilien;63;22;2020-03
 37;Demographie;68;31;2020-03
 40;Verkehr;37;18;2020-03
 66;Umwelt und Klima;43;9;2020-03
 115;Sport und Erholung;5;2;2020-03
-29;Sonstiges;70;22;2020-03
+29;Sonstiges;43;18;2020-03
 38;Ver- und Entsorgung;6;2;2020-03
 208;Arbeitsmarkt;6;5;2020-03
 33;Kunst und Kultur;7;5;2020-03
 18;Jugend;8;8;2020-03
 69;Bildung;9;4;2020-03
 53;Protokolle und Beschlüsse;12;10;2020-03
-238;Geographie und Stadtplanung;204;78;2020-04
+238;Geographie und Stadtplanung;209;80;2020-04
 434;Arbeitsmarkt;10;5;2020-04
-34;Sonstiges;75;35;2020-04
-39;Jugend;5;4;2020-04
-45;Wohnen und Immobilien;35;18;2020-04
-47;Gesundheit;62;41;2020-04
-66;Tourismus;5;5;2020-04
-26;Demographie;47;30;2020-04
-23;Wirtschaft;7;3;2020-04
-24;Kunst und Kultur;7;2;2020-04
-40;Verkehr;53;28;2020-04
-46;Öffentliche Verwaltung, Haushalt und Steuern;7;4;2020-04
-81;Protokolle und Beschlüsse;7;6;2020-04
-33;Umwelt und Klima;21;4;2020-04
-5;Bildung;25;11;2020-04
-129;Geographie und Stadtplanung;370;169;2020-05
-252;Wohnen und Immobilien;24;5;2020-05
-100;Demographie;45;26;2020-05
-90;Verkehr;57;38;2020-05
-42;Sonstiges;56;25;2020-05
-43;Umwelt und Klima;23;4;2020-05
-45;Sozialleistungen;5;2;2020-05
-46;Wirtschaft;5;3;2020-05
-62;Jugend;22;7;2020-05
-63;Ver- und Entsorgung;11;3;2020-05
-92;Sport und Erholung;42;25;2020-05
-105;Bildung;26;12;2020-05
-70;Verbraucherschutz;6;5;2020-05
-11;Gesundheit;21;17;2020-05
-14;Öffentliche Verwaltung, Haushalt und Steuern;23;10;2020-05
-119;Wohnen und Immobilien;25;11;2019-02
-25;Geographie und Stadtplanung;104;49;2019-02
-26;Ver- und Entsorgung;22;13;2019-02
-47;Sport und Erholung;5;2;2019-02
-49;Verkehr;26;18;2019-02
-56;Bildung;14;11;2019-02
-23;Demographie;42;24;2019-02
-16;Sonstiges;98;31;2019-02
-34;Kunst und Kultur;7;2;2019-02
-2;Verbraucherschutz;17;9;2019-02
-141;Verkehr;40;29;2019-03
-156;Demographie;107;50;2019-03
-166;Sonstiges;75;32;2019-03
-34;Geographie und Stadtplanung;217;106;2019-03
-45;Wohnen und Immobilien;24;11;2019-03
-53;Sport und Erholung;5;3;2019-03
-54;Kunst und Kultur;5;3;2019-03
-56;Jugend;5;4;2019-03
-22;Ver- und Entsorgung;42;17;2019-03
-37;Öffentliche Verwaltung, Haushalt und Steuern;7;3;2019-03
-15;Wahlen;9;4;2019-03
-27;Bildung;14;11;2019-03
-118;Wohnen und Immobilien;28;17;2019-04
-230;Tourismus;18;8;2019-04
-445;Gesundheit;6;5;2019-04
-72;Demographie;80;38;2019-04
-73;Umwelt und Klima;12;5;2019-04
-104;Verkehr;45;30;2019-04
-34;Sonstiges;80;30;2019-04
-41;Geographie und Stadtplanung;244;125;2019-04
-63;Bildung;16;10;2019-04
-92;Ver- und Entsorgung;19;12;2019-04
-25;Öffentliche Verwaltung, Haushalt und Steuern;8;7;2019-04
-20;Sport und Erholung;10;2;2019-04
-19;Wahlen;11;6;2019-04
-14;Arbeitsmarkt;12;4;2019-04
-44;Protokolle und Beschlüsse;13;11;2019-04
-162;Demographie;209;124;2019-05
-238;Wahlen;52;36;2019-05
-38;Verkehr;42;29;2019-05
-40;Sport und Erholung;12;8;2019-05
-41;Sonstiges;63;39;2019-05
-45;Ver- und Entsorgung;5;1;2019-05
-55;Umwelt und Klima;25;9;2019-05
-61;Wohnen und Immobilien;11;7;2019-05
-71;Geographie und Stadtplanung;289;122;2019-05
-43;Bildung;7;4;2019-05
-57;Öffentliche Verwaltung, Haushalt und Steuern;9;6;2019-05
-213;Wohnen und Immobilien;42;28;2019-06
-96;Geographie und Stadtplanung;292;122;2019-06
-30;Jugend;5;4;2019-06
-32;Sonstiges;143;33;2019-06
-36;Verkehr;47;32;2019-06
-41;Tourismus;5;1;2019-06
-55;Ver- und Entsorgung;5;3;2019-06
-63;Demographie;50;26;2019-06
-69;Kunst und Kultur;6;5;2019-06
-73;Protokolle und Beschlüsse;9;9;2019-06
-11;Umwelt und Klima;42;18;2019-06
-15;Arbeitsmarkt;14;8;2019-06
-157;Geographie und Stadtplanung;294;139;2019-07
-34;Wohnen und Immobilien;22;13;2019-07
-38;Ver- und Entsorgung;5;1;2019-07
-40;Demographie;42;27;2019-07
-41;Arbeitsmarkt;5;1;2019-07
-47;Sport und Erholung;5;2;2019-07
-53;Verkehr;76;48;2019-07
-65;Umwelt und Klima;40;21;2019-07
-94;Protokolle und Beschlüsse;5;2;2019-07
-24;Sonstiges;160;47;2019-07
-92;Bildung;6;6;2019-07
-93;Wirtschaft;9;8;2019-07
-167;Arbeitsmarkt;8;5;2019-08
-658;Geographie und Stadtplanung;321;141;2019-08
-41;Gesundheit;5;2;2019-08
-43;Umwelt und Klima;58;19;2019-08
-47;Sonstiges;82;43;2019-08
-58;Demographie;51;23;2019-08
-95;Verkehr;69;36;2019-08
-29;Ver- und Entsorgung;16;5;2019-08
-36;Öffentliche Verwaltung, Haushalt und Steuern;6;1;2019-08
-38;Tourismus;6;5;2019-08
-57;Protokolle und Beschlüsse;6;5;2019-08
-73;Wahlen;6;4;2019-08
-89;Wohnen und Immobilien;32;12;2019-08
-103;Kunst und Kultur;6;4;2019-08
-28;Bildung;12;9;2019-08
-178;Geographie und Stadtplanung;300;180;2019-09
-37;Sonstiges;199;49;2019-09
-39;Verkehr;98;48;2019-09
-42;Kunst und Kultur;11;5;2019-09
-49;Demographie;35;12;2019-09
-66;Jugend;5;5;2019-09
-210;Ver- und Entsorgung;25;7;2019-09
-79;Protokolle und Beschlüsse;6;6;2019-09
-19;Umwelt und Klima;21;10;2019-09
-33;Tourismus;7;5;2019-09
-50;Wohnen und Immobilien;7;3;2019-09
-16;Wahlen;8;2;2019-09
-17;Verbraucherschutz;12;5;2019-09
-34;Bildung;12;9;2019-09
-11;Gesundheit;13;5;2019-09
-150;Geographie und Stadtplanung;179;100;2019-10
-210;Wohnen und Immobilien;49;26;2019-10
-29;Sonstiges;88;43;2019-10
-31;Arbeitsmarkt;17;6;2019-10
-34;Umwelt und Klima;63;17;2019-10
-82;Öffentliche Verwaltung, Haushalt und Steuern;5;2;2019-10
-100;Verkehr;44;31;2019-10
-173;Protokolle und Beschlüsse;5;4;2019-10
-21;Demographie;57;32;2019-10
-28;Sport und Erholung;7;5;2019-10
-12;Bildung;16;5;2019-10
-278;Demographie;79;39;2019-11
-589;Sport und Erholung;16;9;2019-11
-625;Geographie und Stadtplanung;289;134;2019-11
-40;Sonstiges;95;54;2019-11
-41;Ver- und Entsorgung;5;1;2019-11
-52;Wirtschaft;5;2;2019-11
-56;Wohnen und Immobilien;26;14;2019-11
-67;Umwelt und Klima;13;4;2019-11
-94;Jugend;5;5;2019-11
-27;Bildung;12;9;2019-11
-37;Verkehr;69;39;2019-11
-44;Protokolle und Beschlüsse;6;3;2019-11
-53;Wahlen;13;6;2019-11
-25;Arbeitsmarkt;8;2;2019-11
-421;Geographie und Stadtplanung;195;107;2019-12
-87;Wirtschaft;12;2;2019-12
-30;Sonstiges;82;31;2019-12
-37;Wohnen und Immobilien;44;20;2019-12
-40;Protokolle und Beschlüsse;5;5;2019-12
-43;Gesundheit;19;10;2019-12
-53;Verbraucherschutz;5;2;2019-12
-167;Verkehr;56;36;2019-12
-28;Demographie;42;25;2019-12
-47;Öffentliche Verwaltung, Haushalt und Steuern;100;14;2019-12
-21;Umwelt und Klima;7;4;2019-12
-45;Bildung;9;6;2019-12
-4;Ver- und Entsorgung;25;4;2019-12
-146;Geographie und Stadtplanung;118;55;2020-01
-249;Verkehr;89;48;2020-01
-33;Gesundheit;12;2;2020-01
-34;Demographie;122;65;2020-01
-35;Sonstiges;81;45;2020-01
-37;Ver- und Entsorgung;18;8;2020-01
-63;Wahlen;17;8;2020-01
-27;Wohnen und Immobilien;25;16;2020-01
-62;Öffentliche Verwaltung, Haushalt und Steuern;6;5;2020-01
-66;Bildung;9;6;2020-01
-231;Wohnen und Immobilien;36;13;2020-02
-254;Geographie und Stadtplanung;247;126;2020-02
-281;Demographie;118;48;2020-02
-40;Sonstiges;92;46;2020-02
-47;Wirtschaft;5;3;2020-02
-75;Verkehr;67;34;2020-02
-83;Öffentliche Verwaltung, Haushalt und Steuern;32;7;2020-02
-90;Umwelt und Klima;5;3;2020-02
-241;Kunst und Kultur;5;4;2020-02
-69;Arbeitsmarkt;6;5;2020-02
-37;Gesundheit;9;5;2020-02
-5;Jugend;15;10;2020-02
-155;Geographie und Stadtplanung;138;60;2020-03
-195;Gesundheit;135;93;2020-03
-31;Wohnen und Immobilien;63;22;2020-03
-37;Demographie;68;31;2020-03
-40;Verkehr;37;18;2020-03
-66;Umwelt und Klima;43;9;2020-03
-115;Sport und Erholung;5;2;2020-03
-29;Sonstiges;70;22;2020-03
-38;Ver- und Entsorgung;6;2;2020-03
-208;Arbeitsmarkt;6;5;2020-03
-33;Kunst und Kultur;7;5;2020-03
-18;Jugend;8;8;2020-03
-69;Bildung;9;4;2020-03
-53;Protokolle und Beschlüsse;12;10;2020-03
-238;Geographie und Stadtplanung;204;78;2020-04
-434;Arbeitsmarkt;10;5;2020-04
-34;Sonstiges;75;35;2020-04
+34;Sonstiges;70;33;2020-04
 39;Jugend;5;4;2020-04
 45;Wohnen und Immobilien;35;18;2020-04
 47;Gesundheit;62;41;2020-04

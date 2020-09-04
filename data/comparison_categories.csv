@@ -1,0 +1,401 @@
+;term;final;diff
+1;lastprofil;Ver- und Entsorgung;1
+7;katast;Geographie und Stadtplanung;1
+32;lehr;Bildung;1
+50;statist block;Demographie;1
+56;lebenswelt;Geographie und Stadtplanung;1
+269;block;Geographie und Stadtplanung;1
+317;fisbrok;Geographie und Stadtplanung;1
+319;lor ausland;Geographie und Stadtplanung;1
+336;berlinpass;Sport und Erholung;1
+350;park;Geographie und Stadtplanung;1
+374;plz;Geographie und Stadtplanung;1
+402;gemeinschaft mit korperschaftsstatus;Sonstiges;1
+720;accommodation;Tourismus;1
+723;umweltatlas;Umwelt und Klima;1
+763;feinstaub;Umwelt und Klima;1
+766;flughaf;Verkehr;1
+772;grunflach;Geographie und Stadtplanung;1
+780;bsr;Ver- und Entsorgung;1
+821;polizei;Ã–ffentliche Verwaltung;1
+880;unterkunft;Tourismus;1
+881;strassenverzeichnis;Geographie und Stadtplanung;1
+945;shap;Geographie und Stadtplanung;1
+1160;europawahl 2019;Wahlen;1
+1181;solar;Ver- und Entsorgung;1
+1188;larmkart;Umwelt und Klima;1
+1191;unfall;Verkehr;1
+1194;bik;Sonstiges;1
+1251;shapefil;Geographie und Stadtplanung;1
+1354;liegenschaftskatast;Geographie und Stadtplanung;1
+1515;adress inspir;Geographie und Stadtplanung;1
+1586;opnv;Verkehr;1
+1800;digital farbig orthophoto 2018 dop20rgb;Geographie und Stadtplanung;1
+2007;geothermi;Ver- und Entsorgung;1
+2014;zahlstell;Verkehr;1
+2030;biotop;Umwelt und Klima;1
+2035;umsetz or transparent or liegenschaftspolit;Sonstiges;1
+2038;biotop und artenschutz biotop und artenschutz;Umwelt und Klima;1
+2101;open data;Ã–ffentliche Verwaltung;1
+2134;geltungsbereich;Sonstiges;1
+2156;tankstell;Verkehr;1
+2387;verdien gart landschaftsbau;Arbeitsmarkt;1
+2418;strat larmkart 2017;Umwelt und Klima;1
+2419;dop or atom;Geographie und Stadtplanung;1
+2457;standardlastprofil;Ver- und Entsorgung;1
+2459;utm;Sonstiges;1
+2467;bezirkskart spandau;Geographie und Stadtplanung;1
+2469;atlas;Geographie und Stadtplanung;1
+2560;luftbild or atom;Geographie und Stadtplanung;1
+2853;trinkbrunn im bezirk;Geographie und Stadtplanung;1
+2854;kml;Geographie und Stadtplanung;1
+2856;sudwestkorso;Geographie und Stadtplanung;1
+2926;baumbestand;Geographie und Stadtplanung;1
+2948;wohnatlas;Wohnen und Immobilien;1
+3143;feuerwehr;Ã–ffentliche Verwaltung;1
+3352;personalmanagementbericht;Ã–ffentliche Verwaltung;1
+3378;strassenbefahr 2014;Geographie und Stadtplanung;1
+3397;diversity;Sonstiges;1
+3424;sozial;Sonstiges;1
+3562;berlin mau;Geographie und Stadtplanung;1
+3725;berlin wasserbetrieb;Ver- und Entsorgung;1
+3726;wast;Sonstiges;1
+3727;ostbahnhof wunsdorf waldstadt;Sonstiges;1
+3728;sozialatlas;Demographie;1
+3731;planungsraum einwohn;Demographie;1
+3732;gewerb;Wirtschaft;1
+3773;wifi;Ver- und Entsorgung;1
+3791;mitt;Sonstiges;1
+3868;platz;Geographie und Stadtplanung;1
+3869;lod1;Geographie und Stadtplanung;1
+3870;versiegel;Umwelt und Klima;1
+4158;gml;Geographie und Stadtplanung;1
+4302;umweltzon;Verkehr;1
+4304;gutachterausschuss;Wohnen und Immobilien;1
+4316;standort;Geographie und Stadtplanung;1
+4339;xml;Sonstiges;1
+4413;afs;Sonstiges;1
+4585;amt fur statist;Sonstiges;1
+4787;finanz;Ã–ffentliche Verwaltung;1
+5052;geodat luftbild;Geographie und Stadtplanung;1
+5068;mindestlohn;Arbeitsmarkt;1
+5072;bericht;Ã–ffentliche Verwaltung;1
+5239;grw;Wirtschaft;1
+5374;geodat grundwass;Geographie und Stadtplanung;1
+5420;vermess;Geographie und Stadtplanung;1
+5422;freistell;Sonstiges;1
+5731;hamburg bahnhof orthofoto;Geographie und Stadtplanung;1
+5749;gehweg;Geographie und Stadtplanung;1
+6690;c mietenwog bln;Sonstiges;1
+6896;grundwassergleich;Umwelt und Klima;1
+6970;bautrag bezirk;Sonstiges;1
+6976;vorkaufsrecht;Wohnen und Immobilien;1
+6988;stellenbewert;Sonstiges;1
+6999;flurstucksgrenz;Geographie und Stadtplanung;1
+7010;restaurantbesuch;Sport und Erholung;1
+7037;rast;Sonstiges;1
+7044;dtk;Sonstiges;1
+7162;3d dat;Geographie und Stadtplanung;1
+2;verkauv erbbaubelastet grundstuck an den erbbauberechtigt;Wohnen und Immobilien;0
+3;grundkart;Geographie und Stadtplanung;0
+4;wasserbetrieb;Ver- und Entsorgung;0
+12;moabit;Geographie und Stadtplanung;0
+13;wochenmarkt berlin;Sport und Erholung;0
+14;fahrrad;Verkehr;0
+33;miet;Wohnen und Immobilien;0
+42;nam;Demographie;0
+53;rbs block;Geographie und Stadtplanung;0
+58;kultur;Kunst und Kultur;0
+59;einkomm;Demographie;0
+72;alkis;Geographie und Stadtplanung;0
+90;lor;Geographie und Stadtplanung;0
+107;verkehr;Verkehr;0
+123;bezirk;Geographie und Stadtplanung;0
+141;schul;Bildung;0
+155;alleinerzieh;Demographie;0
+157;gtfs;Sonstiges;0
+174;gebaud;Wohnen und Immobilien;0
+188;strass;Geographie und Stadtplanung;0
+204;vbb;Verkehr;0
+219;flurkart;Geographie und Stadtplanung;0
+232;geodat;Sonstiges;0
+236;rbs;Geographie und Stadtplanung;0
+253;adress;Geographie und Stadtplanung;0
+267;csv;Sonstiges;0
+279;fairtrad;Verbraucherschutz;0
+280;energieverbrauch;Ver- und Entsorgung;0
+285;geometri;Sonstiges;0
+290;vornam;Demographie;0
+305;shp;Sonstiges;0
+314;subway;Verkehr;0
+315;einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2017;Demographie;0
+320;stadtteil;Geographie und Stadtplanung;0
+337;denkmal;Kunst und Kultur;0
+340;kita;Jugend;0
+360;baum;Geographie und Stadtplanung;0
+371;bebauungssplan;Geographie und Stadtplanung;0
+387;zaa;Sonstiges;0
+388;ortsteil;Geographie und Stadtplanung;0
+421;webatlas;Sonstiges;0
+422;wms;Sonstiges;0
+434;wfs;Sonstiges;0
+442;haushalt;Ã–ffentliche Verwaltung;0
+449;u bahn;Verkehr;0
+451;migrationshintergrund;Demographie;0
+453;2017;Sonstiges;0
+455;flachennutzungsplan;Geographie und Stadtplanung;0
+456;einwohnerinn und einwohn in den ortsteil berlin;Demographie;0
+458;lor planungsraum;Geographie und Stadtplanung;0
+479;einwohnerinn und einwohn in berlin in lor planungsraum am 31 12 2011;Demographie;0
+480;wahl;Wahlen;0
+499;luftbild;Geographie und Stadtplanung;0
+511;bodenrichtwert;Wohnen und Immobilien;0
+521;wohndau;Wohnen und Immobilien;0
+524;bvg;Verkehr;0
+626;bevolker;Demographie;0
+631;energi;Ver- und Entsorgung;0
+636;einwohn;Demographie;0
+718;immobili;Wohnen und Immobilien;0
+721;charitÃ©;Gesundheit;0
+722;list der haufig vornam 2018;Demographie;0
+727;mobilitat;Verkehr;0
+761;flach;Sonstiges;0
+765;alkis gebaud;Geographie und Stadtplanung;0
+767;inspir;Sonstiges;0
+768;s bahn;Verkehr;0
+771;grundschul reinickendorf;Bildung;0
+779;haufig vornam 2018;Demographie;0
+806;topograf;Geographie und Stadtplanung;0
+812;hotel;Tourismus;0
+838;dgm;Geographie und Stadtplanung;0
+877;einschulbereich;Bildung;0
+879;lor kart;Geographie und Stadtplanung;0
+884;grenz;Geographie und Stadtplanung;0
+886;flurstuck;Geographie und Stadtplanung;0
+899;einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum;Demographie;0
+901;verwaltungsvorschrift;Ã–ffentliche Verwaltung;0
+908;radfahr;Verkehr;0
+938;lichtenberg;Geographie und Stadtplanung;0
+940;einwohn berlin in lor planungsraum;Demographie;0
+941;poll;Sonstiges;0
+947;sport;Sport und Erholung;0
+951;wohnlag;Wohnen und Immobilien;0
+955;hauskoordinat;Geographie und Stadtplanung;0
+957;bod;Sonstiges;0
+976;api;Sonstiges;0
+979;europawahl;Wahlen;0
+983;flachennutz;Geographie und Stadtplanung;0
+986;arbeitslos;Arbeitsmarkt;0
+1049;senatsbeschluss;Protokolle und BeschlÃ¼sse;0
+1121;planungsraum;Geographie und Stadtplanung;0
+1159;wahllokal 2019;Wahlen;0
+1176;parking;Verkehr;0
+1177;marathon;Sport und Erholung;0
+1178;sgb ii;Sonstiges;0
+1190;baufertigstell;Wohnen und Immobilien;0
+1193;erstnam;Demographie;0
+1195;vornam 2018;Demographie;0
+1196;einwohnerinn und einwohn;Demographie;0
+1212;geologi;Umwelt und Klima;0
+1214;radrout;Verkehr;0
+1218;mietspiegel;Wohnen und Immobilien;0
+1221;lod2;Sonstiges;0
+1234;seniorensport;Sport und Erholung;0
+1272;fluchtling;Demographie;0
+1287;strassenbefahr;Geographie und Stadtplanung;0
+1292;wahlbezirk;Wahlen;0
+1293;postleitzahl;Geographie und Stadtplanung;0
+1320;wahllokal;Wahlen;0
+1333;planungsraum lor;Geographie und Stadtplanung;0
+1334;senior;Demographie;0
+1351;atkis;Geographie und Stadtplanung;0
+1356;pump;Geographie und Stadtplanung;0
+1407;wass;Umwelt und Klima;0
+1564;mietendeckel;Wohnen und Immobilien;0
+1568;grunanlag;Geographie und Stadtplanung;0
+1570;moabit west;Geographie und Stadtplanung;0
+1584;digital orthophotos;Geographie und Stadtplanung;0
+1589;trinkbrunn;Geographie und Stadtplanung;0
+1592;tourismus nachhalt;Tourismus;0
+1629;kart;Geographie und Stadtplanung;0
+1636;haltestell;Verkehr;0
+1664;rad;Verkehr;0
+1665;wohnung;Wohnen und Immobilien;0
+1750;lor shp;Geographie und Stadtplanung;0
+1799;rbs adress;Geographie und Stadtplanung;0
+1835;gewass;Umwelt und Klima;0
+1839;lor einwohn;Geographie und Stadtplanung;0
+1840;dop20rgb;Geographie und Stadtplanung;0
+1841;ozon;Umwelt und Klima;0
+1951;grunanlagenbestand;Geographie und Stadtplanung;0
+1987;bezirksamt friedrichshain kreuzberg von berlin vermess;Geographie und Stadtplanung;0
+1988;stadtbezirk;Geographie und Stadtplanung;0
+2006;gis;Geographie und Stadtplanung;0
+2008;einwohnerdicht;Demographie;0
+2010;arbeitslosenquot;Arbeitsmarkt;0
+2011;weihnachtsmarkt;Sport und Erholung;0
+2031;liegenschaftskart;Geographie und Stadtplanung;0
+2033;strass 52a;Geographie und Stadtplanung;0
+2034;rbs bezirk;Geographie und Stadtplanung;0
+2041;berlin;Geographie und Stadtplanung;0
+2043;fahrplan;Verkehr;0
+2045;grundwass;Umwelt und Klima;0
+2063;vermess at ba fk berlin de;Geographie und Stadtplanung;0
+2077;transport;Verkehr;0
+2078;dop;Sonstiges;0
+2100;parkplatz;Verkehr;0
+2408;neukolln;Geographie und Stadtplanung;0
+2412;krankenhaus;Gesundheit;0
+2420;friedrichshain;Geographie und Stadtplanung;0
+2425;migration;Demographie;0
+2442;hoh;Sonstiges;0
+2453;vbb gtfs;Verkehr;0
+2458;larmbelast;Umwelt und Klima;0
+2470;tourismus;Tourismus;0
+2538;ausland;Sonstiges;0
+2540;friedrichshain kreuzberg;Geographie und Stadtplanung;0
+2558;brandenburg;Geographie und Stadtplanung;0
+2614;gemark;Sonstiges;0
+2619;altlast;Ver- und Entsorgung;0
+2666;temperatur;Umwelt und Klima;0
+2855;verkehr wms;Verkehr;0
+2857;religion;Kunst und Kultur;0
+2858;wikipedia;Sonstiges;0
+2868;sozialstrukturatlas;Demographie;0
+2884;oberflachenmodell;Geographie und Stadtplanung;0
+2904;hydrant;Ver- und Entsorgung;0
+2906;strassennam;Geographie und Stadtplanung;0
+2908;bezirk mitt;Geographie und Stadtplanung;0
+2923;geburt;Demographie;0
+2929;bibliothek;Kunst und Kultur;0
+2930;strassennetz;Verkehr;0
+2945;klima;Umwelt und Klima;0
+2946;strom;Ver- und Entsorgung;0
+3054;einwohnerinn und einwohn in berlin in lor planungsraum wohndau ausland wohndau;Demographie;0
+3142;zugriff;Sonstiges;0
+3301;wohnungsmiet;Wohnen und Immobilien;0
+3302;echtzeit;Sonstiges;0
+3303;arbeitslosenanteil;Arbeitsmarkt;0
+3304;beschaftigt;Arbeitsmarkt;0
+3308;pankow;Geographie und Stadtplanung;0
+3329;bezirksgrenz;Geographie und Stadtplanung;0
+3335;parkraumbewirtschaft;Geographie und Stadtplanung;0
+3396;naturschutz;Umwelt und Klima;0
+3420;einwohn in den ortsteil;Demographie;0
+3447;larm;Sonstiges;0
+3459;mietentwickl berlin;Wohnen und Immobilien;0
+3496;luft;Umwelt und Klima;0
+3603;volkshochschul;Bildung;0
+3703;dynam index 2019;Demographie;0
+3729;marzahn hellersdorf;Geographie und Stadtplanung;0
+3730;verlauf der berlin mau;Geographie und Stadtplanung;0
+3760;spandau;Geographie und Stadtplanung;0
+3772;kindergart;Bildung;0
+3787;alt;Demographie;0
+3805;fahrradstand;Verkehr;0
+3826;2009;Sonstiges;0
+3889;wohn;Wohnen und Immobilien;0
+3970;json;Sonstiges;0
+3971;einwohnerinn;Demographie;0
+3999;bod wms;Geographie und Stadtplanung;0
+4149;breitband;Wirtschaft;0
+4153;lichterfeld histor kart;Geographie und Stadtplanung;0
+4195;pfleg;Gesundheit;0
+4225;kriminalitat;Ã–ffentliche Verwaltung;0
+4254;umwelt;Umwelt und Klima;0
+4323;parkraum;Verkehr;0
+4340;einwohnerzahl;Demographie;0
+4505;toilett;Gesundheit;0
+4588;orthophoto;Geographie und Stadtplanung;0
+4591;josef orlopp strass;Geographie und Stadtplanung;0
+4611;gesund;Gesundheit;0
+4613;einwohnerzahl von gesamtberlin;Demographie;0
+4618;lastgang;Sonstiges;0
+4621;besucherzahl;Sonstiges;0
+4626;radweg;Verkehr;0
+4628;statisch gebiet;Demographie;0
+4648;einwohnerinn und einwohn in berlin in lor planungsraum wohnlag wohndau herkunft ausland migrationshintergrund;Demographie;0
+4650;einwohn nach wohndau;Demographie;0
+4680;todesursach;Gesundheit;0
+4681;isu5;Sonstiges;0
+4806;basis dlm;Geographie und Stadtplanung;0
+4820;bundestagswahl;Wahlen;0
+4883;einwohnerinn und einwohn in berlin in lor planungsraum;Demographie;0
+4886;bahn;Verkehr;0
+4939;adlershof;Geographie und Stadtplanung;0
+4990;2019;Sonstiges;0
+5012;alkis berlin;Geographie und Stadtplanung;0
+5047;haf;Sonstiges;0
+5051;stolperstein;Kunst und Kultur;0
+5053;wohnlagenzuordn;Wohnen und Immobilien;0
+5062;stadtplan;Geographie und Stadtplanung;0
+5070;steglitz zehlendorf;Geographie und Stadtplanung;0
+5071;reinickendorf;Geographie und Stadtplanung;0
+5110;steglitz;Geographie und Stadtplanung;0
+5111;ausland einwohnerinn;Demographie;0
+5364;flur plan;Geographie und Stadtplanung;0
+5365;corona;Gesundheit;0
+5370;parchwitz str;Geographie und Stadtplanung;0
+5375;wass wms wfs;Geographie und Stadtplanung;0
+5381;10553 berlin;Geographie und Stadtplanung;0
+5386;bevolkerungszahl;Demographie;0
+5391;wohnbauflach;Wohnen und Immobilien;0
+5401;ladesaul;Verkehr;0
+5409;covid 19;Gesundheit;0
+5414;verkehrslenk;Verkehr;0
+5421;geologi wms wfs;Umwelt und Klima;0
+5423;solaranlag;Ver- und Entsorgung;0
+5474;naturdenkmal;Kunst und Kultur;0
+5507;einwohn lor planungsraum;Demographie;0
+5550;servic;Sonstiges;0
+5551;student;Bildung;0
+5552;coronavirus;Gesundheit;0
+5738;crim;Sonstiges;0
+5792;histor kart;Geographie und Stadtplanung;0
+5796;list;Sonstiges;0
+5853;denkmallist;Kunst und Kultur;0
+5854;aktuell einwohnerzahl;Demographie;0
+6172;carsharing;Verkehr;0
+6180;locker bei kneip;Sonstiges;0
+6181;wald;Umwelt und Klima;0
+6182;lor planungsraum am 31 12 2008;Geographie und Stadtplanung;0
+6183;soforthilf ii;Sozialleistungen;0
+6206;grundschul;Bildung;0
+6222;grundstuck;Wohnen und Immobilien;0
+6223;entsorg;Ver- und Entsorgung;0
+6224;ba fk berlin de;Sonstiges;0
+6238;verbraucherpreis;Verbraucherschutz;0
+6257;sozialstruktur;Demographie;0
+6258;brunn;Geographie und Stadtplanung;0
+6267;emission;Umwelt und Klima;0
+6303;grun;Geographie und Stadtplanung;0
+6306;berlin de;Sonstiges;0
+6307;trodelmarkt;Sport und Erholung;0
+6352;erdwarm;Umwelt und Klima;0
+6411;land;Geographie und Stadtplanung;0
+6460;kind;Jugend;0
+6541;spielplatz;Sport und Erholung;0
+6570;c berlin gewass;Umwelt und Klima;0
+6574;herkunft;Demographie;0
+6575;arbeit;Arbeitsmarkt;0
+6594;einschul;Bildung;0
+6595;3d;Sonstiges;0
+6601;abfall;Ver- und Entsorgung;0
+6602;c statist gebiet;Demographie;0
+6614;warm;Sonstiges;0
+6627;c offent gesundheitsdien;Gesundheit;0
+6633;mensch;Sonstiges;0
+6634;c lor bezirksnumm;Geographie und Stadtplanung;0
+6962;wfs dat;Geographie und Stadtplanung;0
+6967;kreuzberg;Geographie und Stadtplanung;0
+6977;alt geschlecht;Demographie;0
+6989;tischtennisplatt;Sport und Erholung;0
+7000;population;Demographie;0
+7011;einwohn 2019;Demographie;0
+7025;covid;Gesundheit;0
+7026;klimatolog kenndat;Umwelt und Klima;0
+7031;tegel;Geographie und Stadtplanung;0
+7036;21 07 2020;Sonstiges;0
+7038;ubersichtskart;Geographie und Stadtplanung;0
+7079;dtk25;Sonstiges;0
+7171;prognos;Sonstiges;0
