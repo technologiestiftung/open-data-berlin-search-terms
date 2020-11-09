@@ -13433,3 +13433,1855 @@ Unnamed: 0,term_stem,impressions,visits,month
 663,dom,1,1,2020-07
 664,wohnungsbestand,1,1,2020-07
 665,kfz,1,1,2020-07
+1,friedrichshain kreuzberg,132,35,2020-08
+2,vermess at ba fk berlin de,112,16,2020-08
+3,verkehr,43,9,2020-08
+4,mietspiegel,30,3,2020-08
+5,corona,32,9,2020-08
+6,api,29,2,2020-08
+7,covid 19,46,8,2020-08
+8,atkis,43,2,2020-08
+9,bezirk,38,12,2020-08
+10,einwohn,23,7,2020-08
+11,wohnlag,22,3,2020-08
+12,park,22,4,2020-08
+13,list,20,1,2020-08
+14,bod,31,3,2020-08
+15,einzugsbereich,18,1,2020-08
+16,rbs,22,8,2020-08
+17,mss,15,1,2020-08
+18,strass,15,3,2020-08
+19,opnv,14,1,2020-08
+20,vornam,17,6,2020-08
+21,lor,19,7,2020-08
+22,strassenverzeichnis,22,4,2020-08
+23,polizei,18,4,2020-08
+24,adress,22,7,2020-08
+25,vbb,13,5,2020-08
+26,senatsverwalt jugend or kostensatz fachleistungsstund,12,1,2020-08
+27,stadtplan,24,7,2020-08
+28,wass,19,8,2020-08
+29,einwohnerzahl,11,2,2020-08
+30,schul,21,6,2020-08
+31,grenz,17,5,2020-08
+32,miet,13,5,2020-08
+33,postleitzahl,10,1,2020-08
+34,gtfs,11,5,2020-08
+35,grun und freiflachenbestand,9,1,2020-08
+36,einkomm,9,3,2020-08
+37,hohenfestpunkt,9,2,2020-08
+38,berlin wasserbetrieb,11,2,2020-08
+39,jugend,13,2,2020-08
+40,dashboard,11,2,2020-08
+41,ortsteil,20,7,2020-08
+42,asylblg,14,2,2020-08
+43,flurstuck,14,4,2020-08
+44,umweltatlas,8,1,2020-08
+45,gas,8,1,2020-08
+46,zip shp,8,1,2020-08
+47,flachennutzungsplan,8,1,2020-08
+48,kirch,8,2,2020-08
+49,gewass,7,2,2020-08
+50,stadtplan 1990,7,1,2020-08
+51,luftqualitat,7,2,2020-08
+52,geojson,7,1,2020-08
+53,gebiet,8,2,2020-08
+54,fahrrad,7,2,2020-08
+55,arzt,7,1,2020-08
+56,erwerbstat,7,1,2020-08
+57,grundwass,9,3,2020-08
+58,oberflach,7,2,2020-08
+59,gpx,7,1,2020-08
+60,shapefil,6,3,2020-08
+61,dgm,6,2,2020-08
+62,basis dlm,6,1,2020-08
+63,bvg,8,2,2020-08
+64,migrationshintergrund,6,1,2020-08
+65,luftbild,7,4,2020-08
+66,strassenverzeichnis lichtenberg,6,1,2020-08
+67,einkomm bezirk,6,1,2020-08
+68,plz,6,1,2020-08
+69,bod wfs,7,2,2020-08
+70,geobasisdat,6,1,2020-08
+71,versiegel,6,1,2020-08
+72,geschossflachenzahl,6,2,2020-08
+73,grunflach,6,1,2020-08
+74,plr,6,1,2020-08
+75,kart,7,2,2020-08
+76,spielplatz,10,4,2020-08
+77,neukolln,6,2,2020-08
+78,kita,6,2,2020-08
+79,e recruiting,12,3,2020-08
+80,haltestell,6,4,2020-08
+81,baum,6,2,2020-08
+82,larm,5,3,2020-08
+83,stadtplan gebiet,5,1,2020-08
+84,prozess,5,1,2020-08
+85,inspir,5,1,2020-08
+86,statbezirksgrenz,5,1,2020-08
+87,schwarzrotgold,5,1,2020-08
+88,tourismus,5,1,2020-08
+89,suchbegriff,5,2,2020-08
+90,wasserqualitat,5,1,2020-08
+91,stadtteil,10,6,2020-08
+92,babelsberg strass,5,1,2020-08
+93,alkis,12,7,2020-08
+94,planungsraum,5,1,2020-08
+95,feuerwehr,5,2,2020-08
+96,lichtenberg,7,3,2020-08
+97,jugendarbeitslos,5,1,2020-08
+98,wahl 2013,5,1,2020-08
+99,radverkehr,5,2,2020-08
+100,citygml,5,2,2020-08
+101,feiertag,4,1,2020-08
+102,stadtmodell,4,2,2020-08
+103,ozon,4,2,2020-08
+104,gebaud,6,4,2020-08
+105,badegewass,4,1,2020-08
+106,feuerwerk,5,2,2020-08
+107,niederschonhaus,4,1,2020-08
+108,senior,4,1,2020-08
+109,temperatur,4,1,2020-08
+110,alt,4,2,2020-08
+111,krankenhaus,4,1,2020-08
+112,abfall,5,2,2020-08
+113,grz,4,2,2020-08
+114,kiez,5,4,2020-08
+115,einwohnerinn und einwohn in ortsteil,4,1,2020-08
+116,dtk,4,1,2020-08
+117,behindertenparkplatz,4,1,2020-08
+118,stop,4,1,2020-08
+119,erzieh,4,1,2020-08
+120,einwohnerinn und einwohn in den lor planungsraum am 31 12 2019,4,1,2020-08
+121,pichelsdorf,4,1,2020-08
+122,reuterplatz,4,1,2020-08
+123,lieferservic chines,4,1,2020-08
+124,viertel,6,5,2020-08
+125,klima,4,1,2020-08
+126,kriminalitat,4,2,2020-08
+127,insolvenz,5,2,2020-08
+128,tegel,4,1,2020-08
+129,sanier,4,1,2020-08
+130,dicht,4,1,2020-08
+131,rad,4,3,2020-08
+132,brunn,4,2,2020-08
+133,2020,4,1,2020-08
+134,berlin university allianc,4,1,2020-08
+135,liniennetz,4,2,2020-08
+136,kurfurstendamm,4,1,2020-08
+137,gastronomi,4,1,2020-08
+138,dop,5,3,2020-08
+139,emmiss,4,1,2020-08
+140,bildungsstand bezirk,4,1,2020-08
+141,geolog kart,4,1,2020-08
+142,flugkart,4,1,2020-08
+143,technologiestift,4,1,2020-08
+144,coworking,4,2,2020-08
+145,einwohnerinn und einwohn in den ortsteil berlin am 31 12 2016,4,1,2020-08
+146,wms dop,4,1,2020-08
+147,parkflach,4,1,2020-08
+148,netz,3,1,2020-08
+149,bergbau,3,2,2020-08
+150,building,3,2,2020-08
+151,wahl,4,2,2020-08
+152,wald,3,1,2020-08
+153,unfall,6,2,2020-08
+154,einkomm bezirksregion,3,1,2020-08
+155,pandemieplan,3,1,2020-08
+156,topographi,3,1,2020-08
+157,saub berlin,3,1,2020-08
+158,arbeitslosengeld bezieh 2019 statist,3,1,2020-08
+159,2580,3,1,2020-08
+160,dach,4,3,2020-08
+161,liegenschafskatast,3,1,2020-08
+162,2019,2,1,2020-08
+163,mitt,3,2,2020-08
+164,stadtplan 1990,3,1,2020-08
+165,naturschutz,3,1,2020-08
+166,adress,3,2,2020-08
+167,flurkart auszug,3,1,2020-08
+168,liegenschaftskart,4,2,2020-08
+169,covid,3,3,2020-08
+170,tjfbg ggmbh,3,1,2020-08
+171,mau,3,1,2020-08
+172,feu,3,2,2020-08
+173,bibliothek,3,1,2020-08
+174,bezirksgrenz,5,3,2020-08
+175,blohmstrass,3,1,2020-08
+176,hohenlini,3,1,2020-08
+177,rundfunk,3,1,2020-08
+178,stadtplan 19888 bernau or strass or kopenhag or strass,3,1,2020-08
+179,berlin blohmstrass,5,2,2020-08
+180,grundwasserstand,3,1,2020-08
+181,landwirtschaft,3,1,2020-08
+182,bezirk shap,3,2,2020-08
+183,berlinonlin,3,1,2020-08
+184,wahlkreis,3,1,2020-08
+185,liegenschafskatast,3,1,2020-08
+186,ordnungsamt,3,1,2020-08
+187,langengrad,3,1,2020-08
+188,veranstalt,3,1,2020-08
+189,kunstlich intelligenz,3,1,2020-08
+190,grundsicher,3,1,2020-08
+191,friedhof,3,1,2020-08
+192,spielplatz,3,1,2020-08
+193,3d,4,2,2020-08
+194,bezirk kart,3,1,2020-08
+195,radzahl,3,2,2020-08
+196,k5 berlin,3,1,2020-08
+197,babelsberg strass schoneberg,3,1,2020-08
+198,hauskoordinat,3,1,2020-08
+199,einschulbereich,9,4,2020-08
+200,quadratmeterpreis,3,1,2020-08
+201,alt bezirk,3,1,2020-08
+202,radweg,3,1,2020-08
+203,sozialstrukturatlas,3,1,2020-08
+204,bohrd,3,1,2020-08
+205,ingenieurgeolog kart,3,1,2020-08
+206,versiegelunggrad,3,1,2020-08
+207,objektklass verkehrszeich stvo nr 314 315,3,1,2020-08
+208,wohngebiet mischgebiet,3,1,2020-08
+209,bohrdat,3,1,2020-08
+210,umweltplakett,3,1,2020-08
+211,verkehrszeich,3,1,2020-08
+212,senatsbeschluss,5,3,2020-08
+213,gedenktafel,3,1,2020-08
+214,friedrichshain kreuzberg steuereinnahm,3,1,2020-08
+215,gesund lehr,3,1,2020-08
+216,kunst am bau,3,1,2020-08
+217,hochschul,5,3,2020-08
+218,brandenburg tor,3,1,2020-08
+219,kameral,3,1,2020-08
+220,steu und wirtschaft,3,1,2020-08
+221,arbeitslosenzahl thermometersiedl,3,1,2020-08
+222,gemark,3,1,2020-08
+223,ranking,3,1,2020-08
+224,bestand windkraftanlag berlin,3,1,2020-08
+225,verzeichnis allgemeinbild schul,3,1,2020-08
+226,berlin feuerwehr,3,1,2020-08
+227,kart berlin,3,1,2020-08
+228,planungsraum 2015,3,1,2020-08
+229,ostpreussendamm,3,1,2020-08
+230,esb,3,1,2020-08
+231,emissionsfrei fahrzeug,4,2,2020-08
+232,metro,3,1,2020-08
+233,trodelmarkt,3,1,2020-08
+234,besuchszahl in offent gefordert berlin kultureinricht,3,1,2020-08
+235,vbb gtfs,4,2,2020-08
+236,kubra dural,3,1,2020-08
+237,r 642,3,1,2020-08
+238,wann ios app,3,1,2020-08
+239,arbeitslos nach stadtteil,3,1,2020-08
+240,1575,3,1,2020-08
+241,strahl strahl,3,1,2020-08
+242,fairtrad,3,1,2020-08
+243,3d gebaudemodell im level of detail 1,3,1,2020-08
+244,list or der or verbannt,3,1,2020-08
+245,weltkart,3,1,2020-08
+246,kleingartenbestand,3,1,2020-08
+247,linienfarb,3,1,2020-08
+248,boddy,3,1,2020-08
+249,open data day,3,1,2020-08
+250,pump,3,1,2020-08
+251,einkomm reinickendorf,3,1,2020-08
+252,flurstuck im inspir datenmodell,3,1,2020-08
+253,digital farbig orthophotos 2019,3,1,2020-08
+254,bebauungsplan,2,2,2020-08
+255,wohnungssuch fluchtling berat,2,1,2020-08
+256,solaranlag,2,1,2020-08
+257,bodenrichtwert,2,2,2020-08
+258,haltestell cottbus,2,1,2020-08
+259,bodenfruchtbar,2,1,2020-08
+260,freiflach fur unterkunft der migrant,2,1,2020-08
+261,mull,2,2,2020-08
+262,einspeis,2,2,2020-08
+263,erhaltungssatzungsgebiet,2,1,2020-08
+264,naldolny,2,1,2020-08
+265,demografi,2,1,2020-08
+266,aufgab,2,2,2020-08
+267,fah,2,1,2020-08
+268,gemark johannisthal,2,1,2020-08
+269,hannah arendt,2,1,2020-08
+270,dxf,2,1,2020-08
+271,wedding,2,1,2020-08
+272,klimaschutz,2,1,2020-08
+273,fur den gehob allgemein nicht technisch verwaltungsdien kein anwart mehr auszubild fur den gehob allgemein nicht technisch verwaltungsdien kein anwart mehr auszubild fur or den or gehob or allg,2,1,2020-08
+274,kein anwart mehr,2,1,2020-08
+275,gehob allgemein nicht technisch verwaltungsdien,2,1,2020-08
+276,strahl,2,1,2020-08
+277,marzahn,2,1,2020-08
+278,kissingenviertel,2,1,2020-08
+279,koordinat,2,1,2020-08
+280,religion,2,2,2020-08
+281,schulverzeichnis,2,1,2020-08
+282,rbs lor,4,2,2020-08
+283,kaufwert kaufwert or preis or landwirtschaft or grundstuck,2,1,2020-08
+284,viktoriapark,2,1,2020-08
+285,wieviel einwohn hat berlin,2,1,2020-08
+286,loschwasserentnahmestell verzeichnis,2,1,2020-08
+287,kart vektor,2,1,2020-08
+288,einzugsbereich schul,2,1,2020-08
+289,dlm,2,1,2020-08
+290,kaufwert kaufwert or preis or landwirtschaft or grundstuck,2,1,2020-08
+291,luftverschmutz,2,1,2020-08
+292,eigentum,2,1,2020-08
+293,tod,2,1,2020-08
+294,steglitz zehlendorf,2,1,2020-08
+295,maathai,2,1,2020-08
+296,einwohn bezirk,2,1,2020-08
+297,wmd dop,2,1,2020-08
+298,blocknumm,2,1,2020-08
+299,scheurmann,3,2,2020-08
+300,postleitzahl 13403,2,1,2020-08
+301,kaufwert,2,1,2020-08
+302,wahlergebnis 2013,2,1,2020-08
+303,lohn,2,1,2020-08
+304,betreibervertrag or berlinonlin or berlin de,2,1,2020-08
+305,ortslag,2,1,2020-08
+306,fahrradfahr,4,2,2020-08
+307,adlershof,2,1,2020-08
+308,senat gesund,2,1,2020-08
+309,wahlergebnis kommunal,2,1,2020-08
+310,bez,2,1,2020-08
+311,karlshorst umweltzon,3,2,2020-08
+312,pandemi,2,1,2020-08
+313,flachdach,2,1,2020-08
+314,cad,2,1,2020-08
+315,s bahn,2,1,2020-08
+316,charlottenburg wilmersdorf,2,2,2020-08
+317,jahresabschluss land berlin,2,1,2020-08
+318,orthophoto,2,1,2020-08
+319,laea,2,1,2020-08
+320,kitas,2,1,2020-08
+321,betreibervertrag berlinonlin,2,1,2020-08
+322,vektor,2,1,2020-08
+323,kriminal,2,1,2020-08
+324,energieatlas,2,1,2020-08
+325,arbeitslosenzahl,2,1,2020-08
+326,arzt bezirk,2,1,2020-08
+327,mitt freuzberg,2,1,2020-08
+328,san souci,2,1,2020-08
+329,adress,2,1,2020-08
+330,flachennutzungsplan kopenick,2,1,2020-08
+331,streckennetz,2,1,2020-08
+332,umspannwerk,2,1,2020-08
+333,wett,2,1,2020-08
+334,umfrag,2,1,2020-08
+335,fur den gehob allgemein nicht technisch verwaltungsdien kein anwart mehr auszubild,2,1,2020-08
+336,abkurz,2,1,2020-08
+337,verwaltungsdien,2,1,2020-08
+338,teilmarkt,2,1,2020-08
+339,fur den gehob allgemein nicht technisch verwaltungsdien kein anwart mehr auszubild fur den gehob allgemein nicht technisch verwaltungsdien kein anwart mehr auszubild fur or den or gehob or allg,2,1,2020-08
+340,lothar schrey,2,1,2020-08
+341,corporat design,2,1,2020-08
+342,baumbestand,2,1,2020-08
+343,wochenmarkt,2,1,2020-08
+344,otto flak,2,1,2020-08
+345,brl,2,1,2020-08
+346,wahlgebiet,2,1,2020-08
+347,reuterkiez,2,1,2020-08
+348,zug,2,1,2020-08
+349,radzahlsteel,2,1,2020-08
+350,infektionsschutz,2,1,2020-08
+351,gitt,2,1,2020-08
+352,jahresabschluss land berlin,2,1,2020-08
+353,bevolker bezirk,2,1,2020-08
+354,station,2,1,2020-08
+355,wartung,2,1,2020-08
+356,tempelhof schoneberg,2,1,2020-08
+357,beherbergungsbetrieb,2,1,2020-08
+358,windkraft,2,1,2020-08
+359,fluktuation,2,1,2020-08
+360,stolperstein,2,1,2020-08
+361,baugrund,2,1,2020-08
+362,hackathon,2,1,2020-08
+363,geschwindigkeitsuberwach,2,1,2020-08
+364,flur,3,2,2020-08
+365,viert,3,2,2020-08
+366,arbeitslos,4,2,2020-08
+367,insolvenz im land berlin,2,1,2020-08
+368,taxi,2,1,2020-08
+369,ressortubergreif ag,2,1,2020-08
+370,europawahl,2,1,2020-08
+371,depentschg be,2,1,2020-08
+372,verwaltungsgrenz,2,1,2020-08
+373,altersverteil,2,1,2020-08
+374,vektorkart,2,1,2020-08
+375,s 2580,2,1,2020-08
+376,lor 2016,2,1,2020-08
+377,sensor,2,1,2020-08
+378,schwengelpump,2,1,2020-08
+379,finanzdienstleist,2,1,2020-08
+380,haushaltsplan,2,1,2020-08
+381,arbeitslosenquot,2,1,2020-08
+382,hohenpunkt,2,1,2020-08
+383,glas,2,1,2020-08
+384,zoom,2,1,2020-08
+385,einwohnerinn und einwohn in den ortsteil berlin am 31 12 2016,2,1,2020-08
+386,senstadt 2006b,2,1,2020-08
+387,pflegekass,2,1,2020-08
+388,einwohnerinn und einwohn in den ortsteil berlin am 31 12 2016,2,1,2020-08
+389,einwohnerinn und einwohn in den ortsteil berlin am 31 12 2016,2,1,2020-08
+390,sozialwohn,2,1,2020-08
+391,umweltkart,2,1,2020-08
+392,schutteltrauma,1,1,2020-08
+393,bad,1,1,2020-08
+394,deniz,1,1,2020-08
+395,grundung berlin open data,1,1,2020-08
+396,wohnung,1,1,2020-08
+397,bezirk berlin shapefil,1,1,2020-08
+398,corona ampel,1,1,2020-08
+399,baupreisindex,1,1,2020-08
+400,wohn teur,1,1,2020-08
+401,signalanlag,1,1,2020-08
+402,luftbild 2020,1,1,2020-08
+403,baukost,1,1,2020-08
+404,islam,1,1,2020-08
+405,friedrichshain,1,1,2020-08
+406,gis,1,1,2020-08
+407,lod2,1,1,2020-08
+408,shapefil grenz,1,1,2020-08
+409,health insuranc,1,1,2020-08
+410,naldolny,1,1,2020-08
+411,kleingart,1,1,2020-08
+412,deutschland,1,1,2020-08
+413,wohndau,1,1,2020-08
+414,opendatav,1,1,2020-08
+415,haushalt,2,2,2020-08
+416,telefonnr vom sttistisch landesamt berlin,1,1,2020-08
+417,atlas logist,1,1,2020-08
+418,traffic count,1,1,2020-08
+419,netzstation,1,1,2020-08
+420,anorthosit,1,1,2020-08
+421,sozial,1,1,2020-08
+422,lebenserwart bezirk 2017,1,1,2020-08
+423,corona statist,1,1,2020-08
+424,transport,1,1,2020-08
+425,gemark karlshorst,1,1,2020-08
+426,off dat lesbar fur mensch und maschin,1,1,2020-08
+427,histor stadtplan,1,1,2020-08
+428,lebensmittel,1,1,2020-08
+429,brand,1,1,2020-08
+430,flachennutz,1,1,2020-08
+431,halt,1,1,2020-08
+432,grossbaum,2,2,2020-08
+433,medizin produkt,1,1,2020-08
+434,postleitzahlenverzeichnis berlin,1,1,2020-08
+435,bodenrichtwert pankow,1,1,2020-08
+436,geschossflachenzahl spandau,1,1,2020-08
+437,strassenverzeichnis altona,1,1,2020-08
+438,kind und jugendbericht,1,1,2020-08
+439,zaa asylantrag,1,1,2020-08
+440,nationalsozialist,1,1,2020-08
+441,famili,1,1,2020-08
+442,parkzon,1,1,2020-08
+443,1990,1,1,2020-08
+444,postleitzahl 13403 berlin,1,1,2020-08
+445,reinickendorf behindertenparkplatz,1,1,2020-08
+446,einkomm hausburgviertel,1,1,2020-08
+447,windnod,1,1,2020-08
+448,pankow logo,1,1,2020-08
+449,wildenbruchbruck,1,1,2020-08
+450,recycling,1,1,2020-08
+451,fordergebiet,1,1,2020-08
+452,satelitbild,1,1,2020-08
+453,hoh,3,3,2020-08
+454,steuerlos,1,1,2020-08
+455,vorbereitungsdien,1,1,2020-08
+456,grundstucksflach,1,1,2020-08
+457,fussgangeruberweg,1,1,2020-08
+458,vobb,1,1,2020-08
+459,gefall,1,1,2020-08
+460,gemark johannisthal ellernweg,1,1,2020-08
+461,ubernacht,1,1,2020-08
+462,bevolker,1,1,2020-08
+463,betreibervertrag,1,1,2020-08
+464,wka,1,1,2020-08
+465,grundstucksgrenz,1,1,2020-08
+466,sozialleist,1,1,2020-08
+467,wind,2,2,2020-08
+468,zahl,1,1,2020-08
+469,demo,1,1,2020-08
+470,psychiatri,1,1,2020-08
+471,simon dach strass,1,1,2020-08
+472,ellernweg 12487,1,1,2020-08
+473,fachleistungssstund kostensatz senatsverwalt jugend,1,1,2020-08
+474,erhaltungssatzungsgebiet teutoburg platz,1,1,2020-08
+475,wahlkreis 322,1,1,2020-08
+476,behindertenparkplatz reinickendorf,1,1,2020-08
+477,krankenhaus bezirk,2,2,2020-08
+478,berlin kiez,1,1,2020-08
+479,brandenburg tor,1,1,2020-08
+480,stadtebau dicht,1,1,2020-08
+481,kirchenmitglied,1,1,2020-08
+482,thermometersiedl,1,1,2020-08
+483,studi innovationserheb 2019,1,1,2020-08
+484,wohnungssuch fluchtling,1,1,2020-08
+485,lotlini,1,1,2020-08
+486,asiamarkt,1,1,2020-08
+487,radfahr statist,1,1,2020-08
+488,kart topografi or kreuzberg,1,1,2020-08
+489,ellernweg,1,1,2020-08
+490,drogenkonsum in lichtenberg,1,1,2020-08
+491,teichhuhnsteig,1,1,2020-08
+492,senatsvorlag,1,1,2020-08
+493,baustell,2,2,2020-08
+494,technisch jugendfreizeit und bildungsgesellschaft tjfbg,1,1,2020-08
+495,atlas,1,1,2020-08
+496,karlshorst,1,1,2020-08
+497,personal,1,1,2020-08
+498,baugrundkart,1,1,2020-08
+499,organigramm,1,1,2020-08
+500,postleitzahl berlin 13403,1,1,2020-08
+501,anzahl kind,1,1,2020-08
+502,haushaltsnettoeinkomm,1,1,2020-08
+503,vietel,1,1,2020-08
+504,seen,1,1,2020-08
+505,sueldos,1,1,2020-08
+506,larmbelast,1,1,2020-08
+507,straftat,2,2,2020-08
+508,entsteh berlin open data,1,1,2020-08
+509,gehob allgemein nicht technisch verwaltungsdien gehob allgemein nicht technisch verwaltungsdien,1,1,2020-08
+510,kleinkind,1,1,2020-08
+511,okoinlandsprodukt,1,1,2020-08
+512,hydrant,3,3,2020-08
+513,strassenlist,1,1,2020-08
+514,wahlk,1,1,2020-08
+515,geass,1,1,2020-08
+516,frau,1,1,2020-08
+517,personalfluktuation,1,1,2020-08
+518,amt fur statist,1,1,2020-08
+519,asylantrag,1,1,2020-08
+520,buch,1,1,2020-08
+521,gerausch,1,1,2020-08
+522,radio,1,1,2020-08
+523,riemann,1,1,2020-08
+524,bodenwert pankow,1,1,2020-08
+525,city,1,1,2020-08
+526,heinrich mann,1,1,2020-08
+527,radioaktivitat,1,1,2020-08
+528,bosart operation,2,2,2020-08
+529,supermarkt,1,1,2020-08
+530,stadtplan 1990,1,1,2020-08
+531,orthophoto,1,1,2020-08
+532,einzugsschul berlin,1,1,2020-08
+533,strafdelikt,1,1,2020-08
+534,bautrag land berlin,1,1,2020-08
+535,badese,1,1,2020-08
+536,medizin,1,1,2020-08
+537,freiflach fur unterkunft der migrant,1,1,2020-08
+538,fruchtbar,1,1,2020-08
+539,baupreis,1,1,2020-08
+540,kein anwart mehr auszubild,1,1,2020-08
+541,reinickendorf,1,1,2020-08
+542,wasserwerk,1,1,2020-08
+543,loschwasserentnahmestell,1,1,2020-08
+544,wass brunn,1,1,2020-08
+545,versiegelunggrad,1,1,2020-08
+546,windenergi,1,1,2020-08
+547,bernau strass,1,1,2020-08
+548,berlinkart,1,1,2020-08
+549,bodenwert pankow,1,1,2020-08
+550,vogel,2,2,2020-08
+551,jahresabschluss berlin,1,1,2020-08
+552,eido,1,1,2020-08
+553,chines,1,1,2020-08
+554,immis,1,1,2020-08
+555,pegel,1,1,2020-08
+556,flugkart lichterfeld,1,1,2020-08
+557,einschul,1,1,2020-08
+558,e recruitment,1,1,2020-08
+559,bodentyp,1,1,2020-08
+560,grundwasserdat,1,1,2020-08
+561,liegenschaft,1,1,2020-08
+562,weitlingkiez,1,1,2020-08
+563,arzt stadtteil,1,1,2020-08
+564,lehr,1,1,2020-08
+565,grundschul,1,1,2020-08
+566,wms gebauderein,1,1,2020-08
+567,umring,2,2,2020-08
+568,gewasserschutz,1,1,2020-08
+569,geld,1,1,2020-08
+570,genehm,1,1,2020-08
+571,webcam,1,1,2020-08
+572,windkraftanlang,1,1,2020-08
+573,lautstark,1,1,2020-08
+574,unterkunft,1,1,2020-08
+575,vergutungsmodell,1,1,2020-08
+576,flachennutzungsplan kopenick,1,1,2020-08
+577,schreibaby,1,1,2020-08
+578,sozialraum status fur wertausgleich,1,1,2020-08
+579,radfahr,2,2,2020-08
+580,herzbergstrass,1,1,2020-08
+581,berlin sw,1,1,2020-08
+582,einkomm bezirksregion,1,1,2020-08
+583,universitat,1,1,2020-08
+584,liegenschaftskart,1,1,2020-08
+585,dashboard,1,1,2020-08
+586,krankenhaus stadtteil,1,1,2020-08
+587,dop10,2,2,2020-08
+588,3d stadtmodell,1,1,2020-08
+589,schreibabyambulanz,1,1,2020-08
+590,lieferservic chines ess,1,1,2020-08
+591,grundsicher 2019,1,1,2020-08
+592,flurkart auszug,1,1,2020-08
+593,naldolny,1,1,2020-08
+594,beherberg,1,1,2020-08
+595,stadtbezirk,1,1,2020-08
+596,e government geset,1,1,2020-08
+597,bergbauschad,1,1,2020-08
+598,bomb,1,1,2020-08
+599,grundwasserqualitat,1,1,2020-08
+600,fachleistungssstund kostensatz senatsverwalt jugend,1,1,2020-08
+601,work zon,1,1,2020-08
+602,korp,1,1,2020-08
+603,hotel,1,1,2020-08
+604,parkplatz,1,1,2020-08
+605,lor 2018,1,1,2020-08
+606,studi innovationserheb 2019,1,1,2020-08
+607,baustell,1,1,2020-08
+608,polzei,1,1,2020-08
+609,tier,2,2,2020-08
+610,privat krankenversicher,1,1,2020-08
+611,92,1,1,2020-08
+612,kaufwert landwirtschaft grundstuck,1,1,2020-08
+613,stephankiez,1,1,2020-08
+614,katz,1,1,2020-08
+615,corporat design senatsbeschluss,1,1,2020-08
+616,befrag,1,1,2020-08
+617,wildti,1,1,2020-08
+618,gewerbegebiet wildau,1,1,2020-08
+619,lor 2019,1,1,2020-08
+620,stadtviertel,1,1,2020-08
+621,byggnad,1,1,2020-08
+622,cor,1,1,2020-08
+623,neigung,1,1,2020-08
+624,fis brok,1,1,2020-08
+625,uvp,1,1,2020-08
+626,erneubar energi,1,1,2020-08
+627,lor2018,1,1,2020-08
+628,bautrag bezirk,1,1,2020-08
+629,grid,1,1,2020-08
+630,2020 jugendarbeitslos,1,1,2020-08
+631,bergmann,1,1,2020-08
+632,feri,1,1,2020-08
+633,fluchtlini,1,1,2020-08
+634,lod1,1,1,2020-08
+635,fauna,1,1,2020-08
+636,hund,1,1,2020-08
+637,sprengelkiez,1,1,2020-08
+638,sprengel,1,1,2020-08
+639,stadtplan kiez,1,1,2020-08
+640,geburt,1,1,2020-08
+641,pichelsse,1,1,2020-08
+642,fidel,1,1,2020-08
+643,corona ampel,1,1,2020-08
+644,201,1,1,2020-08
+645,bergschad,1,1,2020-08
+646,gebaudeumring,1,1,2020-08
+647,winkel,1,1,2020-08
+648,reinickendorf ost,1,1,2020-08
+649,dsm,1,1,2020-08
+650,bernau or strass or kopenhag or strass,1,1,2020-08
+651,abimo,1,1,2020-08
+652,e government geset,1,1,2020-08
+653,judisch,1,1,2020-08
+654,93,1,1,2020-08
+655,ortsteil shap,1,1,2020-08
+656,gemarkungsschlussel,1,1,2020-08
+657,population,1,1,2020-08
+658,e recruiting,1,1,2020-08
+659,resident,1,1,2020-08
+660,wista,1,1,2020-08
+661,verkehrsunfall,1,1,2020-08
+662,2264,1,1,2020-08
+663,dwg,1,1,2020-08
+1,friedrichshain kreuzberg,109,34,2020-09
+2,vermess at ba fk berlin de,63,12,2020-09
+3,mitt,53,3,2020-09
+4,lichtenberg,41,3,2020-09
+5,lor,46,8,2020-09
+6,neukolln,30,2,2020-09
+7,marzahn hellersdorf,28,1,2020-09
+8,steglitz zehlendorf,26,2,2020-09
+9,charlottenburg wilmersdorf,21,2,2020-09
+10,bezirk mitt,21,1,2020-09
+11,bezirk,22,8,2020-09
+12,shp,36,11,2020-09
+13,list der haufig vornam,20,2,2020-09
+14,treptow kopenick,22,3,2020-09
+15,alkis,27,5,2020-09
+16,unfall,18,1,2020-09
+17,corona,26,14,2020-09
+18,wms,18,7,2020-09
+19,tempelhof schoneberg,17,1,2020-09
+20,strass,23,4,2020-09
+21,schul,21,8,2020-09
+22,bevolker,15,4,2020-09
+23,bevolker berlin,15,1,2020-09
+24,bodenrichtwert,14,1,2020-09
+25,spandau,18,3,2020-09
+26,ortsteil,21,5,2020-09
+27,einwohn,13,4,2020-09
+28,mahlsdorf,13,4,2020-09
+29,umwelt,13,1,2020-09
+30,wass,14,5,2020-09
+31,emission,16,4,2020-09
+32,arbeitslos,17,7,2020-09
+33,amt fur statist,22,3,2020-09
+34,markt,15,4,2020-09
+35,einkomm,14,5,2020-09
+36,migrationshintergrund,10,5,2020-09
+37,bezirksgrenz,14,4,2020-09
+38,shap,10,4,2020-09
+39,kml,9,3,2020-09
+40,shapefil,9,4,2020-09
+41,bau,9,2,2020-09
+42,block,12,3,2020-09
+43,bezirk geodat,9,1,2020-09
+44,bundestagswahl,9,4,2020-09
+45,csv,8,3,2020-09
+46,solaranlag,8,1,2020-09
+47,alkis berlin gebaud,8,1,2020-09
+48,corona verteil,7,2,2020-09
+49,fahrrad,8,4,2020-09
+50,bus,9,4,2020-09
+51,reinickendorf,12,4,2020-09
+52,k 5,7,1,2020-09
+53,kart,7,1,2020-09
+54,wahl,7,2,2020-09
+55,verkehr,6,4,2020-09
+56,internet,6,2,2020-09
+57,energieverbrauch,6,3,2020-09
+58,dgm,6,4,2020-09
+59,train,6,1,2020-09
+60,landschaftsprogramm,6,1,2020-09
+61,pankow,6,2,2020-09
+62,zip shp,8,2,2020-09
+63,grundschuleinzugsbereich,6,1,2020-09
+64,bildung,11,4,2020-09
+65,kurt schumach platz,7,2,2020-09
+66,k5 berlin,6,1,2020-09
+67,hohenfestpunkt,7,2,2020-09
+68,bodenrichtwert zum 01 01 2020,6,1,2020-09
+69,armut,6,1,2020-09
+70,gewass,5,3,2020-09
+71,bvg,9,4,2020-09
+72,co2,5,1,2020-09
+73,gebaud,6,3,2020-09
+74,stromnetz,8,3,2020-09
+75,senatsvorlag,5,3,2020-09
+76,verkehrszeich,5,1,2020-09
+77,rbs,5,2,2020-09
+78,bevolkerungsentwickl,5,2,2020-09
+79,einschulungsbereich,9,5,2020-09
+80,religion,5,2,2020-09
+81,ampeln,5,2,2020-09
+82,energi,5,2,2020-09
+83,jugendarbeitslos,5,1,2020-09
+84,bevolker berlin 2019,5,1,2020-09
+85,wochenmarkt,5,3,2020-09
+86,hellersdorf,5,2,2020-09
+87,vbb,7,3,2020-09
+88,miet,5,2,2020-09
+89,gtfs,8,5,2020-09
+90,stadtplan,5,1,2020-09
+91,xml,4,1,2020-09
+92,polizei,7,2,2020-09
+93,altglas,4,2,2020-09
+94,radverkehr,4,1,2020-09
+95,smart city,4,3,2020-09
+96,vegetation,4,1,2020-09
+97,alt,5,3,2020-09
+98,strassenbefahr,5,2,2020-09
+99,buslini,4,1,2020-09
+100,einwohnerregist,4,1,2020-09
+101,esb,4,2,2020-09
+102,leitbild diversity,4,1,2020-09
+103,bahn,4,1,2020-09
+104,stadtgrenz,4,2,2020-09
+105,statist bezirk,4,1,2020-09
+106,grundwass,4,1,2020-09
+107,einwohnerstatist,4,1,2020-09
+108,radweg,4,1,2020-09
+109,biku,4,1,2020-09
+110,covid 19 fall im land berlin verteil nach altersgrupp,4,1,2020-09
+111,norderney,3,2,2020-09
+112,energieverbrauchsubersicht,3,2,2020-09
+113,larm,3,1,2020-09
+114,grundstuck,3,1,2020-09
+115,grenz,3,1,2020-09
+116,park,6,3,2020-09
+117,hydrant,5,2,2020-09
+118,massnahm zur verbesser des mieterschutz und zur vermeid von wohnungsverlust,3,1,2020-09
+119,gruendach,3,2,2020-09
+120,projektion,3,1,2020-09
+121,bedarfsgemeinschaft,3,1,2020-09
+122,u bahn,3,1,2020-09
+123,jugend,3,2,2020-09
+124,fluchtlini,3,2,2020-09
+125,ladesaul,3,1,2020-09
+126,lebensraumtyp,3,1,2020-09
+127,api,3,1,2020-09
+128,luftbild,4,2,2020-09
+129,okokonto,3,1,2020-09
+130,vornam,4,4,2020-09
+131,denkmal,3,1,2020-09
+132,kleingart,4,2,2020-09
+133,xml sprach,3,1,2020-09
+134,gesamt bevolker,3,1,2020-09
+135,gesund,4,3,2020-09
+136,arbeitslos lor,3,1,2020-09
+137,flach berlin stadt,3,1,2020-09
+138,geojson,3,2,2020-09
+139,hauptstadtzulag,5,2,2020-09
+140,covid stadtbezirk,3,1,2020-09
+141,sozialstruktur,3,1,2020-09
+142,grundflachenzahl,3,1,2020-09
+143,etr,3,1,2020-09
+144,covid 19,4,2,2020-09
+145,strassenverzeichnis,5,2,2020-09
+146,einwohn alt,3,1,2020-09
+147,grunflach,5,3,2020-09
+148,fahrrad unfall,3,1,2020-09
+149,ballungsraumzulag,3,1,2020-09
+150,2019,1,1,2020-09
+151,flur,3,1,2020-09
+152,schiffsverkehr,3,1,2020-09
+153,religion,3,1,2020-09
+154,papiercontain,3,1,2020-09
+155,nach bezirksregion,3,1,2020-09
+156,naturkatastroph,3,1,2020-09
+157,berlin region,3,1,2020-09
+158,larmbelast,3,1,2020-09
+159,pflanzenart,3,1,2020-09
+160,environment,3,1,2020-09
+161,baunvo,3,1,2020-09
+162,suchbegriff,3,1,2020-09
+163,wahlkreis,3,1,2020-09
+164,spandau kart,3,1,2020-09
+165,abgeordnetenhauswahl,3,1,2020-09
+166,xml programmier,3,1,2020-09
+167,kita,3,1,2020-09
+168,strassenbefahr material,3,1,2020-09
+169,hackathon,6,2,2020-09
+170,dtk,3,1,2020-09
+171,infograf,3,1,2020-09
+172,einschul,3,1,2020-09
+173,einwohnerdicht 2016,3,1,2020-09
+174,osm,3,1,2020-09
+175,trodelmarkt,3,1,2020-09
+176,1930er jahr,3,1,2020-09
+177,personalmanagementbericht,3,1,2020-09
+178,fahrrad pro tag,2,2,2020-09
+179,einschulungsbereich,2,1,2020-09
+180,carsharing,2,2,2020-09
+181,covid in den stadtbezirk,2,1,2020-09
+182,population,2,2,2020-09
+183,mull,2,2,2020-09
+184,gestorb,2,1,2020-09
+185,sperrmull,2,1,2020-09
+186,custom,2,1,2020-09
+187,gebaud,2,1,2020-09
+188,radfahr anzahl,2,1,2020-09
+189,bebauungsplan,4,3,2020-09
+190,kindertagesstatt,2,1,2020-09
+191,reinowzeil,2,1,2020-09
+192,flughaf,2,1,2020-09
+193,physiotherapiepeaxis uhlandstrass,2,1,2020-09
+194,arzt,2,1,2020-09
+195,h bezirk,2,1,2020-09
+196,footprint,2,1,2020-09
+197,wohnungsleerstand,2,1,2020-09
+198,supermarkt,2,1,2020-09
+199,berlinpass,2,1,2020-09
+200,turkiy,2,1,2020-09
+201,oeffent verkehr,2,1,2020-09
+202,sachdat zum bodenrichtwert,2,1,2020-09
+203,nutzungsart,2,1,2020-09
+204,wfs,2,1,2020-09
+205,dlm,2,1,2020-09
+206,steu,2,1,2020-09
+207,kart 1 5000,2,1,2020-09
+208,senior freizeitgestalt,2,1,2020-09
+209,bezugssyst,2,1,2020-09
+210,bebau grundstuck,2,1,2020-09
+211,strassenrein,3,2,2020-09
+212,vermess,2,1,2020-09
+213,vorlag zur kenntnisnahm,2,1,2020-09
+214,gemeindegrenz,2,1,2020-09
+215,sportanlag,2,1,2020-09
+216,bvg mns,2,1,2020-09
+217,plz schweiz,2,1,2020-09
+218,sozial geld,2,1,2020-09
+219,immobilienpreis,3,2,2020-09
+220,plz or schweiz,2,1,2020-09
+221,flach,2,1,2020-09
+222,alkis gebaud,2,1,2020-09
+223,plz,2,1,2020-09
+224,postleitzahl,3,2,2020-09
+225,bezirkshaushaltsplan,2,1,2020-09
+226,kiez,3,2,2020-09
+227,festpunkt,2,1,2020-09
+228,karstadt,2,1,2020-09
+229,flurstuck,2,1,2020-09
+230,senior freizeitgestalt,2,1,2020-09
+231,loschwass,2,1,2020-09
+232,europa union,2,1,2020-09
+233,verein,2,1,2020-09
+234,feuerwehr,2,1,2020-09
+235,fallzahl bezirk,2,1,2020-09
+236,geoportal,2,1,2020-09
+237,gis,2,2,2020-09
+238,vermess karstadt,2,1,2020-09
+239,bildungsabschluss,2,1,2020-09
+240,strom,3,2,2020-09
+241,seantssitz 8 11 2016,2,1,2020-09
+242,enteign,2,1,2020-09
+243,gelandemodell,2,1,2020-09
+244,milieus,2,1,2020-09
+245,was tun bei sexuell gewalt,2,1,2020-09
+246,sterbefall brandenburg,2,1,2020-09
+247,engergy consumption,2,1,2020-09
+248,gewass,2,1,2020-09
+249,wett,2,1,2020-09
+250,plr,2,1,2020-09
+251,rbs bezirk,2,1,2020-09
+252,gebaudealt,2,1,2020-09
+253,konsolidier,2,1,2020-09
+254,open data,2,1,2020-09
+255,erholungsgebiet pankow,2,1,2020-09
+256,hochbau abteil,2,1,2020-09
+257,incom,2,1,2020-09
+258,berlin grunau alkis,2,1,2020-09
+259,pkw,2,1,2020-09
+260,json,2,1,2020-09
+261,kriminalitat,4,2,2020-09
+262,international autofrei tag,2,1,2020-09
+263,vermess karstadt hermannplatz,2,1,2020-09
+264,ortsteil mahlsdorf,2,1,2020-09
+265,gartennutz,2,1,2020-09
+266,nachhalt hotelleri,2,1,2020-09
+267,lichtzeich,2,1,2020-09
+268,arbeitslosenquot,2,1,2020-09
+269,bildungsabschluss berzirk,2,1,2020-09
+270,bildungsstand,2,1,2020-09
+271,einwohn ortsteil,2,1,2020-09
+272,einwohnerdicht 2018,2,1,2020-09
+273,freizeit und erholungsflach,2,1,2020-09
+274,gebaudedat berlin,2,1,2020-09
+275,covid,4,3,2020-09
+276,glascontain,2,1,2020-09
+277,vélo,2,1,2020-09
+278,ambulant pfleg,2,1,2020-09
+279,ordnungsamt,3,2,2020-09
+280,hochbau,2,1,2020-09
+281,migrant,2,1,2020-09
+282,stadtbezr,2,2,2020-09
+283,berlin,2,1,2020-09
+284,rbs lor,2,1,2020-09
+285,regionalbahnlini,2,1,2020-09
+286,verbindungspunkt,2,1,2020-09
+287,ladestation,2,1,2020-09
+288,lod,2,1,2020-09
+289,opnv,3,2,2020-09
+290,12279 berlin,2,1,2020-09
+291,werbesaul,2,1,2020-09
+292,mfr,2,1,2020-09
+293,staak,1,1,2020-09
+294,offent toilett,1,1,2020-09
+295,wohnung,2,2,2020-09
+296,nutzungsart w m1 m2 g gp,1,1,2020-09
+297,arbeitslosengeld,1,1,2020-09
+298,hydrologi,1,1,2020-09
+299,energieatlas,1,1,2020-09
+300,incom berlin,1,1,2020-09
+301,schragluftbild,1,1,2020-09
+302,senatsvorlag unterricht hauptausschuss,1,1,2020-09
+303,point cloud,1,1,2020-09
+304,graffiti,1,1,2020-09
+305,blankenfeld berlin,1,1,2020-09
+306,bodenricht,1,1,2020-09
+307,dem,1,1,2020-09
+308,wurzburg,1,1,2020-09
+309,transport,1,1,2020-09
+310,luftbild 1989,2,2,2020-09
+311,friedrichshain kreuzberg corona,1,1,2020-09
+312,tourismus,1,1,2020-09
+313,zier,1,1,2020-09
+314,scheidung,1,1,2020-09
+315,fussabdruck,1,1,2020-09
+316,apothek,1,1,2020-09
+317,boris,1,1,2020-09
+318,wifi,1,1,2020-09
+319,bodenkart,1,1,2020-09
+320,richtwert berlin,1,1,2020-09
+321,frau in it,1,1,2020-09
+322,kommission 131,1,1,2020-09
+323,friedrichshain kreuzberg statist,1,1,2020-09
+324,hohendat,1,1,2020-09
+325,1945,1,1,2020-09
+326,flach plz,1,1,2020-09
+327,a,1,1,2020-09
+328,enerdan gmbh,1,1,2020-09
+329,nutzungsbeding,1,1,2020-09
+330,cad plan of sony cent berlin,1,1,2020-09
+331,1953,1,1,2020-09
+332,regierungsbezirk,2,2,2020-09
+333,toulous,1,1,2020-09
+334,nam,1,1,2020-09
+335,sanierungsgebiet neukolln,1,1,2020-09
+336,taxistand,1,1,2020-09
+337,verwarn,1,1,2020-09
+338,bundesfernstrass list,1,1,2020-09
+339,kategorisier,1,1,2020-09
+340,reisewarn,1,1,2020-09
+341,gmeyn,1,1,2020-09
+342,radfahr,2,2,2020-09
+343,football,1,1,2020-09
+344,gentrifizier,1,1,2020-09
+345,freibad,2,2,2020-09
+346,city light,1,1,2020-09
+347,kritis,1,1,2020-09
+348,schutzzon,1,1,2020-09
+349,baunutzungsverordn,1,1,2020-09
+350,klaranlag,1,1,2020-09
+351,polizeimeld,1,1,2020-09
+352,slow tourism,1,1,2020-09
+353,bebau,1,1,2020-09
+354,sgb ii,1,1,2020-09
+355,population age,1,1,2020-09
+356,arbeitslosenanteil lor 2019,1,1,2020-09
+357,toula,1,1,2020-09
+358,smart city ernst,1,1,2020-09
+359,notaufnahm,1,1,2020-09
+360,grz,1,1,2020-09
+361,co,1,1,2020-09
+362,statusind lor 2019,1,1,2020-09
+363,avis,1,1,2020-09
+364,verbrech berlin,1,1,2020-09
+365,co2 emmission,2,2,2020-09
+366,bar,1,1,2020-09
+367,wall,1,1,2020-09
+368,altersdurchschnitt,1,1,2020-09
+369,sanierungsgebiet,1,1,2020-09
+370,alt hohenschonhaus sud,1,1,2020-09
+371,atelierprogramm,1,1,2020-09
+372,pickl,1,1,2020-09
+373,investitionsplan,1,1,2020-09
+374,senior,1,1,2020-09
+375,unsaniert,1,1,2020-09
+376,hochschulabsolvent,1,1,2020-09
+377,bildungsniveau,1,1,2020-09
+378,topographi,1,1,2020-09
+379,baumbestand,1,1,2020-09
+380,migrant lor,1,1,2020-09
+381,bussgeld,1,1,2020-09
+382,stadtteil,2,2,2020-09
+383,werbeuhr,1,1,2020-09
+384,physiotherapi,1,1,2020-09
+385,projekt zukunft,1,1,2020-09
+386,erhaltungsgebiet,1,1,2020-09
+387,nachtleb,1,1,2020-09
+388,hochwassergefahrenkart gewass,1,1,2020-09
+389,marienfeld,3,3,2020-09
+390,brunn,2,2,2020-09
+391,ruhend verkehr,2,2,2020-09
+392,wohnraum,1,1,2020-09
+393,wohngebiet,1,1,2020-09
+394,sozial,1,1,2020-09
+395,umwandl,1,1,2020-09
+396,verbraucherpreisindex,1,1,2020-09
+397,emergency,1,1,2020-09
+398,bwb,1,1,2020-09
+399,pressemitteil,1,1,2020-09
+400,sport,1,1,2020-09
+401,dienstleistungszentrum,1,1,2020-09
+402,sprachstand kita,1,1,2020-09
+403,en au emergency room en us emergency room es es emergencias médicas es us emergencias médicas fr ca urgenc fr fr urgenc it it pronto soccorso ja jp 救 急 診 療 pt br pronto socorro add a new trigg phras,1,1,2020-09
+404,fahrgast,1,1,2020-09
+405,neubaut berlin mitt,1,1,2020-09
+406,fahrgastaufkomm,1,1,2020-09
+407,homeoffic,1,1,2020-09
+408,selt vornam,1,1,2020-09
+409,mischgebiet,1,1,2020-09
+410,solaranlag,1,1,2020-09
+411,risikogrupp,1,1,2020-09
+412,gesundheitsdienstleist,1,1,2020-09
+413,koordinat berlin,1,1,2020-09
+414,mieterschutz,1,1,2020-09
+415,corona fallzahl im septemb,1,1,2020-09
+416,wahlkreis,1,1,2020-09
+417,arbeitslosenanteil,1,1,2020-09
+418,einwohnerinn und einwohn in den lor planungsraum am 31 12 2019,1,1,2020-09
+419,nordbahnhof,1,1,2020-09
+420,friedrichshain kreuzberg fallzahl corona,1,1,2020-09
+421,kart steglitz zehlendorf,1,1,2020-09
+422,geldbuss,1,1,2020-09
+423,abwass,1,1,2020-09
+424,heimarbeit,1,1,2020-09
+425,einwohn wilmersdorf,2,2,2020-09
+426,schild,1,1,2020-09
+427,test,2,2,2020-09
+428,smart city berlin,1,1,2020-09
+429,parkverstoss,2,2,2020-09
+430,drehstrom,1,1,2020-09
+431,fluchtlini,1,1,2020-09
+432,s bahn,2,2,2020-09
+433,corona ampel,1,1,2020-09
+434,einwohn berlin,1,1,2020-09
+435,character 0,1,1,2020-09
+436,gart,1,1,2020-09
+437,unsaniert haus,1,1,2020-09
+438,abfall,1,1,2020-09
+439,einwohnerinn,1,1,2020-09
+440,covid 19 test,1,1,2020-09
+441,bmi,1,1,2020-09
+442,vermessungskart,1,1,2020-09
+443,kontakt,1,1,2020-09
+444,verwalt,1,1,2020-09
+445,arbeitslosenanteil lor,1,1,2020-09
+446,konfession,1,1,2020-09
+447,bevolkerungsprognos,1,1,2020-09
+448,bildungseinricht,1,1,2020-09
+449,krankenhaus,1,1,2020-09
+450,bezirk geodat,1,1,2020-09
+451,fluchtlingszahl,1,1,2020-09
+452,bvg mask,1,1,2020-09
+453,senatsvorlag ausschreib,1,1,2020-09
+454,radverkh,1,1,2020-09
+455,friedrichshain kreuzberg oberbaum city,1,1,2020-09
+456,arzt notdien,1,1,2020-09
+457,s bahn ring,1,1,2020-09
+458,corona ampel,1,1,2020-09
+459,erholungsgebiet,1,1,2020-09
+460,hilf zur erzieh,1,1,2020-09
+461,berlin vornam,1,1,2020-09
+462,lebenserwart nach stadtteil,1,1,2020-09
+463,ubersichtsplan,1,1,2020-09
+464,passeng,1,1,2020-09
+465,liegenschaftskart,1,1,2020-09
+466,koordinatensyst,1,1,2020-09
+467,milieuschutz,1,1,2020-09
+468,transferleistungsbezieh,1,1,2020-09
+469,turkei,1,1,2020-09
+470,sar,1,1,2020-09
+471,maskenpflicht,1,1,2020-09
+472,kirch,1,1,2020-09
+473,corona stadtbezirk,1,1,2020-09
+474,klimawandel naturkatastroph,1,1,2020-09
+475,strassenzustand,1,1,2020-09
+476,bodenschatz,1,1,2020-09
+477,ffh gebiet in treptow kopenick,1,1,2020-09
+478,einschulbezirk,2,2,2020-09
+479,oeffentlicheverkehr,1,1,2020-09
+480,17 juni,1,1,2020-09
+481,spielstrass,1,1,2020-09
+482,gart in pankow,1,1,2020-09
+483,sozial erhaltungsgebiet,2,2,2020-09
+484,friedrichshain kreuzberg einwohn,1,1,2020-09
+485,unt den lind,1,1,2020-09
+486,offent verkehrsmittel,1,1,2020-09
+487,kreis,1,1,2020-09
+488,friedhof,1,1,2020-09
+489,familiennam,1,1,2020-09
+490,okotourismus,1,1,2020-09
+491,arbeitslos 2018,1,1,2020-09
+492,bezirk zip shp,1,1,2020-09
+493,ampel corona,1,1,2020-09
+494,alg,1,1,2020-09
+495,open street map,1,1,2020-09
+496,grunflachwn,1,1,2020-09
+497,smart,1,1,2020-09
+498,ringbahn,1,1,2020-09
+499,itdz,1,1,2020-09
+500,einwohnerdicht,1,1,2020-09
+501,verwaltungsbezirk,1,1,2020-09
+502,bip,1,1,2020-09
+503,stadtgrenz,1,1,2020-09
+504,nas alkis,1,1,2020-09
+505,contain,2,2,2020-09
+506,k5,1,1,2020-09
+507,lod1,1,1,2020-09
+508,bevolker,1,1,2020-09
+509,immobilienpreis berlin quartal,1,1,2020-09
+510,energiebedarf,1,1,2020-09
+511,punktwolk,1,1,2020-09
+512,wgs84,1,1,2020-09
+513,rollerverkehr,1,1,2020-09
+514,roll,1,1,2020-09
+515,e roll,1,1,2020-09
+516,umring,1,1,2020-09
+517,hotel,1,1,2020-09
+518,fussball,1,1,2020-09
+519,jahresabschluss,1,1,2020-09
+520,e scoot,1,1,2020-09
+521,2015,1,1,2020-09
+522,crim,1,1,2020-09
+523,ewr200912 matrix,1,1,2020-09
+524,mittl lebenserwart,1,1,2020-09
+525,investitionsprogramm,1,1,2020-09
+526,wohngebiet mischgebiet,1,1,2020-09
+527,senatsvorlag dienstleist,1,1,2020-09
+528,vermessungsplan,1,1,2020-09
+529,geologiedat,1,1,2020-09
+530,rbs plr,1,1,2020-09
+531,verkehrsbedingt,1,1,2020-09
+532,seantssitz 8 11 2016,1,1,2020-09
+533,transferleist,1,1,2020-09
+534,tax,1,1,2020-09
+535,inspir,1,1,2020-09
+536,siedlungsstruktur berlin,1,1,2020-09
+537,einschulungsgebiet,2,2,2020-09
+538,ki,1,1,2020-09
+539,eheschliess,1,1,2020-09
+540,5171,1,1,2020-09
+541,sinus,1,1,2020-09
+542,polygon,1,1,2020-09
+543,azrt,1,1,2020-09
+544,schulverzeichnis,1,1,2020-09
+545,taxis,1,1,2020-09
+546,kindertagesstatt,1,1,2020-09
+547,serverbetrieb,1,1,2020-09
+548,einwohn alt bezirk,1,1,2020-09
+549,hilf zur erzieh,1,1,2020-09
+550,tempelhof schoneberg,1,1,2020-09
+551,kaiseralle,1,1,2020-09
+552,rosenthal vorstadt,1,1,2020-09
+553,civic technology,1,1,2020-09
+554,smart city ernst,1,1,2020-09
+555,gastrono,1,1,2020-09
+556,rettungsbeihilf corona,1,1,2020-09
+557,okokonto okokontoprojekt,1,1,2020-09
+558,energieverbrauch buro,1,1,2020-09
+559,shapefil ortsteil,1,1,2020-09
+560,corona fallzahl im septemb coron,1,1,2020-09
+561,geo,1,1,2020-09
+562,grnez,1,1,2020-09
+563,smart city,1,1,2020-09
+564,berlin wall,1,1,2020-09
+565,europawahl,1,1,2020-09
+566,01637638083,1,1,2020-09
+567,verwaltungsbezirkebezirk,1,1,2020-09
+568,licenc for diplomat,1,1,2020-09
+569,einwohnerstatist treptow kopenick,1,1,2020-09
+570,loschwasserentnahmestell,1,1,2020-09
+571,nachtclub,1,1,2020-09
+572,bevolker ortsteil,2,2,2020-09
+573,ampel,1,1,2020-09
+574,einkommensverteil,1,1,2020-09
+575,kunstlich intelligenz,1,1,2020-09
+576,urbanstr,1,1,2020-09
+577,hotelleri,1,1,2020-09
+578,einwohnerdicht 2019,1,1,2020-09
+579,download,1,1,2020-09
+580,rosenthal,2,2,2020-09
+581,steuereinnahm,1,1,2020-09
+582,hochschulabsolvent nach fachergrupp,1,1,2020-09
+583,grafitti,1,1,2020-09
+584,verunrein,1,1,2020-09
+585,diversity,1,1,2020-09
+586,ausland,2,2,2020-09
+587,berlin schul verzeichnis,1,1,2020-09
+588,geometri berlin,1,1,2020-09
+589,bezirk geometri,1,1,2020-09
+590,transf,1,1,2020-09
+591,proj,1,1,2020-09
+592,saarau,1,1,2020-09
+593,energieverbrauch wohngebaud,1,1,2020-09
+594,fallzahl corona im septemb,1,1,2020-09
+595,senatsvorlag unterricht hauptausschuss,1,1,2020-09
+596,1,1,1,2020-09
+597,baufertigstell,1,1,2020-09
+598,enegry,1,1,2020-09
+599,schweidnitz,1,1,2020-09
+600,diplomatenkennzeich,1,1,2020-09
+601,vornam 2011,1,1,2020-09
+602,fach und finanzpolit zielbild fur beteiligungsunternehm des land berlin,1,1,2020-09
+603,hze,1,1,2020-09
+604,strim,1,1,2020-09
+605,verordnungsamt,1,1,2020-09
+606,gastronomi,1,1,2020-09
+607,list der haufig vornam 2019,1,1,2020-09
+608,strassenverzeichnis spandau,1,1,2020-09
+609,neubaut,1,1,2020-09
+610,denstiy,1,1,2020-09
+611,temporar spielstrass,1,1,2020-09
+612,diplomat,1,1,2020-09
+613,verkehrsmittel,1,1,2020-09
+614,student wohn,1,1,2020-09
+615,autofrei tag,1,1,2020-09
+616,kischkel,1,1,2020-09
+617,fahrradfahr,1,1,2020-09
+618,mehrjahr finanzrahm,1,1,2020-09
+1,corona,81,59,2020-10
+2,friedrichshain kreuzberg,36,21,2020-10
+3,vermess at ba fk berlin de,15,13,2020-10
+4,lagebericht,15,10,2020-10
+5,energi,14,1,2020-10
+6,wohn,13,1,2020-10
+7,flachennutz,10,1,2020-10
+8,bodenrichtwert,10,1,2020-10
+9,gtfs,9,8,2020-10
+10,park,11,5,2020-10
+11,lor,12,5,2020-10
+12,planungsraum,8,2,2020-10
+13,csv,8,3,2020-10
+14,baum,12,10,2020-10
+15,forst,10,4,2020-10
+16,marzahn hellersdorf,7,2,2020-10
+17,pankow,7,4,2020-10
+18,sgb ii,7,1,2020-10
+19,bezirksregion,9,3,2020-10
+20,lichtenberg,6,2,2020-10
+21,einwohn,9,6,2020-10
+22,wald,6,1,2020-10
+23,gis,7,4,2020-10
+24,bildung,6,1,2020-10
+25,arbeitslos,8,3,2020-10
+26,bezirk,12,9,2020-10
+27,covid 19,12,12,2020-10
+28,strass,10,4,2020-10
+29,geometri,10,7,2020-10
+30,bezirk gesundheitsberichterstatt,5,1,2020-10
+31,schul,8,4,2020-10
+32,einwohnerzahl,6,4,2020-10
+33,location of the restaurant,5,1,2020-10
+34,bezirksamt mitt,5,1,2020-10
+35,vbb,5,2,2020-10
+36,covid,12,10,2020-10
+37,grun berlin,5,1,2020-10
+38,bezirksgrenz moabit,5,1,2020-10
+39,ampel,7,4,2020-10
+40,corina,4,4,2020-10
+41,corona ampel,9,7,2020-10
+42,luft,4,2,2020-10
+43,bevolker,5,4,2020-10
+44,amt fur statist,6,2,2020-10
+45,naturwaldentwicklungsflach,4,1,2020-10
+46,denkmal,4,1,2020-10
+47,wohnung,7,3,2020-10
+48,fahrrad,7,6,2020-10
+49,moldaw einwohn,4,1,2020-10
+50,wahl,5,3,2020-10
+51,rbs,5,4,2020-10
+52,datenmodell,4,2,2020-10
+53,corona lagebericht,5,4,2020-10
+54,treptow kopenick,4,1,2020-10
+55,bahn,4,2,2020-10
+56,luftbild,8,3,2020-10
+57,feinstaub,4,1,2020-10
+58,fsc,4,1,2020-10
+59,kreuzberg,4,2,2020-10
+60,gorlitz,4,1,2020-10
+61,justin bieb,3,2,2020-10
+62,inzidenz zahl in berlin,3,1,2020-10
+63,adress,5,4,2020-10
+64,spielplatz,3,2,2020-10
+65,inspir datenmodell,3,1,2020-10
+66,verkehr,5,4,2020-10
+67,jpg,3,1,2020-10
+68,family cent childr and youth leisur faciliti,3,1,2020-10
+69,wahl geometri,4,3,2020-10
+70,grundsicher,3,1,2020-10
+71,xls,6,3,2020-10
+72,einkomm,3,3,2020-10
+73,statist block,3,1,2020-10
+74,standort,3,1,2020-10
+75,bebauungsplan,4,2,2020-10
+76,corona kart,3,2,2020-10
+77,geometri wahl,4,2,2020-10
+78,shap,3,3,2020-10
+79,kfz,3,1,2020-10
+80,covid 19,6,3,2020-10
+81,berlin mau,3,1,2020-10
+82,meld krankheit,3,1,2020-10
+83,nollendorfplatz,3,1,2020-10
+84,treptow kopenick,3,1,2020-10
+85,ortsteil,3,1,2020-10
+86,rdf,3,2,2020-10
+87,lod1,3,2,2020-10
+88,albrechtstrass,3,1,2020-10
+89,gemark,3,1,2020-10
+90,liniennetz,3,2,2020-10
+91,population,3,2,2020-10
+92,radverkehr,3,3,2020-10
+93,stromnetz berlin,2,2,2020-10
+94,produkt 80684 produkt or 80684,2,1,2020-10
+95,risikogebiet,3,3,2020-10
+96,vermess,2,2,2020-10
+97,gebiet,2,2,2020-10
+98,sport,2,1,2020-10
+99,geoinformation,2,1,2020-10
+100,covid 19 in berlin schmockwitz kopenick,2,1,2020-10
+101,bikesharing,2,1,2020-10
+102,atkis,2,1,2020-10
+103,parkplatz,4,4,2020-10
+104,tourismus,2,2,2020-10
+105,tegel,2,2,2020-10
+106,list vornam 2019,2,1,2020-10
+107,transport,2,2,2020-10
+108,covid 19 ampel,2,1,2020-10
+109,atlas,2,1,2020-10
+110,berlin,2,2,2020-10
+111,naturland,3,2,2020-10
+112,neuinfektion in berlin in den letzt 7 tag,2,1,2020-10
+113,xlsx,4,2,2020-10
+114,krankenhaus,4,3,2020-10
+115,coronafall in berlin in den letzt 7 tag,2,1,2020-10
+116,pdf,4,2,2020-10
+117,xml,2,1,2020-10
+118,berlinkart,3,2,2020-10
+119,fluss,2,2,2020-10
+120,produkt 80684,2,1,2020-10
+121,erhebungsbog,2,1,2020-10
+122,erhol,2,1,2020-10
+123,friedhof,3,2,2020-10
+124,teufelsberg,2,1,2020-10
+125,osl,2,1,2020-10
+126,wfs fbint stadt berlin de,2,1,2020-10
+127,pressemitteil,2,2,2020-10
+128,ordnungsamt,2,1,2020-10
+129,inzidenz,3,3,2020-10
+130,versiegel,2,1,2020-10
+131,zuwend,2,1,2020-10
+132,sterb,3,2,2020-10
+133,restaurant,3,2,2020-10
+134,spandau,2,1,2020-10
+135,kita,3,3,2020-10
+136,corona berlin,2,1,2020-10
+137,bik,2,1,2020-10
+138,xls bhkw,2,1,2020-10
+139,erhebungsbog fur kontaktperson,2,1,2020-10
+140,list,2,1,2020-10
+141,inspir,2,2,2020-10
+142,almstadtstrass,2,1,2020-10
+143,haltestell,3,2,2020-10
+144,stadtteil,4,4,2020-10
+145,grundstuck,2,1,2020-10
+146,netzdat berlin,2,2,2020-10
+147,senatsbeschluss vom 04 09 20,2,1,2020-10
+148,prenzlau berg,2,1,2020-10
+149,corona berlin bezirk,2,1,2020-10
+150,miet,2,2,2020-10
+151,feinstaubbelast,2,2,2020-10
+152,berlin buch,3,2,2020-10
+153,nollendorfplatz,2,1,2020-10
+154,gesetz hochstaltergrenz sdentasvorlag,2,1,2020-10
+155,haushaltsplan,2,1,2020-10
+156,traffic,2,2,2020-10
+157,wohnlageneinstuf berlin,2,1,2020-10
+158,lagebericht corona,3,2,2020-10
+159,covid stadtbezirk,2,1,2020-10
+160,coronamassnahm,2,1,2020-10
+161,baualtersklass,2,1,2020-10
+162,bodenrichtwertatlas,2,1,2020-10
+163,rad,2,1,2020-10
+164,senatsbeschluss 4 09 20,2,1,2020-10
+165,corona,2,1,2020-10
+166,kriminalitat,2,2,2020-10
+167,10367,2,1,2020-10
+168,kasern,3,2,2020-10
+169,suizid,2,1,2020-10
+170,schoneberg,2,2,2020-10
+171,naturwaldflach,2,1,2020-10
+172,einwohn berlin lor,2,1,2020-10
+173,gami 4230,2,1,2020-10
+174,baupreisindex,2,1,2020-10
+175,grw,2,1,2020-10
+176,maskenpflicht,2,1,2020-10
+177,anzahl leistungsberechtigt nach sgb ii und sgb xii open data,2,1,2020-10
+178,lod,2,2,2020-10
+179,planungsraum,3,2,2020-10
+180,list der haufig vornam,2,1,2020-10
+181,gesundheitstourismus,2,1,2020-10
+182,kindertagesbetreu,2,1,2020-10
+183,baupreisindex,2,1,2020-10
+184,kindertagesstatt,2,1,2020-10
+185,covid 19 berlin gesamt covid or 19 or berlin or gesamt,2,1,2020-10
+186,covif,2,1,2020-10
+187,detailnetz,2,1,2020-10
+188,toilett,2,2,2020-10
+189,justizstandort or marzahn hellersdorf,2,1,2020-10
+190,corona lag innberlin,2,1,2020-10
+191,1900,2,1,2020-10
+192,senat fur abbild schul,2,1,2020-10
+193,bezirksgrenz,2,1,2020-10
+194,shapefil,2,1,2020-10
+195,oberspreewald lausitz,4,2,2020-10
+196,sozialstruktur pankow,2,1,2020-10
+197,rid,2,1,2020-10
+198,baupreis,2,1,2020-10
+199,summt str,2,1,2020-10
+200,wohnblock,3,2,2020-10
+201,albrecht,2,1,2020-10
+202,markt,2,1,2020-10
+203,denkmallist,2,1,2020-10
+204,gami 4230,2,1,2020-10
+205,pflegewohngeld,2,1,2020-10
+206,einwohnerzahl,2,1,2020-10
+207,aktuell corona zahl fur neukooln,2,1,2020-10
+208,covid19 altersgrupp,2,1,2020-10
+209,taxi,2,2,2020-10
+210,amtsgericht,1,1,2020-10
+211,nrw paderborn,1,1,2020-10
+212,liv,1,1,2020-10
+213,amtsblatt,1,1,2020-10
+214,bicycl lan,1,1,2020-10
+215,txl 3d,1,1,2020-10
+216,13125,1,1,2020-10
+217,covot 19 in den bezirk,1,1,2020-10
+218,lak,1,1,2020-10
+219,bicycl,2,2,2020-10
+220,medianeinkomm,1,1,2020-10
+221,fahrradweg,2,2,2020-10
+222,streckennetz,1,1,2020-10
+223,erhebungsbog fur kontaktperson,1,1,2020-10
+224,zeitreih,1,1,2020-10
+225,baustell,1,1,2020-10
+226,schul kart,1,1,2020-10
+227,geometri lor,1,1,2020-10
+228,reinickendorf,1,1,2020-10
+229,baumschulenweg,1,1,2020-10
+230,json,2,2,2020-10
+231,corona dashboard bezirk,1,1,2020-10
+232,krisenstab,1,1,2020-10
+233,list krankenhaus or apothek,1,1,2020-10
+234,schul verordn,1,1,2020-10
+235,auslast der beherbergungsbetrieb,1,1,2020-10
+236,zentral leistungsstell fur asylbewerb zla,1,1,2020-10
+237,einwohnerzahl bezirk,1,1,2020-10
+238,list der haufig vornam 2019,1,1,2020-10
+239,jag,1,1,2020-10
+240,street,1,1,2020-10
+241,migrationshintergrund,1,1,2020-10
+242,platz,1,1,2020-10
+243,wfs bahnhof,2,2,2020-10
+244,nachkriegszeit,1,1,2020-10
+245,unfall or unfall,1,1,2020-10
+246,its patient,1,1,2020-10
+247,kontakt,1,1,2020-10
+248,7 tag inzidenz,1,1,2020-10
+249,general practition,1,1,2020-10
+250,hoh,1,1,2020-10
+251,wett,1,1,2020-10
+252,steglitz,1,1,2020-10
+253,spk mitt,1,1,2020-10
+254,stadt,1,1,2020-10
+255,zierbrunn,1,1,2020-10
+256,nutzung,1,1,2020-10
+257,park rid,1,1,2020-10
+258,neuinfektion in berlin in den letzt 7 tag,1,1,2020-10
+259,covid 19 in berlin 19 19 20,1,1,2020-10
+260,2013,1,1,2020-10
+261,az 5648086,1,1,2020-10
+262,html,1,1,2020-10
+263,entgeldtabell,1,1,2020-10
+264,hauskoordinatendatenbank,1,1,2020-10
+265,alt,1,1,2020-10
+266,bodenversiegel,1,1,2020-10
+267,bezirksregion berlin schoneberg,1,1,2020-10
+268,bad,1,1,2020-10
+269,baufertigstell,1,1,2020-10
+270,opvn,1,1,2020-10
+271,bevolkerungszahl,1,1,2020-10
+272,bauwerk,1,1,2020-10
+273,corona zahl spandau,1,1,2020-10
+274,coronaverteil in den bezirk,1,1,2020-10
+275,lufgutemessnetz,1,1,2020-10
+276,covid 19 aktuell stand,1,1,2020-10
+277,photovoltaikanlag in kwp,1,1,2020-10
+278,gart,1,1,2020-10
+279,entsorg,1,1,2020-10
+280,wohnlag steglitz damm,1,1,2020-10
+281,verwaltungsvorschrift,1,1,2020-10
+282,list krank,1,1,2020-10
+283,kleingart,1,1,2020-10
+284,senatsbeschluss 4 09 20,1,1,2020-10
+285,lor 2020,1,1,2020-10
+286,spinal,1,1,2020-10
+287,lorawan,1,1,2020-10
+288,nervous syst,1,1,2020-10
+289,fahrradweg,1,1,2020-10
+290,kitas,2,2,2020-10
+291,corona hotspot,1,1,2020-10
+292,fahrradweg radweg,1,1,2020-10
+293,grundwass,1,1,2020-10
+294,dtk,1,1,2020-10
+295,musik,1,1,2020-10
+296,low emission zon,1,1,2020-10
+297,hint dem kurpark friedrichshag,1,1,2020-10
+298,veith,1,1,2020-10
+299,tagesmutt,1,1,2020-10
+300,einwohnermeldeamt,1,1,2020-10
+301,kfz bestand,1,1,2020-10
+302,altpapi,1,1,2020-10
+303,pkw,1,1,2020-10
+304,neurology,1,1,2020-10
+305,berlin kart gebaud,1,1,2020-10
+306,pkw bestand,1,1,2020-10
+307,kml,1,1,2020-10
+308,wann ist corona ansteck,1,1,2020-10
+309,coronavirus,1,1,2020-10
+310,mittelstand,1,1,2020-10
+311,wasserschutzgebiet,1,1,2020-10
+312,erwerbstat,1,1,2020-10
+313,bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch,1,1,2020-10
+314,wfs,2,2,2020-10
+315,volkspark,1,1,2020-10
+316,caf,1,1,2020-10
+317,covid 19 berlin gesamt,1,1,2020-10
+318,intensivstation,1,1,2020-10
+319,grunewald,1,1,2020-10
+320,anzahl leistungsberechtigt,1,1,2020-10
+321,ruckenmark,1,1,2020-10
+322,rbb,1,1,2020-10
+323,erhebungsbog von or sar or cov 2 fall,1,1,2020-10
+324,afs,1,1,2020-10
+325,reis nach mecklenburg vorpomm,1,1,2020-10
+326,neurology,1,1,2020-10
+327,brachflach,1,1,2020-10
+328,urbanstrass,1,1,2020-10
+329,amtsgericht marzahn hellersdorf,1,1,2020-10
+330,bus,1,1,2020-10
+331,referenjz,1,1,2020-10
+332,mail,1,1,2020-10
+333,sgb,1,1,2020-10
+334,stadtbezirk,2,2,2020-10
+335,corona bezirk,1,1,2020-10
+336,denkmalschutz,1,1,2020-10
+337,covid 19 in berlin schmockwitz,1,1,2020-10
+338,pkw besitz,2,2,2020-10
+339,horst dohm stadion,1,1,2020-10
+340,anzahl leistungsberechtigt nach sgb,1,1,2020-10
+341,covid meld,1,1,2020-10
+342,amtsgericht marzahn hellersdorf,1,1,2020-10
+343,parking,1,1,2020-10
+344,berlin mitt,1,1,2020-10
+345,kitas ohn aussenbereich,1,1,2020-10
+346,unfall,2,2,2020-10
+347,standortkart,1,1,2020-10
+348,klima,1,1,2020-10
+349,neuinfektion berlin,1,1,2020-10
+350,krankheitsverlauf covid 19,1,1,2020-10
+351,covid 19 krankenhaus,1,1,2020-10
+352,wasserstand,1,1,2020-10
+353,wass,1,1,2020-10
+354,hundesteueranmeld,1,1,2020-10
+355,stadtplan,1,1,2020-10
+356,oberspreewald,1,1,2020-10
+357,bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch,1,1,2020-10
+358,corona aktuell stand,1,1,2020-10
+359,motorisier,1,1,2020-10
+360,abfall,1,1,2020-10
+361,wfs fbint,1,1,2020-10
+362,landesforstbetrieb,1,1,2020-10
+363,bvg,1,1,2020-10
+364,bezirk gesundheitsberichterstatt sozialist blockkart,1,1,2020-10
+365,wohnlagenzuordnungsverordn,1,1,2020-10
+366,corona ubersicht,1,1,2020-10
+367,flurstuck,1,1,2020-10
+368,wedding,1,1,2020-10
+369,neuinfektion corona,1,1,2020-10
+370,stadtereis nach berlin aus risikogebiet stadtereis quarantan,1,1,2020-10
+371,kdu av wohn 2020,1,1,2020-10
+372,bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch,1,1,2020-10
+373,sar cov 2,1,1,2020-10
+374,buchung,2,2,2020-10
+375,museum,1,1,2020-10
+376,todesfall corona,1,1,2020-10
+377,corona lag,1,1,2020-10
+378,berlinzulag,1,1,2020-10
+379,bezirksregion schoneberg,1,1,2020-10
+380,corona beschluss,1,1,2020-10
+381,covid 19 in schmockwitz,1,1,2020-10
+382,umweltatlas,1,1,2020-10
+383,investitionskost,1,1,2020-10
+384,einkommensverteil,1,1,2020-10
+385,kdu av wohn 2020,1,1,2020-10
+386,bezirk kart,1,1,2020-10
+387,wbl,1,1,2020-10
+388,wahl 2013,1,1,2020-10
+389,blk,1,1,2020-10
+390,wohnlagenzuordn,1,1,2020-10
+391,frost,1,1,2020-10
+392,papiercontain,1,1,2020-10
+393,sterbefall,1,1,2020-10
+394,coron,1,1,2020-10
+395,durchschnittseinkomm,1,1,2020-10
+396,gastronomi,1,1,2020-10
+397,bezirk gesundheitsberichterstatt sozialist,1,1,2020-10
+398,diplomat,1,1,2020-10
+399,webatlas,1,1,2020-10
+400,s 2885,1,1,2020-10
+401,geograf koordinat,1,1,2020-10
+402,todesrat,1,1,2020-10
+403,2018,1,1,2020-10
+404,vektor,1,1,2020-10
+405,grundwasserspiegel,1,1,2020-10
+406,strassennetz,1,1,2020-10
+407,sar cov 2 infektionsschutzverordn,1,1,2020-10
+408,haltestellenkoordinat,1,1,2020-10
+409,hint dem kurpark friedrichshag,1,1,2020-10
+410,telefon,1,1,2020-10
+411,wahl 2021,1,1,2020-10
+412,txl,1,1,2020-10
+413,wasserentnahm,1,1,2020-10
+414,150000,1,1,2020-10
+415,latern,1,1,2020-10
+416,reproduktionsrat,1,1,2020-10
+417,bezirk einwohn,1,1,2020-10
+418,hakod,1,1,2020-10
+419,corona zahl,1,1,2020-10
+420,mitt,1,1,2020-10
+421,tempelhof,1,1,2020-10
+422,nam,1,1,2020-10
+423,domain,2,2,2020-10
+424,land cov,1,1,2020-10
+425,wat,1,1,2020-10
+426,petzoldtweg,1,1,2020-10
+427,unternehmengrund,1,1,2020-10
+428,mobility,1,1,2020-10
+429,statist gebiet,1,1,2020-10
+430,geo koordinat,1,1,2020-10
+431,wfs haltestell,1,1,2020-10
+432,lageplan berlin,1,1,2020-10
+433,geometri der bezirk,1,1,2020-10
+434,corona lag innberlin,1,1,2020-10
+435,bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch,1,1,2020-10
+436,geologi,1,1,2020-10
+437,ort,1,1,2020-10
+438,corona lag,2,2,2020-10
+439,abgeordnet,1,1,2020-10
+440,einwohn lor 2018,1,1,2020-10
+441,reis,1,1,2020-10
+442,corona risikogebiet,2,2,2020-10
+443,coronavirus deutschland,1,1,2020-10
+444,ø einkomm,1,1,2020-10
+445,spz,1,1,2020-10
+446,grenz,1,1,2020-10
+447,medical wellness,1,1,2020-10
+448,olmera,1,1,2020-10
+449,covid 19 intensivstation,1,1,2020-10
+450,verkehrsnetz,1,1,2020-10
+451,lor shp,1,1,2020-10
+452,kfz statist gebiet,1,1,2020-10
+453,rbs anleit,1,1,2020-10
+454,list vornam 2020,1,1,2020-10
+455,potsdam mittelmark,1,1,2020-10
+456,covid 19 bezirk,2,2,2020-10
+457,open data,1,1,2020-10
+458,vornam,3,3,2020-10
+459,fahrgast,2,2,2020-10
+460,religion,1,1,2020-10
+461,gesetz hochstaltergrenz sdentasvorlag,1,1,2020-10
+462,corona in bezirk,1,1,2020-10
+463,3d,2,2,2020-10
+464,radweg,1,1,2020-10
+465,adressauskunft,1,1,2020-10
+466,datensatz,1,1,2020-10
+467,grun,1,1,2020-10
+468,justizstandort,1,1,2020-10
+469,erhaltungsgebiet,2,2,2020-10
+470,offent verwalt als attraktiv arbeitgeb,1,1,2020-10
+471,covid 19 tot,1,1,2020-10
+472,tod,2,2,2020-10
+473,genossenschaft,1,1,2020-10
+474,sozialpadiatri,1,1,2020-10
+475,unfall or unfall or verkehr,1,1,2020-10
+476,radverkehrsanlag,1,1,2020-10
+477,kreuzberg einwohnerdicht,1,1,2020-10
+478,neukolln,1,1,2020-10
+479,bau und wohn,1,1,2020-10
+480,alarm,1,1,2020-10
+481,handswerkamm,1,1,2020-10
+482,bebau,1,1,2020-10
+483,unfall unfall or unfall or verkehr,1,1,2020-10
+484,social media,1,1,2020-10
+485,kdu av wohn,1,1,2020-10
+486,alterstabell covid,1,1,2020-10
+487,justizstandort or marzahn hellersdorf,1,1,2020-10
+488,lebenswelt orientiert raum,1,1,2020-10
+489,coronaverteil in den bezirk,1,1,2020-10
+490,corona fallzahl 30 10 20,1,1,2020-10
+491,coronavirus bezirk,1,1,2020-10
+492,flug,1,1,2020-10
+493,serviceurl,2,2,2020-10
+494,general practition,1,1,2020-10
+495,berlin kart 1900,1,1,2020-10
+496,bachelor of law,1,1,2020-10
+497,serviceurl,1,1,2020-10
+498,corona risikogebiet,1,1,2020-10
+499,te,1,1,2020-10
+500,wohnlag kart,1,1,2020-10
+501,bum,1,1,2020-10
+502,geometri der wahlbezirk,1,1,2020-10
+503,hauserblock,2,2,2020-10
+504,tot corona,1,1,2020-10
+505,brunn,1,1,2020-10
+506,bodenrichtwert zum 01 01 2020,1,1,2020-10
+507,populationsdicht,1,1,2020-10
+508,strass stadtbezirk,1,1,2020-10
+509,covid fallzahl,1,1,2020-10
+510,covid 19 todesfall,1,1,2020-10
+511,spandau corona,1,1,2020-10
+512,bezirk geo,1,1,2020-10
+513,lidar,1,1,2020-10
+514,14 10 2020,1,1,2020-10
+515,dienstleist,1,1,2020-10
+516,lor plaungsraum,1,1,2020-10
+517,wochenmarkt,1,1,2020-10
+518,radfahr,1,1,2020-10
+519,hochschul,1,1,2020-10
+520,lod2,1,1,2020-10
+521,unemployment,1,1,2020-10
+522,datenformat,1,1,2020-10
+523,kmu,1,1,2020-10
+524,attraktiv arbeitgeb,1,1,2020-10
+525,corona lag innberlin,1,1,2020-10
+526,senat fur bildung schul,1,1,2020-10
+527,corona kart,1,1,2020-10
+528,berlin vor 1900,1,1,2020-10
+529,schlesisch bahnhof,1,1,2020-10
+530,beleucht,1,1,2020-10
+531,wohnlagenzuordnungsverordn,1,1,2020-10
+532,marzahn hellersdorf justizzentrum,1,1,2020-10
+533,1800,1,1,2020-10
+534,bezirk mitt,1,1,2020-10
+535,covid 19 zahl,1,1,2020-10
+536,einwohn lor,1,1,2020-10
+537,tempolimit,1,1,2020-10
+538,ampeln,1,1,2020-10
+539,covid erkrank,1,1,2020-10
+540,wfs db,1,1,2020-10
+541,luftverschmutz,1,1,2020-10
+542,vektordat,1,1,2020-10
+543,einwohnerdicht,1,1,2020-10
+544,flachennutz ortsteil,1,1,2020-10
+545,covid steglitz,1,1,2020-10
+546,hydrant,2,2,2020-10
+547,dgm,1,1,2020-10
+548,lag des restaurant,1,1,2020-10
+549,sozialversicherungspflicht beschaftigt,1,1,2020-10
+550,trodelmarkt,1,1,2020-10
+551,poll,1,1,2020-10
+552,liegenschaftskart berlin,1,1,2020-10
+553,denkmalkart,1,1,2020-10
+554,thed,1,1,2020-10
+555,senfin,1,1,2020-10
+556,wohnlag steglitz damm,1,1,2020-10
+557,verwaltungsgrenz,1,1,2020-10
+558,hundesteu,1,1,2020-10
+559,maskenpflicht in buros,1,1,2020-10
+560,geometri bezirk,1,1,2020-10
+561,trinkbrunn,1,1,2020-10
+562,volkspark prenzlau berg,1,1,2020-10
+563,wiebestrass,1,1,2020-10
+564,radschnellverbind,1,1,2020-10
+565,schul verordn,1,1,2020-10
+566,einwohnerzahl 2019,1,1,2020-10
+567,teu,1,1,2020-10
+568,fluglarm,1,1,2020-10
+569,klr,1,1,2020-10
+570,bevolkerungsdicht nach bezirk,1,1,2020-10
+571,koln,1,1,2020-10

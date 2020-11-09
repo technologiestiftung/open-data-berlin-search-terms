@@ -1,0 +1,423 @@
+id;term;impressions;visits;categories;month
+146;orthophoto;6;3;Geographie und Stadtplanung;2020-01
+161;josef orlopp strass;5;3;Geographie und Stadtplanung;2020-01
+249;fahrradstand;6;2;Verkehr;2020-01
+30;rbs;5;4;Geographie und Stadtplanung;2020-01
+33;gesund;5;1;Gesundheit;2020-01
+34;einwohnerzahl von gesamtberlin;5;1;Demographie;2020-01
+35;dop;5;2;Sonstiges;2020-01
+36;lastgang;5;1;Sonstiges;2020-01
+37;hydrant;5;3;Ver- und Entsorgung;2020-01
+57;besucherzahl;5;3;Sonstiges;2020-01
+63;europawahl;5;5;Wahlen;2020-01
+65;radweg;5;4;Verkehr;2020-01
+76;statisch gebiet;5;3;Demographie;2020-01
+96;s bahn;5;4;Verkehr;2020-01
+219;flurstuck;5;4;Geographie und Stadtplanung;2020-01
+21;energieverbrauch;6;2;Ver- und Entsorgung;2020-01
+22;einwohnerinn und einwohn in berlin in lor planungsraum wohnlag wohndau herkunft ausland migrationshintergrund;6;4;Demographie;2020-01
+26;einwohn nach wohndau;16;8;Demographie;2020-01
+27;wohnlag;6;3;Wohnen und Immobilien;2020-01
+62;kriminalitat;6;5;Öffentliche Verwaltung, Haushalt und Steuern;2020-01
+75;park;6;4;Geographie und Stadtplanung;2020-01
+78;miet;6;5;Wohnen und Immobilien;2020-01
+18;todesursach;7;1;Gesundheit;2020-01
+19;isu5;7;1;Sonstiges;2020-01
+25;energi;7;3;Ver- und Entsorgung;2020-01
+32;geburt;7;3;Demographie;2020-01
+13;pankow;8;5;Geographie und Stadtplanung;2020-01
+14;shp;8;1;Sonstiges;2020-01
+15;polizei;8;5;Öffentliche Verwaltung, Haushalt und Steuern;2020-01
+16;lor;8;5;Geographie und Stadtplanung;2020-01
+23;einwohnerzahl;8;5;Demographie;2020-01
+31;fahrrad;8;7;Verkehr;2020-01
+48;luftbild;8;4;Geographie und Stadtplanung;2020-01
+17;adress;9;3;Geographie und Stadtplanung;2020-01
+66;schul;9;6;Bildung;2020-01
+11;finanz;10;2;Öffentliche Verwaltung, Haushalt und Steuern;2020-01
+29;bezirk;10;6;Geographie und Stadtplanung;2020-01
+7;basis dlm;11;1;Geographie und Stadtplanung;2020-01
+20;einkomm;11;7;Demographie;2020-01
+8;bundestagswahl;12;3;Wahlen;2020-01
+28;vbb;12;10;Verkehr;2020-01
+10;nam;13;7;Demographie;2020-01
+24;gebaud;13;8;Wohnen und Immobilien;2020-01
+6;planungsraum;14;1;Geographie und Stadtplanung;2020-01
+12;alkis;15;7;Geographie und Stadtplanung;2020-01
+3;einwohnerinn und einwohn in berlin in lor planungsraum;18;3;Demographie;2020-01
+5;bahn;19;6;Verkehr;2020-01
+4;vornam;33;24;Demographie;2020-01
+2;verkehr;34;15;Verkehr;2020-01
+1;gtfs;41;35;Sonstiges;2020-01
+231;mietspiegel;11;4;Wohnen und Immobilien;2020-02
+254;adlershof;5;5;Geographie und Stadtplanung;2020-02
+281;einwohn;11;6;Demographie;2020-02
+38;vermess at ba fk berlin de;5;4;Geographie und Stadtplanung;2020-02
+39;rbs;5;3;Geographie und Stadtplanung;2020-02
+40;shp;5;2;Sonstiges;2020-02
+41;2019;5;2;Sonstiges;2020-02
+42;einwohn nach wohndau;5;2;Demographie;2020-02
+43;polizei;5;3;Öffentliche Verwaltung, Haushalt und Steuern;2020-02
+44;gebaud;5;2;Wohnen und Immobilien;2020-02
+45;alkis berlin;5;1;Geographie und Stadtplanung;2020-02
+47;breitband;5;3;Wirtschaft;2020-02
+57;wohndau;5;2;Wohnen und Immobilien;2020-02
+64;strassenbefahr;5;2;Geographie und Stadtplanung;2020-02
+75;opnv;5;2;Verkehr;2020-02
+83;kriminalitat;5;3;Öffentliche Verwaltung, Haushalt und Steuern;2020-02
+90;wass;5;3;Umwelt und Klima;2020-02
+95;plz;5;2;Geographie und Stadtplanung;2020-02
+100;haf;5;2;Sonstiges;2020-02
+131;bebauungssplan;5;3;Geographie und Stadtplanung;2020-02
+241;stolperstein;5;4;Kunst und Kultur;2020-02
+31;geodat luftbild;6;1;Geographie und Stadtplanung;2020-02
+32;wohnlagenzuordn;6;2;Wohnen und Immobilien;2020-02
+34;lebenswelt;6;1;Geographie und Stadtplanung;2020-02
+46;standort;6;2;Geographie und Stadtplanung;2020-02
+49;geburt;6;5;Demographie;2020-02
+56;stadtplan;6;4;Geographie und Stadtplanung;2020-02
+62;haltestell;6;4;Verkehr;2020-02
+69;mindestlohn;6;5;Arbeitsmarkt;2020-02
+78;steglitz zehlendorf;6;5;Geographie und Stadtplanung;2020-02
+29;reinickendorf;7;4;Geographie und Stadtplanung;2020-02
+35;bericht;7;2;Öffentliche Verwaltung, Haushalt und Steuern;2020-02
+48;fahrplan;7;3;Verkehr;2020-02
+81;alkis;7;6;Geographie und Stadtplanung;2020-02
+22;friedrichshain kreuzberg;8;5;Geographie und Stadtplanung;2020-02
+23;einwohnerinn und einwohn in berlin in lor planungsraum wohnlag wohndau herkunft ausland migrationshintergrund;8;3;Demographie;2020-02
+27;grunflach;8;3;Geographie und Stadtplanung;2020-02
+53;steglitz;8;6;Geographie und Stadtplanung;2020-02
+18;ausland einwohnerinn;9;2;Demographie;2020-02
+33;bodenrichtwert;9;3;Wohnen und Immobilien;2020-02
+36;neukolln;9;4;Geographie und Stadtplanung;2020-02
+37;toilett;9;5;Gesundheit;2020-02
+16;einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum;10;1;Demographie;2020-02
+20;adress;10;7;Geographie und Stadtplanung;2020-02
+11;einwohnerinn und einwohn in den ortsteil berlin;12;2;Demographie;2020-02
+13;dop;12;5;Sonstiges;2020-02
+14;vbb;12;10;Verkehr;2020-02
+15;ortsteil;12;5;Geographie und Stadtplanung;2020-02
+26;einkomm;12;4;Demographie;2020-02
+17;lor;13;9;Geographie und Stadtplanung;2020-02
+25;strass;13;6;Geographie und Stadtplanung;2020-02
+9;berlin;14;3;Geographie und Stadtplanung;2020-02
+5;kita;15;10;Jugend;2020-02
+19;grw;15;6;Wirtschaft;2020-02
+21;park;15;8;Geographie und Stadtplanung;2020-02
+28;bezirk;15;11;Geographie und Stadtplanung;2020-02
+4;mitt;17;5;Sonstiges;2020-02
+8;fahrrad;18;9;Verkehr;2020-02
+3;verkehr;19;6;Verkehr;2020-02
+10;haushalt;20;2;Öffentliche Verwaltung, Haushalt und Steuern;2020-02
+1;lichtenberg;21;8;Geographie und Stadtplanung;2020-02
+6;vornam;22;15;Demographie;2020-02
+7;nam;23;8;Demographie;2020-02
+12;block;24;6;Geographie und Stadtplanung;2020-02
+2;gtfs;26;23;Sonstiges;2020-02
+155;flur plan;5;2;Geographie und Stadtplanung;2020-03
+195;corona;96;76;Gesundheit;2020-03
+30;parchwitz str;5;1;Geographie und Stadtplanung;2020-03
+31;mietspiegel;5;4;Wohnen und Immobilien;2020-03
+32;geodat grundwass;5;1;Geographie und Stadtplanung;2020-03
+34;wass wms wfs;5;1;Geographie und Stadtplanung;2020-03
+37;einwohnerinn und einwohn in berlin in lor planungsraum;14;3;Demographie;2020-03
+40;bahn;5;1;Verkehr;2020-03
+41;10553 berlin;5;1;Geographie und Stadtplanung;2020-03
+66;grundwass;5;2;Umwelt und Klima;2020-03
+67;bevolkerungszahl;5;2;Demographie;2020-03
+80;krankenhaus;5;5;Gesundheit;2020-03
+86;wohnbauflach;5;2;Wohnen und Immobilien;2020-03
+89;wass;5;3;Umwelt und Klima;2020-03
+92;ladesaul;5;3;Verkehr;2020-03
+103;wohnlag;5;2;Wohnen und Immobilien;2020-03
+106;alleinerzieh;5;3;Demographie;2020-03
+114;covid 19;5;3;Gesundheit;2020-03
+115;sport;5;2;Sport und Erholung;2020-03
+21;verkehrslenk;6;3;Verkehr;2020-03
+22;umweltzon;6;2;Verkehr;2020-03
+23;lor planungsraum;6;2;Geographie und Stadtplanung;2020-03
+26;vermess;6;3;Geographie und Stadtplanung;2020-03
+27;geologi wms wfs;6;1;Umwelt und Klima;2020-03
+29;freistell;6;1;Sonstiges;2020-03
+38;solaranlag;6;2;Ver- und Entsorgung;2020-03
+39;flurstuck;6;3;Geographie und Stadtplanung;2020-03
+44;adress;6;4;Geographie und Stadtplanung;2020-03
+61;rbs;6;3;Geographie und Stadtplanung;2020-03
+208;arbeitslos;6;5;Arbeitsmarkt;2020-03
+25;grenz;7;3;Geographie und Stadtplanung;2020-03
+33;naturdenkmal;7;5;Kunst und Kultur;2020-03
+42;fahrrad;7;6;Verkehr;2020-03
+45;einwohnerzahl;7;7;Demographie;2020-03
+18;kita;8;8;Jugend;2020-03
+19;einwohn lor planungsraum;8;1;Demographie;2020-03
+24;verkehr;8;3;Verkehr;2020-03
+35;luftbild;8;3;Geographie und Stadtplanung;2020-03
+52;gebaud;8;5;Wohnen und Immobilien;2020-03
+15;servic;9;1;Sonstiges;2020-03
+69;student;9;4;Bildung;2020-03
+13;coronavirus;10;4;Gesundheit;2020-03
+36;ortsteil;10;3;Geographie und Stadtplanung;2020-03
+14;wohn;11;3;Wohnen und Immobilien;2020-03
+20;einkomm;11;4;Demographie;2020-03
+10;geologi;12;2;Umwelt und Klima;2020-03
+12;alkis;12;4;Geographie und Stadtplanung;2020-03
+17;bezirk;12;10;Geographie und Stadtplanung;2020-03
+53;senatsbeschluss;12;10;Protokolle und Beschlüsse;2020-03
+28;dgm;13;7;Geographie und Stadtplanung;2020-03
+6;wms;14;5;Sonstiges;2020-03
+9;wohndau;14;3;Wohnen und Immobilien;2020-03
+11;gtfs;14;11;Sonstiges;2020-03
+4;umweltatlas;15;1;Umwelt und Klima;2020-03
+5;bodenrichtwert;15;3;Wohnen und Immobilien;2020-03
+7;einwohn;18;11;Demographie;2020-03
+3;toilett;19;5;Gesundheit;2020-03
+2;lor;21;9;Geographie und Stadtplanung;2020-03
+8;block;27;4;Geographie und Stadtplanung;2020-03
+238;orthophoto;13;5;Geographie und Stadtplanung;2020-04
+246;hamburg bahnhof orthofoto;5;2;Geographie und Stadtplanung;2020-04
+434;mindestlohn;5;3;Arbeitsmarkt;2020-04
+34;geodat;5;3;Sonstiges;2020-04
+37;crim;5;3;Sonstiges;2020-04
+39;kita;5;4;Jugend;2020-04
+42;gehweg;5;2;Geographie und Stadtplanung;2020-04
+44;beschaftigt;5;2;Arbeitsmarkt;2020-04
+45;immobili;5;3;Wohnen und Immobilien;2020-04
+47;toilett;5;4;Gesundheit;2020-04
+53;block;5;2;Geographie und Stadtplanung;2020-04
+57;miet;5;5;Wohnen und Immobilien;2020-04
+59;stadtplan;5;2;Geographie und Stadtplanung;2020-04
+66;tourismus;5;5;Tourismus;2020-04
+168;park;5;4;Geographie und Stadtplanung;2020-04
+25;histor kart;6;1;Geographie und Stadtplanung;2020-04
+26;einwohnerinn und einwohn in berlin in lor planungsraum;6;3;Demographie;2020-04
+28;list;6;1;Sonstiges;2020-04
+29;liegenschaftskatast;6;2;Geographie und Stadtplanung;2020-04
+30;api;6;2;Sonstiges;2020-04
+56;einkomm;6;5;Demographie;2020-04
+75;strass;6;4;Geographie und Stadtplanung;2020-04
+96;gemark;6;4;Sonstiges;2020-04
+19;alt;7;4;Demographie;2020-04
+22;wms;7;3;Sonstiges;2020-04
+23;breitband;7;3;Wirtschaft;2020-04
+24;denkmallist;7;2;Kunst und Kultur;2020-04
+38;aktuell einwohnerzahl;7;4;Demographie;2020-04
+40;opnv;7;6;Verkehr;2020-04
+46;haushalt;7;4;Öffentliche Verwaltung, Haushalt und Steuern;2020-04
+81;senatsbeschluss;7;6;Protokolle und Beschlüsse;2020-04
+16;shp;8;2;Sonstiges;2020-04
+17;flach;8;1;Sonstiges;2020-04
+20;adress;8;4;Geographie und Stadtplanung;2020-04
+31;bvg;8;5;Verkehr;2020-04
+32;hoh;8;4;Sonstiges;2020-04
+35;einwohnerzahl;8;7;Demographie;2020-04
+70;baum;9;9;Geographie und Stadtplanung;2020-04
+33;grundwass;10;3;Umwelt und Klima;2020-04
+9;gesund;11;3;Gesundheit;2020-04
+10;larmkart;11;1;Umwelt und Klima;2020-04
+12;bodenrichtwert;11;4;Wohnen und Immobilien;2020-04
+13;gtfs;11;10;Sonstiges;2020-04
+36;krankenhaus;11;8;Gesundheit;2020-04
+8;einwohn;13;7;Demographie;2020-04
+21;ortsteil;13;9;Geographie und Stadtplanung;2020-04
+7;fahrrad;14;9;Verkehr;2020-04
+14;gebaud;14;6;Wohnen und Immobilien;2020-04
+11;luftbild;15;3;Geographie und Stadtplanung;2020-04
+27;bezirk;15;10;Geographie und Stadtplanung;2020-04
+18;alkis;16;2;Geographie und Stadtplanung;2020-04
+4;lor;23;10;Geographie und Stadtplanung;2020-04
+2;verkehr;24;8;Verkehr;2020-04
+6;rbs;24;5;Geographie und Stadtplanung;2020-04
+5;schul;25;11;Bildung;2020-04
+3;kart;30;4;Geographie und Stadtplanung;2020-04
+1;corona;35;26;Gesundheit;2020-04
+129;grunanlagenbestand;34;25;Geographie und Stadtplanung;2020-05
+150;orthophoto;7;4;Geographie und Stadtplanung;2020-05
+252;gebaud;18;4;Wohnen und Immobilien;2020-05
+486;grunanlag;28;16;Geographie und Stadtplanung;2020-05
+100;statisch gebiet;7;2;Demographie;2020-05
+90;carsharing;8;6;Verkehr;2020-05
+41;kart;5;3;Geographie und Stadtplanung;2020-05
+42;locker bei kneip;5;2;Sonstiges;2020-05
+43;wald;5;2;Umwelt und Klima;2020-05
+44;lor planungsraum am 31 12 2008;5;1;Geographie und Stadtplanung;2020-05
+45;soforthilf ii;5;2;Sozialleistungen;2020-05
+46;breitband;5;3;Wirtschaft;2020-05
+62;kita;5;4;Jugend;2020-05
+63;altlast;5;2;Ver- und Entsorgung;2020-05
+78;larm;5;5;Sonstiges;2020-05
+92;sport;5;4;Sport und Erholung;2020-05
+105;grundschul;5;3;Bildung;2020-05
+231;postleitzahl;5;5;Geographie und Stadtplanung;2020-05
+34;pankow;6;3;Geographie und Stadtplanung;2020-05
+36;brandenburg;6;1;Geographie und Stadtplanung;2020-05
+37;grundstuck;6;1;Wohnen und Immobilien;2020-05
+39;entsorg;6;1;Ver- und Entsorgung;2020-05
+40;ba fk berlin de;6;1;Sonstiges;2020-05
+52;berlin mau;6;3;Geographie und Stadtplanung;2020-05
+56;nam;6;4;Demographie;2020-05
+59;api;6;4;Sonstiges;2020-05
+70;verbraucherpreis;6;5;Verbraucherschutz;2020-05
+88;stadtteil;6;6;Geographie und Stadtplanung;2020-05
+153;strass;6;4;Geographie und Stadtplanung;2020-05
+28;sozialstruktur;7;1;Demographie;2020-05
+29;brunn;7;5;Geographie und Stadtplanung;2020-05
+30;wfs;7;1;Sonstiges;2020-05
+31;emission;7;1;Umwelt und Klima;2020-05
+32;gtfs;7;7;Sonstiges;2020-05
+35;alkis;7;6;Geographie und Stadtplanung;2020-05
+23;grun;8;2;Geographie und Stadtplanung;2020-05
+33;ladesaul;8;5;Verkehr;2020-05
+38;berlin de;8;2;Sonstiges;2020-05
+47;trodelmarkt;8;7;Sport und Erholung;2020-05
+57;flurkart;8;3;Geographie und Stadtplanung;2020-05
+19;verkehr;9;3;Verkehr;2020-05
+27;vbb;10;8;Verkehr;2020-05
+12;erdwarm;11;1;Umwelt und Klima;2020-05
+13;bvg;11;6;Verkehr;2020-05
+18;luftbild;11;4;Geographie und Stadtplanung;2020-05
+25;fahrrad;11;10;Verkehr;2020-05
+16;wms;12;3;Sonstiges;2020-05
+20;baum;12;6;Geographie und Stadtplanung;2020-05
+21;land;12;4;Geographie und Stadtplanung;2020-05
+24;bezirk;12;7;Geographie und Stadtplanung;2020-05
+26;einwohn;12;7;Demographie;2020-05
+15;vornam;13;12;Demographie;2020-05
+8;kind;17;3;Jugend;2020-05
+5;planungsraum;18;3;Geographie und Stadtplanung;2020-05
+2;vermess at ba fk berlin de;20;9;Geographie und Stadtplanung;2020-05
+4;rbs;21;3;Geographie und Stadtplanung;2020-05
+11;corona;21;17;Gesundheit;2020-05
+17;grunflach;21;11;Geographie und Stadtplanung;2020-05
+22;schul;21;9;Bildung;2020-05
+14;haushalt;23;10;Öffentliche Verwaltung, Haushalt und Steuern;2020-05
+10;ortsteil;28;8;Geographie und Stadtplanung;2020-05
+6;spielplatz;29;14;Sport und Erholung;2020-05
+1;friedrichshain kreuzberg;71;27;Geographie und Stadtplanung;2020-05
+33;wms;5;3;Sonstiges;2020-06
+35;katast;5;1;Geographie und Stadtplanung;2020-06
+37;grunflach;5;3;Geographie und Stadtplanung;2020-06
+38;c berlin gewass;5;1;Umwelt und Klima;2020-06
+39;wasserbetrieb;5;2;Ver- und Entsorgung;2020-06
+40;herkunft;5;2;Demographie;2020-06
+43;arbeit;5;3;Arbeitsmarkt;2020-06
+46;schul;5;4;Bildung;2020-06
+49;alt;5;3;Demographie;2020-06
+50;einschul;5;4;Bildung;2020-06
+52;3d;5;5;Sonstiges;2020-06
+56;mietendeckel;5;2;Wohnen und Immobilien;2020-06
+66;abfall;5;3;Ver- und Entsorgung;2020-06
+67;c statist gebiet;5;2;Demographie;2020-06
+68;strassennam;5;5;Geographie und Stadtplanung;2020-06
+79;postleitzahl;5;3;Geographie und Stadtplanung;2020-06
+83;warm;5;2;Sonstiges;2020-06
+86;luftbild;5;4;Geographie und Stadtplanung;2020-06
+29;c offent gesundheitsdien;6;1;Gesundheit;2020-06
+30;spandau;6;1;Geographie und Stadtplanung;2020-06
+36;flachennutz;6;3;Geographie und Stadtplanung;2020-06
+51;mensch;6;2;Sonstiges;2020-06
+57;c lor bezirksnumm;6;2;Geographie und Stadtplanung;2020-06
+21;adress;7;1;Geographie und Stadtplanung;2020-06
+22;kita;7;5;Jugend;2020-06
+23;strassenbefahr;7;1;Geographie und Stadtplanung;2020-06
+24;fahrrad;7;4;Verkehr;2020-06
+25;grundwass;7;2;Umwelt und Klima;2020-06
+26;radrout;7;6;Verkehr;2020-06
+53;c mietenwog bln;7;2;Sonstiges;2020-06
+113;miet;7;6;Wohnen und Immobilien;2020-06
+13;baumbestand;8;7;Geographie und Stadtplanung;2020-06
+20;unfall;8;5;Verkehr;2020-06
+31;corona;8;8;Gesundheit;2020-06
+41;flurkart;8;4;Geographie und Stadtplanung;2020-06
+11;einwohn;9;6;Demographie;2020-06
+12;vbb;9;6;Verkehr;2020-06
+15;bezirk;9;4;Geographie und Stadtplanung;2020-06
+28;spielplatz;9;6;Sport und Erholung;2020-06
+34;baum;9;8;Geographie und Stadtplanung;2020-06
+17;lor;10;8;Geographie und Stadtplanung;2020-06
+18;arbeitslos;10;3;Arbeitsmarkt;2020-06
+8;pfleg;11;2;Gesundheit;2020-06
+10;kriminalitat;11;9;Öffentliche Verwaltung, Haushalt und Steuern;2020-06
+27;gtfs;11;10;Sonstiges;2020-06
+58;park;11;8;Geographie und Stadtplanung;2020-06
+14;rbs;13;7;Geographie und Stadtplanung;2020-06
+19;einkomm;13;9;Demographie;2020-06
+6;wfs;14;3;Sonstiges;2020-06
+9;trinkbrunn;14;13;Geographie und Stadtplanung;2020-06
+16;ortsteil;14;6;Geographie und Stadtplanung;2020-06
+5;grundwassergleich;15;3;Umwelt und Klima;2020-06
+7;alkis;16;5;Geographie und Stadtplanung;2020-06
+3;verkehr;19;7;Verkehr;2020-06
+4;strass;33;10;Geographie und Stadtplanung;2020-06
+2;friedrichshain kreuzberg;36;26;Geographie und Stadtplanung;2020-06
+1;vermess at ba fk berlin de;41;23;Geographie und Stadtplanung;2020-06
+42;wfs dat;5;1;Geographie und Stadtplanung;2020-07
+44;solar;5;3;Ver- und Entsorgung;2020-07
+45;fisbrok;5;1;Geographie und Stadtplanung;2020-07
+46;kreuzberg;5;2;Geographie und Stadtplanung;2020-07
+48;hauskoordinat;5;2;Geographie und Stadtplanung;2020-07
+49;bautrag bezirk;5;1;Sonstiges;2020-07
+50;luft;5;5;Umwelt und Klima;2020-07
+51;standort;5;2;Geographie und Stadtplanung;2020-07
+52;vorkaufsrecht;5;1;Wohnen und Immobilien;2020-07
+54;alt geschlecht;5;1;Demographie;2020-07
+56;bodenrichtwert;5;2;Wohnen und Immobilien;2020-07
+58;stellenbewert;5;1;Sonstiges;2020-07
+59;tischtennisplatt;5;1;Sport und Erholung;2020-07
+77;postleitzahl;5;3;Geographie und Stadtplanung;2020-07
+84;flurstucksgrenz;5;2;Geographie und Stadtplanung;2020-07
+91;population;5;4;Demographie;2020-07
+111;dgm;5;3;Geographie und Stadtplanung;2020-07
+121;restaurantbesuch;5;2;Sport und Erholung;2020-07
+137;einwohn 2019;5;2;Demographie;2020-07
+32;wass;6;4;Umwelt und Klima;2020-07
+36;sport;6;1;Sport und Erholung;2020-07
+39;covid;6;3;Gesundheit;2020-07
+40;klimatolog kenndat;6;1;Umwelt und Klima;2020-07
+47;solaranlag;6;2;Ver- und Entsorgung;2020-07
+53;parkraum;6;4;Verkehr;2020-07
+62;tegel;6;3;Geographie und Stadtplanung;2020-07
+75;plz;6;4;Geographie und Stadtplanung;2020-07
+87;21 07 2020;6;2;Sonstiges;2020-07
+29;rast;7;1;Sonstiges;2020-07
+30;ubersichtskart;7;1;Geographie und Stadtplanung;2020-07
+34;energi;7;3;Ver- und Entsorgung;2020-07
+57;dtk;7;2;Sonstiges;2020-07
+60;bevolker;7;3;Demographie;2020-07
+72;park;7;6;Geographie und Stadtplanung;2020-07
+73;senatsbeschluss;7;5;Protokolle und Beschlüsse;2020-07
+24;energieverbrauch;8;2;Ver- und Entsorgung;2020-07
+25;radrout;8;7;Verkehr;2020-07
+27;dtk25;8;1;Sonstiges;2020-07
+31;kita;8;6;Jugend;2020-07
+61;gebaud;8;5;Wohnen und Immobilien;2020-07
+68;3d;8;6;Sonstiges;2020-07
+26;flurstuck;9;2;Geographie und Stadtplanung;2020-07
+33;ortsteil;9;5;Geographie und Stadtplanung;2020-07
+20;pankow;10;3;Geographie und Stadtplanung;2020-07
+21;adress;10;3;Geographie und Stadtplanung;2020-07
+28;schul;10;6;Bildung;2020-07
+37;3d dat;10;4;Geographie und Stadtplanung;2020-07
+17;wfs;11;1;Sonstiges;2020-07
+18;prognos;11;1;Sonstiges;2020-07
+35;block;11;4;Geographie und Stadtplanung;2020-07
+19;radweg;12;9;Verkehr;2020-07
+38;vornam;12;4;Demographie;2020-07
+41;baum;12;8;Geographie und Stadtplanung;2020-07
+43;s bahn;12;3;Verkehr;2020-07
+13;gtfs;15;8;Sonstiges;2020-07
+14;bvg;16;3;Verkehr;2020-07
+7;planungsraum;17;1;Geographie und Stadtplanung;2020-07
+9;fahrrad;17;5;Verkehr;2020-07
+15;bezirk;17;9;Geographie und Stadtplanung;2020-07
+22;einwohn;17;3;Demographie;2020-07
+6;corona;18;12;Gesundheit;2020-07
+12;verkehr;18;5;Verkehr;2020-07
+16;lor;19;9;Geographie und Stadtplanung;2020-07
+5;einschulbereich;20;7;Bildung;2020-07
+8;kart;22;3;Geographie und Stadtplanung;2020-07
+3;vermess at ba fk berlin de;26;14;Geographie und Stadtplanung;2020-07
+4;luftbild;26;7;Geographie und Stadtplanung;2020-07
+10;einkomm;27;10;Demographie;2020-07
+11;strass;28;7;Geographie und Stadtplanung;2020-07
+1;friedrichshain kreuzberg;43;15;Geographie und Stadtplanung;2020-07
+2;alkis;46;13;Geographie und Stadtplanung;2020-07

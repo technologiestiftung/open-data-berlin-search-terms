@@ -1,22 +1,26 @@
 # create dictionary that collects all unique terms
 keep = {}
 
-list_of_months = ['2020-06','2020-07']
+list_of_months = [
+    #'2019-02','2019-03','2019-04','2019-05','2019-06',
+    #'2019-07','2019-08','2019-09','2019-10','2019-11','2019-12',
+    '2020-01','2020-02','2020-03','2020-04','2020-05', '2020-06','2020-07'
+     '2020-08','2020-09','2020-10']
 
 for tmp_month in list_of_months:
 # load csv
-    with open("data/clean_terms_all2_5.csv", 'r') as f:
+    with open("data/all_months/initial_cleaning/clean_terms_all.csv", 'r') as f:
         # skip header
         for i, line in enumerate(f):
             if i == 0:
                 continue
             id_, term, impressions, visits, month = line.strip().split(',')
             # remove quotemarks and cast to integers
-            id_ = id_[1:-1]
-            term = term[1:-1]
-            impressions = int(impressions[1:-1])
-            visits = int(visits[1:-1])
-            month = month[1:-1]
+            #id_ = id_[1:-1]
+            #term = term[1:-1]
+            impressions = int(impressions)
+            #visits = int(visits[1:-1])
+            #month = month[1:-1]
             print(month)
             print(tmp_month)
             if month == tmp_month:

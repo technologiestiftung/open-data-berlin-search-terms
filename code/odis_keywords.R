@@ -8,13 +8,13 @@ library(tidyr)
 library(data.table)
 
 # Import JSON dataset
-json_file <- fromJSON("/Users/evelynebrie/Dropbox/CityLab/ODIS/daten_berlin_de.searchterms.json")
+json_file <- fromJSON("/Users/lisa/Desktop/daten_berlin_de.searchterms.json")
 
 # Convert to list
 list_json <- map_if(json_file, is.data.frame, list) 
 
 # Extract search terms
-searchTerms <- list_json$stats$months$`2020-05`$terms
+searchTerms <- list_json$stats$months$`2020-08`$terms
 
 # Unlist search terms
 unl_searchTerms <- as.data.frame(unlist(searchTerms))
@@ -67,4 +67,4 @@ clean_df$term_stem <- trim(clean_df$term_stem)
 dim(df)[1]-dim(clean_df)[1]
 
 # Export .csv file
-write.csv(clean_df,"/Users/evelynebrie/Dropbox/CityLab/ODIS/clean_terms.csv")
+write.csv(clean_df,"/Users/lisa/Desktop/clean_terms.csv")

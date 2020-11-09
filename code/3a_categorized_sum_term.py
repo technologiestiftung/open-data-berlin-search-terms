@@ -1,7 +1,7 @@
 # create dictionary that collects all unique terms
 keep = {}
 # load csv
-with open("data/all_months/processed_al5/2_categorized.csv", 'r') as f:
+with open("data/all_months/processed_al5/2_categorized_2020.csv", 'r') as f:
     # skip header
     for i, line in enumerate(f):
         if i == 0:
@@ -24,7 +24,7 @@ with open("data/all_months/processed_al5/2_categorized.csv", 'r') as f:
     f.close()
     
 # save dictionary to new csv
-with open('data/all_months/processed_al5/3a_categorized_sum_term.csv', 'w') as newf:
+with open('data/all_months/processed_al5/3a_categorized_sum_term_2020.csv', 'w') as newf:
     for term in keep.keys():
         fid, imp, vis, cat = keep[term]
         # add term to csv only if it has at least 2 impressions

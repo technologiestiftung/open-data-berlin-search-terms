@@ -1039,3 +1039,267 @@ Unnamed: 0;term_stem;impressions;visits;month
 1;c vermess at ba fk berlin de;41;23;2020-06
 1;friedrichshain kreuzberg;43;15;2020-07
 2;alkis;46;13;2020-07
+82;larm;5;3;2020-08
+83;stadtplan gebiet;5;1;2020-08
+84;prozess;5;1;2020-08
+85;inspir;5;1;2020-08
+86;statbezirksgrenz;5;1;2020-08
+87;schwarzrotgold;5;1;2020-08
+88;tourismus;5;1;2020-08
+89;suchbegriff;5;2;2020-08
+90;wasserqualitat;5;1;2020-08
+92;babelsberg strass;5;1;2020-08
+94;planungsraum;5;1;2020-08
+95;feuerwehr;5;2;2020-08
+97;jugendarbeitslos;5;1;2020-08
+98;wahl 2013;5;1;2020-08
+99;radverkehr;5;2;2020-08
+100;citygml;5;2;2020-08
+106;feuerwerk;5;2;2020-08
+112;abfall;5;2;2020-08
+114;kiez;5;4;2020-08
+127;insolvenz;5;2;2020-08
+138;dop;5;3;2020-08
+174;bezirksgrenz;5;3;2020-08
+179;berlin blohmstrass;5;2;2020-08
+212;senatsbeschluss;5;3;2020-08
+217;hochschul;5;3;2020-08
+70;gewass;5;3;2020-09
+72;co2;5;1;2020-09
+75;senatsvorlag;5;3;2020-09
+76;verkehrszeich;5;1;2020-09
+77;rbs;5;2;2020-09
+78;bevolkerungsentwickl;5;2;2020-09
+80;religion;5;2;2020-09
+81;ampeln;5;2;2020-09
+82;energi;5;2;2020-09
+83;jugendarbeitslos;5;1;2020-09
+84;bevolker berlin 2019;5;1;2020-09
+85;wochenmarkt;5;3;2020-09
+86;hellersdorf;5;2;2020-09
+88;miet;5;2;2020-09
+90;stadtplan;5;1;2020-09
+97;alt;5;3;2020-09
+98;strassenbefahr;5;2;2020-09
+117;hydrant;5;2;2020-09
+139;hauptstadtzulag;5;2;2020-09
+145;strassenverzeichnis;5;2;2020-09
+147;grunflach;5;3;2020-09
+30;bezirk gesundheitsberichterstatt;5;1;2020-10
+33;location of the restaurant;5;1;2020-10
+34;bezirksamt mitt;5;1;2020-10
+35;vbb;5;2;2020-10
+37;grun berlin;5;1;2020-10
+38;bezirksgrenz moabit;5;1;2020-10
+43;bevolker;5;4;2020-10
+50;wahl;5;3;2020-10
+51;rbs;5;4;2020-10
+53;corona lagebericht;5;4;2020-10
+63;adress;5;4;2020-10
+66;verkehr;5;4;2020-10
+60;shapefil;6;3;2020-08
+61;dgm;6;2;2020-08
+62;basis dlm;6;1;2020-08
+64;migrationshintergrund;6;1;2020-08
+66;strassenverzeichnis lichtenberg;6;1;2020-08
+67;einkomm bezirk;6;1;2020-08
+68;plz;6;1;2020-08
+70;geobasisdat;6;1;2020-08
+71;versiegel;6;1;2020-08
+72;geschossflachenzahl;6;2;2020-08
+73;grunflach;6;1;2020-08
+74;plr;6;1;2020-08
+77;neukolln;6;2;2020-08
+78;kita;6;2;2020-08
+80;haltestell;6;4;2020-08
+81;baum;6;2;2020-08
+104;gebaud;6;4;2020-08
+124;viertel;6;5;2020-08
+153;unfall;6;2;2020-08
+55;verkehr;6;4;2020-09
+56;internet;6;2;2020-09
+57;energieverbrauch;6;3;2020-09
+58;dgm;6;4;2020-09
+59;train;6;1;2020-09
+60;landschaftsprogramm;6;1;2020-09
+61;pankow;6;2;2020-09
+63;grundschuleinzugsbereich;6;1;2020-09
+66;k5 berlin;6;1;2020-09
+68;bodenrichtwert zum 01 01 2020;6;1;2020-09
+69;armut;6;1;2020-09
+73;gebaud;6;3;2020-09
+116;park;6;3;2020-09
+169;hackathon;6;2;2020-09
+20;lichtenberg;6;2;2020-10
+22;wald;6;1;2020-10
+24;bildung;6;1;2020-10
+32;einwohnerzahl;6;4;2020-10
+44;amt fur statist;6;2;2020-10
+71;xls;6;3;2020-10
+80;covid 19;6;3;2020-10
+49;gewass;7;2;2020-08
+50;stadtplan 1990;7;1;2020-08
+51;luftqualitat;7;2;2020-08
+52;geojson;7;1;2020-08
+54;fahrrad;7;2;2020-08
+55;arzt;7;1;2020-08
+56;erwerbstat;7;1;2020-08
+58;oberflach;7;2;2020-08
+59;gpx;7;1;2020-08
+65;luftbild;7;4;2020-08
+69;bod wfs;7;2;2020-08
+75;kart;7;2;2020-08
+96;lichtenberg;7;3;2020-08
+48;corona verteil;7;2;2020-09
+52;k 5;7;1;2020-09
+53;kart;7;1;2020-09
+54;wahl;7;2;2020-09
+65;kurt schumach platz;7;2;2020-09
+67;hohenfestpunkt;7;2;2020-09
+87;vbb;7;3;2020-09
+92;polizei;7;2;2020-09
+16;marzahn hellersdorf;7;2;2020-10
+17;pankow;7;4;2020-10
+18;sgb ii;7;1;2020-10
+23;gis;7;4;2020-10
+39;ampel;7;4;2020-10
+47;wohnung;7;3;2020-10
+48;fahrrad;7;6;2020-10
+44;umweltatlas;8;1;2020-08
+45;gas;8;1;2020-08
+46;zip shp;8;1;2020-08
+47;flachennutzungsplan;8;1;2020-08
+48;kirch;8;2;2020-08
+53;gebiet;8;2;2020-08
+63;bvg;8;2;2020-08
+45;csv;8;3;2020-09
+46;solaranlag;8;1;2020-09
+47;alkis berlin gebaud;8;1;2020-09
+49;fahrrad;8;4;2020-09
+62;zip shp;8;2;2020-09
+74;stromnetz;8;3;2020-09
+89;gtfs;8;5;2020-09
+12;planungsraum;8;2;2020-10
+13;csv;8;3;2020-10
+25;arbeitslos;8;3;2020-10
+31;schul;8;4;2020-10
+56;luftbild;8;3;2020-10
+35;grun und freiflachenbestand;9;1;2020-08
+36;einkomm;9;3;2020-08
+37;hohenfestpunkt;9;2;2020-08
+57;grundwass;9;3;2020-08
+199;einschulbereich;9;4;2020-08
+39;kml;9;3;2020-09
+40;shapefil;9;4;2020-09
+41;bau;9;2;2020-09
+43;bezirk geodat;9;1;2020-09
+44;bundestagswahl;9;4;2020-09
+50;bus;9;4;2020-09
+71;bvg;9;4;2020-09
+79;einschulungsbereich;9;5;2020-09
+9;gtfs;9;8;2020-10
+19;bezirksregion;9;3;2020-10
+21;einwohn;9;6;2020-10
+41;corona ampel;9;7;2020-10
+33;postleitzahl;10;1;2020-08
+76;spielplatz;10;4;2020-08
+91;stadtteil;10;6;2020-08
+36;migrationshintergrund;10;5;2020-09
+38;shap;10;4;2020-09
+7;flachennutz;10;1;2020-10
+8;bodenrichtwert;10;1;2020-10
+15;forst;10;4;2020-10
+28;strass;10;4;2020-10
+29;geometri;10;7;2020-10
+29;einwohnerzahl;11;2;2020-08
+34;gtfs;11;5;2020-08
+38;berlin wasserbetrieb;11;2;2020-08
+40;dashboard;11;2;2020-08
+64;bildung;11;4;2020-09
+10;park;11;5;2020-10
+26;senatsverwalt jugend or kostensatz fachleistungsstund;12;1;2020-08
+79;e recruiting;12;3;2020-08
+93;alkis;12;7;2020-08
+42;block;12;3;2020-09
+51;reinickendorf;12;4;2020-09
+11;lor;12;5;2020-10
+14;baum;12;10;2020-10
+26;bezirk;12;9;2020-10
+27;covid 19;12;12;2020-10
+36;covid;12;10;2020-10
+25;vbb;13;5;2020-08
+32;miet;13;5;2020-08
+39;jugend;13;2;2020-08
+27;einwohn;13;4;2020-09
+28;mahlsdorf;13;4;2020-09
+29;umwelt;13;1;2020-09
+6;wohn;13;1;2020-10
+19;opnv;14;1;2020-08
+42;asylblg;14;2;2020-08
+43;flurstuck;14;4;2020-08
+24;bodenrichtwert;14;1;2020-09
+30;wass;14;5;2020-09
+35;einkomm;14;5;2020-09
+37;bezirksgrenz;14;4;2020-09
+5;energi;14;1;2020-10
+17;mss;15;1;2020-08
+18;strass;15;3;2020-08
+22;bevolker;15;4;2020-09
+23;bevolker berlin;15;1;2020-09
+34;markt;15;4;2020-09
+3;vermess at ba fk berlin de;15;13;2020-10
+4;lagebericht;15;10;2020-10
+31;emission;16;4;2020-09
+20;vornam;17;6;2020-08
+31;grenz;17;5;2020-08
+19;tempelhof schoneberg;17;1;2020-09
+32;arbeitslos;17;7;2020-09
+15;einzugsbereich;18;1;2020-08
+23;polizei;18;4;2020-08
+16;unfall;18;1;2020-09
+18;wms;18;7;2020-09
+25;spandau;18;3;2020-09
+21;lor;19;7;2020-08
+28;wass;19;8;2020-08
+13;list;20;1;2020-08
+41;ortsteil;20;7;2020-08
+13;list der haufig vornam;20;2;2020-09
+30;schul;21;6;2020-08
+9;charlottenburg wilmersdorf;21;2;2020-09
+10;bezirk mitt;21;1;2020-09
+21;schul;21;8;2020-09
+26;ortsteil;21;5;2020-09
+11;wohnlag;22;3;2020-08
+12;park;22;4;2020-08
+16;rbs;22;8;2020-08
+22;strassenverzeichnis;22;4;2020-08
+24;adress;22;7;2020-08
+11;bezirk;22;8;2020-09
+14;treptow kopenick;22;3;2020-09
+33;amt fur statist;22;3;2020-09
+10;einwohn;23;7;2020-08
+20;strass;23;4;2020-09
+27;stadtplan;24;7;2020-08
+8;steglitz zehlendorf;26;2;2020-09
+17;corona;26;14;2020-09
+15;alkis;27;5;2020-09
+7;marzahn hellersdorf;28;1;2020-09
+6;api;29;2;2020-08
+4;mietspiegel;30;3;2020-08
+6;neukolln;30;2;2020-09
+14;bod;31;3;2020-08
+5;corona;32;9;2020-08
+12;shp;36;11;2020-09
+2;friedrichshain kreuzberg;36;21;2020-10
+9;bezirk;38;12;2020-08
+4;lichtenberg;41;3;2020-09
+3;verkehr;43;9;2020-08
+8;atkis;43;2;2020-08
+7;covid 19;46;8;2020-08
+5;lor;46;8;2020-09
+3;mitt;53;3;2020-09
+2;vermess at ba fk berlin de;63;12;2020-09
+1;corona;81;59;2020-10
+1;friedrichshain kreuzberg;109;34;2020-09
+2;vermess at ba fk berlin de;112;16;2020-08
+1;friedrichshain kreuzberg;132;35;2020-08

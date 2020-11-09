@@ -39,7 +39,7 @@ with open("code/categories.json", "r") as read_file:
 
     term_dict = {}
     # load csv that includes the terms
-    with open("data/all_months/processed_al5/1_sum_term_keep_months.csv", 'r') as f:
+    with open("data/all_months/processed_al5/1_sum_term_keep_months_2020.csv", 'r') as f:
         for line in f:
             id_, term, impressions, visits, mon = line.strip().split(',')
             for i, category in enumerate(categories_list.keys()):
@@ -61,7 +61,7 @@ with open("code/categories.json", "r") as read_file:
                     #print(categories_list)
 
             # save term with category to new csv
-            with open('data/all_months/processed_al5/2_categorized.csv', 'w') as newf:
+            with open('data/all_months/processed_al5/2_categorized_2020.csv', 'w') as newf:
                 for term_mon in term_dict.keys():
                     fid, term, imp, vis, category, mon = term_dict[term_mon]
                     newf.write(f"{fid};{term};{imp};{vis};{category};{mon}\n")

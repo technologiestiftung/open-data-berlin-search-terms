@@ -1,0 +1,572 @@
+"","term_stem","impressions","visits"
+"1","corona",81,59
+"2","friedrichshain kreuzberg",36,21
+"3","vermess at ba fk berlin de",15,13
+"4","lagebericht",15,10
+"5","energi",14,1
+"6","wohn",13,1
+"7","flachennutz",10,1
+"8","bodenrichtwert",10,1
+"9","gtfs",9,8
+"10","park",11,5
+"11","lor",12,5
+"12","planungsraum",8,2
+"13","csv",8,3
+"14","baum",12,10
+"15","forst",10,4
+"16","marzahn hellersdorf",7,2
+"17","pankow",7,4
+"18","sgb ii",7,1
+"19","bezirksregion",9,3
+"20","lichtenberg",6,2
+"21","einwohn",9,6
+"22","wald",6,1
+"23","gis",7,4
+"24","bildung",6,1
+"25","arbeitslos",8,3
+"26","bezirk",12,9
+"27","covid 19",12,12
+"28","strass",10,4
+"29","geometri",10,7
+"30","bezirk gesundheitsberichterstatt",5,1
+"31","schul",8,4
+"32","einwohnerzahl",6,4
+"33","location of the restaurant",5,1
+"34","bezirksamt mitt",5,1
+"35","vbb",5,2
+"36","covid",12,10
+"37","grun berlin",5,1
+"38","bezirksgrenz moabit",5,1
+"39","ampel",7,4
+"40","corina",4,4
+"41","corona ampel",9,7
+"42","luft",4,2
+"43","bevolker",5,4
+"44","amt fur statist",6,2
+"45","naturwaldentwicklungsflach",4,1
+"46","denkmal",4,1
+"47","wohnung",7,3
+"48","fahrrad",7,6
+"49","moldaw einwohn",4,1
+"50","wahl",5,3
+"51","rbs",5,4
+"52","datenmodell",4,2
+"53","corona lagebericht",5,4
+"54","trepto kopenick",4,1
+"55","bahn",4,2
+"56","luftbild",8,3
+"57","feinstaub",4,1
+"58","fsc",4,1
+"59","kreuzberg",4,2
+"60","gorlitz",4,1
+"61","justin bieb",3,2
+"62","inzidenz zahl in berlin",3,1
+"63","adress",5,4
+"64","spielplatz",3,2
+"65","inspir datenmodell",3,1
+"66","verkehr",5,4
+"67","jpg",3,1
+"68","family cent childr and youth leisur faciliti",3,1
+"69","wahl geometri",4,3
+"70","grundsicher",3,1
+"71","xls",6,3
+"72","einkomm",3,3
+"73","statist block",3,1
+"74","standort",3,1
+"75","bebauungsplan",4,2
+"76","corona kart",3,2
+"77","geometri wahl",4,2
+"78","shap",3,3
+"79","kfz",3,1
+"80","covid19",6,3
+"81","berlin mau",3,1
+"82","meld krankheit",3,1
+"83","nollendorfplatz",3,1
+"84","treptow kopenick",3,1
+"85","ortsteil",3,1
+"86","rdf",3,2
+"87","lod1",3,2
+"88","albrechtstrass",3,1
+"89","gemark",3,1
+"90","liniennetz",3,2
+"91","population",3,2
+"92","radverkehr",3,3
+"93","stromnetz berlin",2,2
+"94","produkt 80684 produkt or 80684",2,1
+"95","risikogebiet",3,3
+"96","vermess",2,2
+"97","gebiet",2,2
+"98","sport",2,1
+"99","geoinformation",2,1
+"100","covid 19 in berlin schmockwitz kopenick",2,1
+"101","bikesharing",2,1
+"102","atkis",2,1
+"103","parkplatz",4,4
+"104","tourismus",2,2
+"105","tegel",2,2
+"106","list vornam 2019",2,1
+"107","transport",2,2
+"108","covid 19 ampel",2,1
+"109","atlas",2,1
+"110","berlin",2,2
+"111","naturland",3,2
+"112","neuinfektion in berlin in den letzt 7 tag",2,1
+"113","xlsx",4,2
+"114","krankenhaus",4,3
+"115","coronafall in berlin in den letzt 7 tag",2,1
+"116","pdf",4,2
+"117","xml",2,1
+"118","berlin kart",3,2
+"119","fluss",2,2
+"120","produkt 80684",2,1
+"121","erhebungsbog",2,1
+"122","erhol",2,1
+"123","friedhof",3,2
+"124","teufelsberg",2,1
+"125","osl",2,1
+"126","wfs fbint stadt berlin de",2,1
+"127","pressemitteil",2,2
+"128","ordnungsamt",2,1
+"129","inzidenz",3,3
+"130","versiegel",2,1
+"131","zuwend",2,1
+"132","sterb",3,2
+"133","restaurant",3,2
+"134","spandau",2,1
+"135","kita",3,3
+"136","corona berlin",2,1
+"137","bik",2,1
+"138","xls bhkw",2,1
+"139","erhebungsbog fur kontaktperson",2,1
+"140","list",2,1
+"141","inspir",2,2
+"142","almstadtstrass",2,1
+"143","haltestell",3,2
+"144","stadtteil",4,4
+"145","grundstuck",2,1
+"146","netzdat berlin",2,2
+"147","senatsbeschluss vom 04 09 20",2,1
+"148","prenzlau berg",2,1
+"149","corona berlin bezirk",2,1
+"150","miet",2,2
+"151","feinstaubbelast",2,2
+"152","berlin buch",3,2
+"153","nollendorfplaz",2,1
+"154","gesetz hochstaltergrenz sdentasvorlag",2,1
+"155","haushaltsplan",2,1
+"156","traffic",2,2
+"157","wohnlageneinstuf berlin",2,1
+"158","lagebericht corona",3,2
+"159","covid 19 stadtbezirk",2,1
+"160","coronamassnahm",2,1
+"161","baualtersklass",2,1
+"162","bodenrichtwertatlas",2,1
+"163","rad",2,1
+"164","senatsbeschluss 4 09 20",2,1
+"165","corova",2,1
+"166","kriminalitat",2,2
+"167","10367",2,1
+"168","kasern",3,2
+"169","suizid",2,1
+"170","schoneberg",2,2
+"171","naturwaldflach",2,1
+"172","einwohn berlin lor",2,1
+"173","gami 4230",2,1
+"174","baupreisindic",2,1
+"175","grw",2,1
+"176","maskenpflicht",2,1
+"177","anzahl leistungsberechtigt nach sgb ii und sgb xii open data",2,1
+"178","lod",2,2
+"179","plaungsraum",3,2
+"180","list der haufig vornam",2,1
+"181","gesundheitstourismus",2,1
+"182","kindertagesbetreu",2,1
+"183","baupreisindex",2,1
+"184","kindertagesstatt",2,1
+"185","covid 19 berlin gesamt covid or 19 or berlin or gesamt",2,1
+"186","covif",2,1
+"187","detailnetz",2,1
+"188","toilett",2,2
+"189","justizstandort or marzahn hellersdorf",2,1
+"190","corona lag innberlin",2,1
+"191","1900",2,1
+"192","senat fur abbild schul",2,1
+"193","bezirksgrenz",2,1
+"194","shapefil",2,1
+"195","oberspreewald lausitz",4,2
+"196","sozialstruktur pankow",2,1
+"197","rid",2,1
+"198","baupreis",2,1
+"199","summt str",2,1
+"200","wohnblock",3,2
+"201","albrecht",2,1
+"202","markt",2,1
+"203","denkmallist",2,1
+"204","gami 430",2,1
+"205","pflegewohngeld",2,1
+"206","einwohneranzahl",2,1
+"207","aktuell corona zahl fur neukooln",2,1
+"208","covid19 altersgrupp",2,1
+"209","taxi",2,2
+"210","amtsgericht",1,1
+"211","nrw paderborn",1,1
+"212","liv",1,1
+"213","amtsblatt",1,1
+"214","bicycl lan",1,1
+"215","txl 3d",1,1
+"216","13125",1,1
+"217","covot 19 in den bezirk",1,1
+"218","lak",1,1
+"219","bicycl",2,2
+"220","medianeinkomm",1,1
+"221","fahrradweg",2,2
+"222","streckennetz",1,1
+"223","erhebungsbog kontaktperson",1,1
+"224","zeitreih",1,1
+"225","baustell",1,1
+"226","schul kart",1,1
+"227","geometri lor",1,1
+"228","reinickendorf",1,1
+"229","baumschulenweg",1,1
+"230","json",2,2
+"231","corona dashboard bezirk",1,1
+"232","krisenstab",1,1
+"233","list krankenhaus or apothek",1,1
+"234","schul verordn",1,1
+"235","auslast der beherbergungsbetrieb",1,1
+"236","zentral leistungsstell fur asylbewerb zla",1,1
+"237","einwohnerzahl bezirk",1,1
+"238","list der haufig vornam 2019",1,1
+"239","jag",1,1
+"240","street",1,1
+"241","migrationshintergrund",1,1
+"242","platz",1,1
+"243","wfs bahnhof",2,2
+"244","nachkriegszeit",1,1
+"245","unfall or unfall",1,1
+"246","its patient",1,1
+"247","kontakt",1,1
+"248","7 tag inzidenz",1,1
+"249","general practition",1,1
+"250","hoh",1,1
+"251","wett",1,1
+"252","steglitz",1,1
+"253","spk mitt",1,1
+"254","stadt",1,1
+"255","zierbrunn",1,1
+"256","nutzung",1,1
+"257","park rid",1,1
+"258","corona neuinfektion in berlin in den letzt 7 tag",1,1
+"259","covid 19 in berlin 19 19 20",1,1
+"260","2013",1,1
+"261","az 5648086",1,1
+"262","html",1,1
+"263","entgeldtabell",1,1
+"264","hauskoordinatendatenbank",1,1
+"265","alt",1,1
+"266","bodenversiegel",1,1
+"267","bezirksregion berlin schoneberg",1,1
+"268","bad",1,1
+"269","baufertigstell",1,1
+"270","opvn",1,1
+"271","bevolkerungszahl",1,1
+"272","bauwerk",1,1
+"273","corona zahl spandau",1,1
+"274","coronaverteil in den bezirk",1,1
+"275","lufgutemessnetz",1,1
+"276","covid 19 aktuell stand",1,1
+"277","photovoltaikanlag in kwp",1,1
+"278","gart",1,1
+"279","entsorg",1,1
+"280","wohnlag steglitz damm",1,1
+"281","verwaltungsvorschrift",1,1
+"282","list krank",1,1
+"283","kleingart",1,1
+"284","senatsbeschluss 14 01 2020",1,1
+"285","lor 2020",1,1
+"286","spinal",1,1
+"287","lorawan",1,1
+"288","nervous syst",1,1
+"289","fahrrad weg",1,1
+"290","kitas",2,2
+"291","corona hotspot",1,1
+"292","fahrradweg radweg",1,1
+"293","grundwass",1,1
+"294","dtk",1,1
+"295","musik",1,1
+"296","low emission zon",1,1
+"297","hint dem kurpark friedrichshag",1,1
+"298","veith",1,1
+"299","tagesmutt",1,1
+"300","einwohnermeldeamt",1,1
+"301","kfz bestand",1,1
+"302","altpapi",1,1
+"303","pkw",1,1
+"304","neurology",1,1
+"305","berlin kart gebaud",1,1
+"306","pkw bestand",1,1
+"307","kml",1,1
+"308","wann ist corona ansteck",1,1
+"309","coronavirus",1,1
+"310","mittelstand",1,1
+"311","wasserschutzgebiet",1,1
+"312","erwerbstat",1,1
+"313","bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch",1,1
+"314","wfs",2,2
+"315","volkspark",1,1
+"316","caf",1,1
+"317","covid 19 berlin gesamt",1,1
+"318","intensivstation",1,1
+"319","grunewald",1,1
+"320","anzahl leistungsberechtigt",1,1
+"321","ruckenmark",1,1
+"322","rbb",1,1
+"323","erhebungsbog von or sar or cov 2 fall",1,1
+"324","afs",1,1
+"325","reis nach mecklenburg vorpomm",1,1
+"326","neurologi",1,1
+"327","brachflach",1,1
+"328","urbanstrass",1,1
+"329","amtsgericht marzahn hellersdorf",1,1
+"330","bus",1,1
+"331","referenjz",1,1
+"332","mail",1,1
+"333","sgb",1,1
+"334","stadtbezirk",2,2
+"335","corona bezirk",1,1
+"336","denkmalschutz",1,1
+"337","covid 19 in berlin schmockwitz",1,1
+"338","pkw besitz",2,2
+"339","horst dohm stadion",1,1
+"340","anzahl leistungsberechtigt nach sgb",1,1
+"341","covid meld",1,1
+"342","amtsgericht or marzahn hellersdorf",1,1
+"343","parking",1,1
+"344","berlin mitt",1,1
+"345","kitas ohn aussenbereich",1,1
+"346","unfall",2,2
+"347","standortkart",1,1
+"348","klima",1,1
+"349","neuinfektion berlin",1,1
+"350","krankheitsverlauf covid 19",1,1
+"351","covid 19 krankenhaus",1,1
+"352","wasserstand",1,1
+"353","wass",1,1
+"354","hundesteueranmeld",1,1
+"355","stadtplan",1,1
+"356","oberspreewald",1,1
+"357","bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch kita",1,1
+"358","corona aktuell stand",1,1
+"359","motorisier",1,1
+"360","abfall",1,1
+"361","wfs fbint",1,1
+"362","landesforstbetrieb",1,1
+"363","bvg",1,1
+"364","bezirk gesundheitsberichterstatt sozialist blockkart",1,1
+"365","wohnlagenzuordnungsverordn",1,1
+"366","corona ubersicht",1,1
+"367","flurstuck",1,1
+"368","wedding",1,1
+"369","neuinfektion corona",1,1
+"370","stadtereis nach berlin aus risikogebiet stadtereis quarantan",1,1
+"371","kdu av wohn 2020",1,1
+"372","bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch kita solaranlag",1,1
+"373","sar cov 2",1,1
+"374","buchung",2,2
+"375","museum",1,1
+"376","todesfall corona",1,1
+"377","coronalag",1,1
+"378","berlinzulag",1,1
+"379","bezirksregion schoneberg",1,1
+"380","corona beschluss",1,1
+"381","covid 19 in schmockwitz",1,1
+"382","umweltatlas",1,1
+"383","investitionskost",1,1
+"384","einkommensverteil",1,1
+"385","kdu av wohn 2017",1,1
+"386","bezirkskart",1,1
+"387","wbl",1,1
+"388","wahl 2013",1,1
+"389","blk",1,1
+"390","wohnlagenzuordn",1,1
+"391","frost",1,1
+"392","papiercontain",1,1
+"393","sterbefall",1,1
+"394","coron",1,1
+"395","durchschnittseinkomm",1,1
+"396","gastronomi",1,1
+"397","bezirk gesundheitsberichterstatt sozialist",1,1
+"398","diplomat",1,1
+"399","webatlas",1,1
+"400","s 2885",1,1
+"401","geograf koordinat",1,1
+"402","todesrat",1,1
+"403","2018",1,1
+"404","vektor",1,1
+"405","grundwasserspiegel",1,1
+"406","strassennetz",1,1
+"407","sar cov 2 infektionsschutzverordn",1,1
+"408","haltestellenkoordinat",1,1
+"409","hiont dem kurpark friedrichshag",1,1
+"410","telefon",1,1
+"411","wahl 2021",1,1
+"412","txl",1,1
+"413","wasserentnahm",1,1
+"414","150000",1,1
+"415","latern",1,1
+"416","reproduktionsrat",1,1
+"417","bezirk einwohn",1,1
+"418","hakod",1,1
+"419","corona zahl",1,1
+"420","mitt",1,1
+"421","tempelhof",1,1
+"422","nam",1,1
+"423","domain",2,2
+"424","land cov",1,1
+"425","wat",1,1
+"426","petzoldtweg",1,1
+"427","unternehmengrund",1,1
+"428","mobility",1,1
+"429","statist gebiet",1,1
+"430","geo koordinat",1,1
+"431","wfs haltestell",1,1
+"432","lageplan berlin",1,1
+"433","geometri der bezirk",1,1
+"434","corona lag in berlin",1,1
+"435","bezirk gesundheitsberichterstatt sozialist blockkart energieverbrauch kita solaranlag biomass",1,1
+"436","geologi",1,1
+"437","ort",1,1
+"438","corona lag",2,2
+"439","abgeordnet",1,1
+"440","einwohn lor 2018",1,1
+"441","reis",1,1
+"442","corona risikogebiet",2,2
+"443","coronavirus deutschland",1,1
+"444","ø einkomm",1,1
+"445","spz",1,1
+"446","grenz",1,1
+"447","medical wellness",1,1
+"448","olmera",1,1
+"449","covid 19 intensivstation",1,1
+"450","verkehrsnetz",1,1
+"451","lor shp",1,1
+"452","kfz statist gebiet",1,1
+"453","rbs anleit",1,1
+"454","list vornam 2020",1,1
+"455","potsdam mittelmark",1,1
+"456","covid 19 bezirk",2,2
+"457","open data",1,1
+"458","vornam",3,3
+"459","fahrgast",2,2
+"460","religion",1,1
+"461","gesetz hochstaltergrenz senatsvorlag",1,1
+"462","corona in bezirk",1,1
+"463","3d",2,2
+"464","radweg",1,1
+"465","adressauskunft",1,1
+"466","datensatz",1,1
+"467","grun",1,1
+"468","justizstandort",1,1
+"469","erhaltungsgebiet",2,2
+"470","offent verwalt als attraktiv arbeitgeb",1,1
+"471","covid 19 tot",1,1
+"472","tod",2,2
+"473","genossenschaft",1,1
+"474","sozialpadiatri",1,1
+"475","unfall or unfall or verkehr",1,1
+"476","radverkehrsanlag",1,1
+"477","kreuzberg einwohnerdicht",1,1
+"478","neukolln",1,1
+"479","bau und wohn",1,1
+"480","alarm",1,1
+"481","handswerkamm",1,1
+"482","bebau",1,1
+"483","unfall unfall or unfall or verkehr",1,1
+"484","social media",1,1
+"485","kdu av wohn",1,1
+"486","alterstabell covid",1,1
+"487","justizstandort marzahn hellersdorf",1,1
+"488","lebenswelt orientiert raum",1,1
+"489","covid verteil in den bezirk",1,1
+"490","corona fallzahl 30 10 20",1,1
+"491","coronavirus bezirk",1,1
+"492","flug",1,1
+"493","servic url",2,2
+"494","general practittion",1,1
+"495","berlin kart 1900",1,1
+"496","bachelor of law",1,1
+"497","serviceurl",1,1
+"498","corona risikogeniet",1,1
+"499","te",1,1
+"500","wohnlag kart",1,1
+"501","bum",1,1
+"502","geometri der wahlbezirk",1,1
+"503","hauserblock",2,2
+"504","tot corona",1,1
+"505","brunn",1,1
+"506","bodenrichtwert 01 01 2020",1,1
+"507","populationsdicht",1,1
+"508","strass stadtbezirk",1,1
+"509","covid fallzahl",1,1
+"510","covid 19 todesfall",1,1
+"511","spandau corona",1,1
+"512","bezirk geo",1,1
+"513","lidar",1,1
+"514","14 10 2020",1,1
+"515","dienstleist",1,1
+"516","lor plaungsraum",1,1
+"517","wochenmarkt",1,1
+"518","radfahr",1,1
+"519","hochschul",1,1
+"520","lod2",1,1
+"521","unemployment",1,1
+"522","datenformat",1,1
+"523","kmu",1,1
+"524","attraktiv arbeitgeb",1,1
+"525","corona fall in berlin",1,1
+"526","senat fur bildung schul",1,1
+"527","coronakart",1,1
+"528","berlin vor 1900",1,1
+"529","schlesisch bahnhof",1,1
+"530","beleucht",1,1
+"531","wohnlagenzuordn verordn",1,1
+"532","marzahn hellersdorf justizzentrum",1,1
+"533","1800",1,1
+"534","bezirk mitt",1,1
+"535","covid 19 zahl",1,1
+"536","einwohn lor",1,1
+"537","tempolimit",1,1
+"538","ampeln",1,1
+"539","covid erkrank",1,1
+"540","wfs db",1,1
+"541","luftverschmutz",1,1
+"542","vektordat",1,1
+"543","einwohnerdicht",1,1
+"544","flachennutz ortsteil",1,1
+"545","covid steglitz",1,1
+"546","hydrant",2,2
+"547","dgm",1,1
+"548","lag des restaurant",1,1
+"549","sozialversicherungspflicht beschaftigt",1,1
+"550","trodelmarkt",1,1
+"551","poll",1,1
+"552","liegenschaftskart berlin",1,1
+"553","denkmalkart",1,1
+"554","thed",1,1
+"555","senfin",1,1
+"556","wohnwag steglitz damm",1,1
+"557","verwaltungsgrenz",1,1
+"558","hundesteu",1,1
+"559","maskenpflicht in buros",1,1
+"560","geometri bezirk",1,1
+"561","trinkbrunn",1,1
+"562","volkspark prenzlau berg",1,1
+"563","wiebestrass",1,1
+"564","radschnellverbind",1,1
+"565","schutzverordn",1,1
+"566","einwohnerzahl 2019",1,1
+"567","teu",1,1
+"568","fluglarm",1,1
+"569","klr",1,1
+"570","bevolkerungsdicht nach bezirk",1,1
+"571","koln",1,1

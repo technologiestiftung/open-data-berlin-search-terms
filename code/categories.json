@@ -12,7 +12,8 @@
         "arbeitslosenquot",
         "arbeitslosenanteil",
         "beschaftigt",
-        "arbeit"
+        "arbeit",
+        "jugendarbeitslos"
     ],
     "Bildung": [
         "schul",
@@ -33,7 +34,9 @@
         "kindergart",
         "student",
         "grundschul",
-        "einschul"
+        "einschul",
+        "grundschuleinzugsbereich",
+        "einschulungsbereich"
     ],
     "Demographie": [
         "einwohn",
@@ -110,7 +113,13 @@
         "c statist gebiet",
         "alt geschlecht",
         "population",
-        "einwohn 2019"
+        "einwohn 2019",
+        "einwohn nach wohnlag",
+        "einwohnerinn und einwohn mit migrationshintergrund in berlin in lor planungsraum am",
+        "einwohnerinn und einwohn in berlin in lor planungsraum am",
+        "bevolker berlin",
+        "bevolkerungsentwickl",
+        "bevolker berlin 2019"
     ],
     "Geographie und Stadtplanung": [
         "planungsraum",
@@ -311,7 +320,28 @@
         "wfs dat",
         "kreuzberg",
         "tegel",
-        "ubersichtskart"
+        "ubersichtskart",
+        "bebauungsplan",
+        "grunanlagebestand",
+        "c vermess at ba fk berlin de",
+        "c friedrichshain kreuzberg",
+        "charlottenburg wilmersdorf",
+        "treptow kopenick",
+        "tempelhof schoneberg",
+        "mahlsdorf",
+        "bezirk geodat",
+        "alkis berlin gebaud",
+        "k 5",
+        "landschaftsprogramm",
+        "kurt schumach platz",
+        "k5 berlin",
+        "hohenfestpunkt",
+        "bodenrichtwert zum 01 01 2020",
+        "hellersdorf",
+        "stadtgrenz",
+        "bezirksregion",
+        "bezirksgrenz moabit",
+        "nollendorfplatz"
     ],
     "Gesundheit": [
         "corona",
@@ -336,7 +366,11 @@
         "coronavirus",
         "c offent gesundheitsdien",
         "covid",
-        "charit\u00e9"
+        "charit\u00e9",
+        "corona verteil",
+        "bezirk gesundheitsberichterstatt",
+        "corona ampel",
+        "corona lagebericht"
     ],
     "Jugend": [
         "kind",
@@ -375,7 +409,9 @@
         "feuerwehr",
         "personalmanagementbericht",
         "finanz",
-        "bericht"
+        "bericht",
+        "senatsvorlag",
+        "bezirksamt mitt"
     ],
     "Protokolle und Beschl\u00fcsse": [
         "senatsbeschluss"
@@ -490,7 +526,14 @@
         "mensch",
         "21 07 2020",
         "dtk25",
-        "prognos"
+        "prognos",
+        "zip shp",
+        "smart city",
+        "hauptstadtzulag",
+        "hackathon",
+        "lagebericht",
+        "grun berlin",
+        "xls"
     ],
     "Sozialleistungen": [
         "soforthilf ii",
@@ -522,7 +565,9 @@
         "weihnachtsmarkt",
         "trodelmarkt",
         "spielplatz",
-        "tischtennisplatt"
+        "tischtennisplatt",
+        "wochenmarkt",
+        "location of the restaurant"
     ],
     "Tourismus": [
         "hotel",
@@ -574,7 +619,9 @@
         "emission",
         "erdwarm",
         "c berlin gewass",
-        "klimatolog kenndat"
+        "klimatolog kenndat",
+        "co2",
+        "forst"
     ],
     "Ver- und Entsorgung": [
         "entsorg",
@@ -605,7 +652,9 @@
         "strom",
         "solaranlag",
         "entsorg",
-        "abfall"
+        "abfall",
+        "internet",
+        "stromnetz"
     ],
     "Verbraucherschutz": [
         "verbraucherpreis",
@@ -669,7 +718,12 @@
         "bahn",
         "ladesaul",
         "verkehrslenk",
-        "carsharing"
+        "carsharing",
+        "bus",
+        "train",
+        "verkehrszeich",
+        "ampeln",
+        "ampel"
     ],
     "Wahlen": [
         "wahlbezirk",
