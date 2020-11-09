@@ -2,7 +2,7 @@
 
 This repository contains scripts for processing the open dataset of search terms in the [Open Data Portal Berlin](https://daten.berlin.de).
 
-The original dataset and its documentation can be found here: https://daten.berlin.de/datensaetze/zugriffsstatistik-datenberlinde. It contains all search terms and their impressions and visits per month.
+The original dataset and its documentation can be found here: https://daten.berlin.de/datensaetze/suchbegriffe-datenberlinde. It contains all search terms and their impressions and visits per month.
 
 ## Usage
 
