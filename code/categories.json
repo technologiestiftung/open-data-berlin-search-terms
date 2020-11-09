@@ -36,7 +36,8 @@
         "grundschul",
         "einschul",
         "grundschuleinzugsbereich",
-        "einschulungsbereich"
+        "einschulungsbereich",
+        "hochschul"
     ],
     "Demographie": [
         "einwohn",
@@ -119,7 +120,9 @@
         "einwohnerinn und einwohn in berlin in lor planungsraum am",
         "bevolker berlin",
         "bevolkerungsentwickl",
-        "bevolker berlin 2019"
+        "bevolker berlin 2019",
+        "einkomm bezirk",
+        "einwohnerinn und einwohn in den ortsteil berlin am 31 12 2016"
     ],
     "Geographie und Stadtplanung": [
         "planungsraum",
@@ -341,7 +344,17 @@
         "stadtgrenz",
         "bezirksregion",
         "bezirksgrenz moabit",
-        "nollendorfplatz"
+        "nollendorfplatz",
+        "grun und freiflachenbestand",
+        "stadtplan 1990",
+        "strassenverzeichnis lichtenberg",
+        "geobasisdat",
+        "plr",
+        "stadtplan gebiet",
+        "statbezirksgrenz",
+        "babelsberg strass",
+        "liegenschafskatast",
+        "berlin blohmstrass"
     ],
     "Gesundheit": [
         "corona",
@@ -411,7 +424,9 @@
         "finanz",
         "bericht",
         "senatsvorlag",
-        "bezirksamt mitt"
+        "bezirksamt mitt",
+        "senatsverwalt jugend or kostensatz fachleistungsstund",
+        "asylblg"
     ],
     "Protokolle und Beschl\u00fcsse": [
         "senatsbeschluss"
@@ -533,7 +548,24 @@
         "hackathon",
         "lagebericht",
         "grun berlin",
-        "xls"
+        "xls",
+        "einzugsbereich",
+        "mss",
+        "dashboard",
+        "kirch",
+        "geojson",
+        "erwerbstat",
+        "gpx",
+        "bod wfs",
+        "geschossflachenzahl",
+        "e recruiting",
+        "prozess",
+        "schwarzrotgold",
+        "suchbegriff",
+        "citygml",
+        "feuerwerk",
+        "kiez",
+        "viertel"
     ],
     "Sozialleistungen": [
         "soforthilf ii",
@@ -621,7 +653,10 @@
         "c berlin gewass",
         "klimatolog kenndat",
         "co2",
-        "forst"
+        "forst",
+        "luftqualitat",
+        "oberflach",
+        "wasserqualitat"
     ],
     "Ver- und Entsorgung": [
         "entsorg",
@@ -654,7 +689,8 @@
         "entsorg",
         "abfall",
         "internet",
-        "stromnetz"
+        "stromnetz",
+        "gas"
     ],
     "Verbraucherschutz": [
         "verbraucherpreis",
@@ -733,7 +769,8 @@
         "wahllokal 2019",
         "wahlbezirk",
         "wahllokal",
-        "bundestagswahl"
+        "bundestagswahl",
+        "wahl 2013"
     ],
     "Wirtschaft": [
         "unternehm",
@@ -746,7 +783,8 @@
         "geschaftsverteilungsplan",
         "gewerb",
         "grw",
-        "breitband"
+        "breitband",
+        "insolvenz"
     ],
     "Wohnen und Immobilien": [
         "gebaud",
